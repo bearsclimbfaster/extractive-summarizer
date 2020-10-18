@@ -1,0 +1,82 @@
+,Label,Sentence,Words
+0,1,"""Hey, Joe!""","['hey', 'joe']"
+1,2,"There was a time in American life that if you shouted those words on a busy street, or on a factory floor, you might see dozens of people turning expectantly toward you.","['time', 'american', 'life', 'shout', 'word', 'busi', 'street', 'factori', 'floor', 'might', 'see', 'dozen', 'peopl', 'turn', 'expectantli', 'toward']"
+2,3,Joes were everywhere.,"['joe', 'everywher']"
+3,4,"For much of U.S. history, Joseph was one of the top 10 names that families gave to their newborn sons.","['much', 'u.s.', 'histori', 'joseph', 'one', 'top', '10', 'name', 'famili', 'gave', 'newborn', 'son']"
+4,5,"Today, Joe no longer even makes the top 20.","['today', 'joe', 'longer', 'even', 'make', 'top', '20']"
+5,6,"America is ever-changing, in any number of ways, and one of the most fascinating of them can be found in the names mothers and fathers give to their sons and daughters.","['america', 'ever-chang', 'number', 'way', 'one', 'fascin', 'found', 'name', 'mother', 'father', 'give', 'son', 'daughter']"
+6,7,"The Social Security Administration, in addition to sending checks to older Americans, keeps track of the names of the youngest Americans: newborns.","['social', 'secur', 'administr', 'addit', 'send', 'check', 'older', 'american', 'keep', 'track', 'name', 'youngest', 'american', 'newborn']"
+7,8,"The agency does this for bookkeeping purposes: the babies will someday, during their working lives, be a source of revenue for the SSA, and later (assuming Social Security survives) will be recipients of retirement income.","['agenc', 'bookkeep', 'purpos', 'babi', 'someday', 'work', 'live', 'sourc', 'revenu', 'ssa', 'later', 'assum', 'social', 'secur', 'surviv', 'recipi', 'retir', 'incom']"
+8,9,"In the meantime, by compiling the names and their ranking in popularity (the list goes back to the birth year 1880), the agency paints a perpetually in motion portrait of what we are called.","['meantim', 'compil', 'name', 'rank', 'popular', 'list', 'goe', 'back', 'birth', 'year', '1880', 'agenc', 'paint', 'perpetu', 'motion', 'portrait', 'call']"
+9,10,"Read more: Mohammed retakes top spot in English baby names
+
+And what we are called is no longer, in the main, what we were once called.","['read', 'moham', 'retak', 'top', 'spot', 'english', 'babi', 'name', 'call', 'longer', 'main', 'call']"
+10,11,This is probably a good thing -- it is an affirmation of the vitality of a nation moving always into the future.,"['probabl', 'good', 'thing', 'affirm', 'vital', 'nation', 'move', 'alway', 'futur']"
+11,12,"Yet some of the particulars would undoubtedly startle just about every Tom, Dick and Harry.","['yet', 'particular', 'would', 'undoubtedli', 'startl', 'everi', 'tom', 'dick', 'harri']"
+12,13,"Whose three names, as emblemized by that time-honored phrase, were, for much of the 20th century, on the tip of America's tongue.","['whose', 'three', 'name', 'emblem', 'time-honor', 'phrase', 'much', '20th', 'centuri', 'tip', 'america', ""'s"", 'tongu']"
+13,14,"But, according to the SSA's most recent compilations, Thomas no longer makes the top 50 names for newborns.","['accord', 'ssa', ""'s"", 'recent', 'compil', 'thoma', 'longer', 'make', 'top', '50', 'name', 'newborn']"
+14,15,"Dick (formally, Richard) has dropped out of the Hot 100.","['dick', 'formal', 'richard', 'drop', 'hot', '100']"
+15,16,Harry comes in all the way down at No.,"['harri', 'come', 'way']"
+16,17,709.,['709']
+17,18,"The evolution in names has been building in strength for quite a while; it kicked into high gear in the 1970s, '80s and '90s when, according to SSA records, Tylers and Brandons, Brittanys and Kaylas, Ryans and Megans and Heathers and Jasons began to join and supplant the names that had for generations dominated the all-but-static lists.","['evolut', 'name', 'build', 'strength', 'quit', 'kick', 'high', 'gear', '1970', ""'80"", ""'90"", 'accord', 'ssa', 'record', 'tyler', 'brandon', 'brittani', 'kayla', 'ryan', 'megan', 'heather', 'jason', 'began', 'join', 'supplant', 'name', 'gener', 'domin', 'all-but-stat', 'list']"
+18,19,And by now the iconic names of the seemingly not-so-distant past appear destined to be iconic no more.,"['icon', 'name', 'seemingli', 'not-so-dist', 'past', 'appear', 'destin', 'icon']"
+19,20,John?,['john']
+20,21,"John of Johnny Carson, John of John Wayne, John of Johnny Unitas?","['john', 'johnni', 'carson', 'john', 'john', 'wayn', 'john', 'johnni', 'unita']"
+21,22,"John of Johnny Depp (who was born in 1963, when John was the No.","['john', 'johnni', 'depp', 'born', '1963', 'john']"
+22,23,2-most popular name)?,"['2-most', 'popular', 'name']"
+23,24,John has fallen out of the top 25.,"['john', 'fallen', 'top', '25']"
+24,25,Maybe Johnny Football will help him come back.,"['mayb', 'johnni', 'footbal', 'help', 'come', 'back']"
+25,26,"Goodnight, David, goodnight, Chet?","['goodnight', 'david', 'goodnight', 'chet']"
+26,27,"David, once a No.",['david']
+27,28,"1 champion, misses the top 15; Chester is not listed in the top 1,000.","['1', 'champion', 'miss', 'top', '15', 'chester', 'list', 'top', '1,000']"
+28,29,"Bob (formally, Robert) was a longtime (1924 to 1939) No.","['bob', 'formal', 'robert', 'longtim', '1924', '1939']"
+29,30,"1, but today he fails to crack the top 50.","['1', 'today', 'fail', 'crack', 'top', '50']"
+30,31,"In the words of a great mid-'60s song by the Everly Brothers, he's ""Gone, Gone, Gone.""","['word', 'great', ""mid-'60"", 'song', 'everli', 'brother', ""'s"", 'gone', 'gone', 'gone']"
+31,32,Read more: Does your name shape your destiny?,"['read', 'name', 'shape', 'destini']"
+32,33,"(As are the first names of Don and Phil Everly themselves, as far as current popularity goes.","['first', 'name', 'phil', 'everli', 'far', 'current', 'popular', 'goe']"
+33,34,Donald comes in at No.,"['donald', 'come']"
+34,35,"376; Philip -- or Phillip, with the extra ""l"" -- is at No.","['376', 'philip', 'phillip', 'extra', 'l']"
+35,36,406 and/or 378.),"['406', 'and/or', '378']"
+36,37,"So if those once-standard names have vanished from the top 10, who, according to the SSA, are some of the guys who have replaced them in today's top 10?","['once-standard', 'name', 'vanish', 'top', '10', 'accord', 'ssa', 'guy', 'replac', 'today', ""'s"", 'top', '10']"
+37,38,Say hello to Mason.,"['say', 'hello', 'mason']"
+38,39,Meet Ethan.,"['meet', 'ethan']"
+39,40,"Hi there, Jayden.","['hi', 'jayden']"
+40,41,"Nice to make your acquaintance, Aiden.","['nice', 'make', 'acquaint', 'aiden']"
+41,42,And the change is even more dramatic for girls.,"['chang', 'even', 'dramat', 'girl']"
+42,43,"Mary, the most popular female name ever, including an uninterrupted 66-year streak at No.","['mari', 'popular', 'femal', 'name', 'ever', 'includ', 'uninterrupt', '66-year', 'streak']"
+43,44,"1, from 1880 through 1946?","['1', '1880', '1946']"
+44,45,Mary has dropped down to No.,"['mari', 'drop']"
+45,46,112.,['112']
+46,47,"The pattern holds for many of the other female names that were, in the middle of the 20th century, utterly commonplace.","['pattern', 'hold', 'mani', 'femal', 'name', 'middl', '20th', 'centuri', 'utterli', 'commonplac']"
+47,48,Nancy is at No.,['nanci']
+48,49,541 today.,"['541', 'today']"
+49,50,Deborah is at No.,['deborah']
+50,51,808.,['808']
+51,52,Patricia is at No.,['patricia']
+52,53,667.,['667']
+53,54,Barbara is at No.,['barbara']
+54,55,764.,['764']
+55,56,Sandy (as in Sandra) is at No.,"['sandi', 'sandra']"
+56,57,614.,['614']
+57,58,Carol?,['carol']
+58,59,No.,[]
+59,60,972.,['972']
+60,61,And then there's Donna.,"[""'s"", 'donna']"
+61,62,In the late 1950s she was No.,"['late', '1950']"
+62,63,"5, as America danced to ""I had a girl, Donna was her name"" and watched ""The Donna Reed Show"" on television.","['5', 'america', 'danc', 'girl', 'donna', 'name', 'watch', 'donna', 'reed', 'show', 'televis']"
+63,64,"Today Donna has fallen all the way out of the top 1,000.","['today', 'donna', 'fallen', 'way', 'top', '1,000']"
+64,65,"To be replaced in the current top 10 by, among others, Olivia, Ava, Abigail, Madison, Mia and Chloe.","['replac', 'current', 'top', '10', 'among', 'other', 'olivia', 'ava', 'abigail', 'madison', 'mia', 'chloe']"
+65,66,"Read more: Parents name child after Facebook 'Like' button
+
+What accounts for the changes in names and tastes?","['read', 'parent', 'name', 'child', 'facebook', ""'like"", 'button', 'account', 'chang', 'name', 'tast']"
+66,67,"There are probably as many individual reasons as there are names themselves -- everything from shifts in ethnic patterns, to actors, actresses, athletes and singers who inspire new parents mulling over names, to people simply becoming tired of the sound of the old litany of names.","['probabl', 'mani', 'individu', 'reason', 'name', 'everyth', 'shift', 'ethnic', 'pattern', 'actor', 'actress', 'athlet', 'singer', 'inspir', 'new', 'parent', 'mull', 'name', 'peopl', 'simpli', 'becom', 'tire', 'sound', 'old', 'litani', 'name']"
+67,68,Giving a child a name is perhaps the most personal decision a mother and father ever make.,"['give', 'child', 'name', 'perhap', 'person', 'decis', 'mother', 'father', 'ever', 'make']"
+68,69,It is an act of absolute freedom.,"['act', 'absolut', 'freedom']"
+69,70,"The government can't tell you what to name your child, your employers or extended family can't force your hand -- coming up with a name is a parent's first and biggest choice.","['govern', 'ca', ""n't"", 'tell', 'name', 'child', 'employ', 'extend', 'famili', 'ca', ""n't"", 'forc', 'hand', 'come', 'name', 'parent', ""'s"", 'first', 'biggest', 'choic']"
+70,71,One to be celebrated -- as is the country's constant impulse to evolve and start anew.,"['one', 'celebr', 'countri', ""'s"", 'constant', 'impuls', 'evolv', 'start', 'anew']"
+71,72,"There's no logical reason to long for the days of John and Mary, of Nancy and Joe.","[""'s"", 'logic', 'reason', 'long', 'day', 'john', 'mari', 'nanci', 'joe']"
+72,73,That train has left the station.,"['train', 'left', 'station']"
+73,74,"Guided by its pair of trusty engineers, Jacob and Sophia.","['guid', 'pair', 'trusti', 'engin', 'jacob', 'sophia']"
+74,75,Currently the No.,['current']
+75,76,1 names for the youngest members of the American family.,"['1', 'name', 'youngest', 'member', 'american', 'famili']"
+76,77,The opinions expressed in this commentary are solely those of Bob Greene.,"['opinion', 'express', 'commentari', 'sole', 'bob', 'green']"

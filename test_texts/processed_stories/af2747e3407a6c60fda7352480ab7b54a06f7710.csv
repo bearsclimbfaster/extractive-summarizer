@@ -1,0 +1,33 @@
+,Label,Sentence,Words
+0,1,CNN followed two die-hard football fans as they traveled to Rome to watch their teams battle to become champions of Europe.,"['cnn', 'follow', 'two', 'die-hard', 'footbal', 'fan', 'travel', 'rome', 'watch', 'team', 'battl', 'becom', 'champion', 'europ']"
+1,2,Ivan Papell partied until the early hours after seeing Barcelona win the champions League final.,"['ivan', 'papel', 'parti', 'earli', 'hour', 'see', 'barcelona', 'win', 'champion', 'leagu', 'final']"
+2,3,Ivan Papell is a Barcelona fan and managing director of the Spanish arm of a multinational company.,"['ivan', 'papel', 'barcelona', 'fan', 'manag', 'director', 'spanish', 'arm', 'multin', 'compani']"
+3,4,"He is in high spirits today after seeing his team beat Manchester United 2-0, but confesses to being a little tired.","['high', 'spirit', 'today', 'see', 'team', 'beat', 'manchest', 'unit', '2-0', 'confess', 'littl', 'tire']"
+4,5,"He didn't make it to bed until six o'clock this morning after partying the night away with thousands of other Barcelona fans,
+
+""It was a great night for Barcelona, but I've lost my voice from screaming,"" he told CNN.","[""n't"", 'make', 'bed', 'six', ""o'clock"", 'morn', 'parti', 'night', 'away', 'thousand', 'barcelona', 'fan', 'great', 'night', 'barcelona', ""'ve"", 'lost', 'voic', 'scream', 'told', 'cnn']"
+5,6,Manchester United fan Geoff Pearson is a Lecturer in Law at the University of Liverpool in England and lives in Manchester.,"['manchest', 'unit', 'fan', 'geoff', 'pearson', 'lectur', 'law', 'univers', 'liverpool', 'england', 'live', 'manchest']"
+6,7,"He traveled to Moscow to see his team beat Chelsea in last year's Champions League final, but United were unable to repeat their success last night.","['travel', 'moscow', 'see', 'team', 'beat', 'chelsea', 'last', 'year', ""'s"", 'champion', 'leagu', 'final', 'unit', 'unabl', 'repeat', 'success', 'last', 'night']"
+7,8,"""We were outplayed, apart from for the first 10 minutes of the match,"" he admits.","['outplay', 'apart', 'first', '10', 'minut', 'match', 'admit']"
+8,9,"His match ticket cost him $106, but that only accounts for a small part of his expenses.","['match', 'ticket', 'cost', '106', 'account', 'small', 'part', 'expens']"
+9,10,"Pearson couldn't get tickets for a direct flight to Rome -- instead, he had to fly to Milan, then hire a car and drive to Rome, where he stayed for three nights.","['pearson', 'could', ""n't"", 'get', 'ticket', 'direct', 'flight', 'rome', 'instead', 'fli', 'milan', 'hire', 'car', 'drive', 'rome', 'stay', 'three', 'night']"
+10,11,"In total, traveling to the final cost him about $750, but he does not regret making the journey.","['total', 'travel', 'final', 'cost', '750', 'regret', 'make', 'journey']"
+11,12,"Manchester United fan Geoff Pearson doesn't regret traveling to Rome, despite seeing his team lose.","['manchest', 'unit', 'fan', 'geoff', 'pearson', ""n't"", 'regret', 'travel', 'rome', 'despit', 'see', 'team', 'lose']"
+12,13,"""The atmosphere at the match was brilliant,"" he told CNN.","['atmospher', 'match', 'brilliant', 'told', 'cnn']"
+13,14,"""The Manchester United fans did themselves proud.","['manchest', 'unit', 'fan', 'proud']"
+14,15,"They outnumbered the Barcelona fans and made more noise.""","['outnumb', 'barcelona', 'fan', 'made', 'nois']"
+15,16,How much have you paid to see your team play abroad?,"['much', 'paid', 'see', 'team', 'play', 'abroad']"
+16,17,"Sound Off below
+
+While Pearson was impressed by the atmosphere inside Rome's Stadio Olimpico, he says he and other traveling Manchester United fans had difficulty getting to the match.","['sound', 'pearson', 'impress', 'atmospher', 'insid', 'rome', ""'s"", 'stadio', 'olimpico', 'say', 'travel', 'manchest', 'unit', 'fan', 'difficulti', 'get', 'match']"
+17,18,"He says the fans' bus was delayed up by police and that there was a crush to get through the turnstiles into the stadium, putting it down to ""the usual chaos of Italian away matches.""","['say', 'fan', 'bu', 'delay', 'polic', 'crush', 'get', 'turnstil', 'stadium', 'put', 'usual', 'chao', 'italian', 'away', 'match']"
+18,19,"Papell had no such trouble getting to the game and, sitting with Manchester United fans, he says he was impressed by their sporting behavior.","['papel', 'troubl', 'get', 'game', 'sit', 'manchest', 'unit', 'fan', 'say', 'impress', 'sport', 'behavior']"
+19,20,"He says that many United fans congratulated him after the match, telling him Barcelona had deserved to win.","['say', 'mani', 'unit', 'fan', 'congratul', 'match', 'tell', 'barcelona', 'deserv', 'win']"
+20,21,After seeing Barcelona beat the reigning European Champions Papell was justifiably proud of his team's performance.,"['see', 'barcelona', 'beat', 'reign', 'european', 'champion', 'papel', 'justifi', 'proud', 'team', ""'s"", 'perform']"
+21,22,"""Barcelona were lucky to have scored first, but after that it was the sort of match Barcelona wanted.","['barcelona', 'lucki', 'score', 'first', 'sort', 'match', 'barcelona', 'want']"
+22,23,"Manchester United were always behind the ball and Barcelona dominated the game,"" he said.","['manchest', 'unit', 'alway', 'behind', 'ball', 'barcelona', 'domin', 'game', 'said']"
+23,24,"""I was expecting more from Manchester United but Barcelona can play the ball very fast and they make it hard for other teams.""","['expect', 'manchest', 'unit', 'barcelona', 'play', 'ball', 'fast', 'make', 'hard', 'team']"
+24,25,"While Papell catches up on some sleep, Pearson has to catch a train to Milan this afternoon, before flying back to England tomorrow morning.","['papel', 'catch', 'sleep', 'pearson', 'catch', 'train', 'milan', 'afternoon', 'fli', 'back', 'england', 'tomorrow', 'morn']"
+25,26,"""It was definitely worth it,"" he said.","['definit', 'worth', 'said']"
+26,27,"""It was a European final and they don't come round every year.""","['european', 'final', ""n't"", 'come', 'round', 'everi', 'year']"
+27,28,"But if the United and Barcelona do make it to next year's final, Pearson and Pappell will no doubt be in Madrid to cheer them on.","['unit', 'barcelona', 'make', 'next', 'year', ""'s"", 'final', 'pearson', 'pappel', 'doubt', 'madrid', 'cheer']"

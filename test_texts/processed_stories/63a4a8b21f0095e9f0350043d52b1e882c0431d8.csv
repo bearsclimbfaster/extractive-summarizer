@@ -1,0 +1,53 @@
+,Label,Sentence,Words
+0,1,"On first glance, the new, never-to-be-actually-named iPad is exactly the same as its predecessor: Same size, same price, same colors.","['first', 'glanc', 'new', 'never-to-be-actually-nam', 'ipad', 'exactli', 'predecessor', 'size', 'price', 'color']"
+1,2,But guts count for something.,"['gut', 'count', 'someth']"
+2,3,And the guts of the new iPad -- don't you dare call it iPad 3 -- are what make this tablet computer a step forward from the iPad 2.,"['gut', 'new', 'ipad', ""n't"", 'dare', 'call', 'ipad', '3', 'make', 'tablet', 'comput', 'step', 'forward', 'ipad', '2']"
+3,4,"They're also what give Apple execs some room to claim this device as ""amazing"" and ""revolutionary,"" rather than run-of-the-mill and incremental.","[""'re"", 'also', 'give', 'appl', 'exec', 'room', 'claim', 'devic', 'amaz', 'revolutionari', 'rather', 'run-of-the-mil', 'increment']"
+4,5,The truth is that the new Apple iPad probably falls somewhere in the middle.,"['truth', 'new', 'appl', 'ipad', 'probabl', 'fall', 'somewher', 'middl']"
+5,6,It's neither dud nor game-changer.,"[""'s"", 'neither', 'dud', 'game-chang']"
+6,7,I got to handle the new tablet for a few minutes after Apple's launch event Wednesday.,"['got', 'handl', 'new', 'tablet', 'minut', 'appl', ""'s"", 'launch', 'event', 'wednesday']"
+7,8,"My first impressions:
+
+The screen
+
+The main upgrade is the screen, which is markedly crisper.","['first', 'impress', 'screen', 'main', 'upgrad', 'screen', 'markedli', 'crisper']"
+8,9,"Apple says it quadrupled the number of pixels on the iPad's 9.7-inch display to the point that there are now 3.1 million pixels on the screen, with a total resolution of 2048 by 1536 pixels.","['appl', 'say', 'quadrupl', 'number', 'pixel', 'ipad', ""'s"", '9.7-inch', 'display', 'point', '3.1', 'million', 'pixel', 'screen', 'total', 'resolut', '2048', '1536', 'pixel']"
+9,10,"Color saturation on the device was increased 44% relative to the iPad 2, the company says.","['color', 'satur', 'devic', 'increas', '44', 'rel', 'ipad', '2', 'compani', 'say']"
+10,11,"""Your retina in your eye cannot discern those individual pixels,"" Apple's Phil Schiller said at the news conference.","['retina', 'eye', 'discern', 'individu', 'pixel', 'appl', ""'s"", 'phil', 'schiller', 'said', 'news', 'confer']"
+11,12,"""The images on it look stunning.""","['imag', 'look', 'stun']"
+12,13,"CNNMoney: New iPad up close
+
+That's not overstatement.","['cnnmoney', 'new', 'ipad', 'close', ""'s"", 'overstat']"
+13,14,Images do seem to have jumped out of the real world.,"['imag', 'seem', 'jump', 'real', 'world']"
+14,15,"That's good for people who want to watch movies, look at photos and play games on the new iPad.","[""'s"", 'good', 'peopl', 'want', 'watch', 'movi', 'look', 'photo', 'play', 'game', 'new', 'ipad']"
+15,16,It also could be a big step forward for people who want to read digital books on the device.,"['also', 'could', 'big', 'step', 'forward', 'peopl', 'want', 'read', 'digit', 'book', 'devic']"
+16,17,"Enlarge the text on the latest-gen iPad, and the letters maintain their quality.","['enlarg', 'text', 'latest-gen', 'ipad', 'letter', 'maintain', 'qualiti']"
+17,18,"The edges of the fonts are perfectly smooth, as if they're molded from plastic.","['edg', 'font', 'perfectli', 'smooth', ""'re"", 'mold', 'plastic']"
+18,19,"""One of the iPad's biggest competitors has been paper,"" said Nick Bilton, a tech columnist at The New York Times, ""and now this is better than paper.""","['one', 'ipad', ""'s"", 'biggest', 'competitor', 'paper', 'said', 'nick', 'bilton', 'tech', 'columnist', 'new', 'york', 'time', 'better', 'paper']"
+19,20,"Gaming
+
+Another new feature of the guts: The A5X ""quad-core"" chip, which is supposed to help render graphics much more quickly.","['game', 'anoth', 'new', 'featur', 'gut', 'a5x', 'quad-cor', 'chip', 'suppos', 'help', 'render', 'graphic', 'much', 'quickli']"
+20,21,"This could be a boon for gamers, who likely will see high-resolution and more graphics-intensive games coming out for the tablet.","['could', 'boon', 'gamer', 'like', 'see', 'high-resolut', 'graphics-intens', 'game', 'come', 'tablet']"
+21,22,"In a short demo on Wednesday, a flying game called ""Sky Gamblers"" looked like nothing you would expect to see on a mobile device.","['short', 'demo', 'wednesday', 'fli', 'game', 'call', 'sky', 'gambler', 'look', 'like', 'noth', 'would', 'expect', 'see', 'mobil', 'devic']"
+22,23,"Mountains and valleys appear photo-realistic, and the steam coming out of the back of the plane warps the sky around it.","['mountain', 'valley', 'appear', 'photo-realist', 'steam', 'come', 'back', 'plane', 'warp', 'sky', 'around']"
+23,24,"During its presentation, Apple highlighted gaming as a big advantage of the latest iPad.","['present', 'appl', 'highlight', 'game', 'big', 'advantag', 'latest', 'ipad']"
+24,25,"""This new device has more memory and higher screen resolution than an Xbox 360 or a PlayStation 3,"" said Mike Capps, president of Epic Games.","['new', 'devic', 'memori', 'higher', 'screen', 'resolut', 'xbox', '360', 'playstat', '3', 'said', 'mike', 'capp', 'presid', 'epic', 'game']"
+25,26,"Apps
+
+Apple announced several new ones, and while these should work on older versions of the iPad, they're designed to take advantage of the new tablet's better screen.","['app', 'appl', 'announc', 'sever', 'new', 'one', 'work', 'older', 'version', 'ipad', ""'re"", 'design', 'take', 'advantag', 'new', 'tablet', ""'s"", 'better', 'screen']"
+26,27,iPhoto is among the standouts.,"['iphoto', 'among', 'standout']"
+27,28,"Apple's photo-organization software really comes to life on the high-def iPad, where users will be able to sharpen their photos with new features.","['appl', ""'s"", 'photo-organ', 'softwar', 'realli', 'come', 'life', 'high-def', 'ipad', 'user', 'abl', 'sharpen', 'photo', 'new', 'featur']"
+28,29,"One detects the horizon in a landscape photo and, with the tap of a finger, will make it perfectly level.","['one', 'detect', 'horizon', 'landscap', 'photo', 'tap', 'finger', 'make', 'perfectli', 'level']"
+29,30,"Another lets users rub a finger over a section of a photograph to lighten, darken or soften it.","['anoth', 'let', 'user', 'rub', 'finger', 'section', 'photograph', 'lighten', 'darken', 'soften']"
+30,31,It makes photo editing more hands-on and intuitive than before.,"['make', 'photo', 'edit', 'hands-on', 'intuit']"
+31,32,"Connectivity
+
+While it's far from clear that tablet owners really want to connect to the Internet over cellular data networks (rather than Wi-Fi, which is often free but, of course, isn't available everywhere), the new iPad has 4G capabilities for those who do.","['connect', ""'s"", 'far', 'clear', 'tablet', 'owner', 'realli', 'want', 'connect', 'internet', 'cellular', 'data', 'network', 'rather', 'wi-fi', 'often', 'free', 'cours', ""n't"", 'avail', 'everywher', 'new', 'ipad', '4g', 'capabl']"
+32,33,"In a demo, Apple reps showed videos loading considerably faster on the new iPad than on the iPad 2.","['demo', 'appl', 'rep', 'show', 'video', 'load', 'consider', 'faster', 'new', 'ipad', 'ipad', '2']"
+33,34,"Again, this plays into Apple's hope that this will be an even-better device for viewing media.","['play', 'appl', ""'s"", 'hope', 'even-bett', 'devic', 'view', 'media']"
+34,35,"""This new iPad has the most wireless bands of any device that has ever shipped, and it is truly revolutionary,"" Apple's Phil Schiller said during a news conference.","['new', 'ipad', 'wireless', 'band', 'devic', 'ever', 'ship', 'truli', 'revolutionari', 'appl', ""'s"", 'phil', 'schiller', 'said', 'news', 'confer']"
+35,36,"Who's to say whether these updates will lead people to want to purchase the new iPad, or to upgrade from a previous version.","[""'s"", 'say', 'whether', 'updat', 'lead', 'peopl', 'want', 'purchas', 'new', 'ipad', 'upgrad', 'previou', 'version']"
+36,37,"Nothing about the iPad was completely overhauled, but the overall user experience is crisper and speedier than before.","['noth', 'ipad', 'complet', 'overhaul', 'overal', 'user', 'experi', 'crisper', 'speedier']"
+37,38,We'll leave you to be the judge.,"[""'ll"", 'leav', 'judg']"
+38,39,Let us know what you think of these updates in the comments section.,"['let', 'us', 'know', 'think', 'updat', 'comment', 'section']"
+39,40,Does this new iPad sound like it's worth the cash?,"['new', 'ipad', 'sound', 'like', ""'s"", 'worth', 'cash']"

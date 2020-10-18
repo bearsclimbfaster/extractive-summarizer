@@ -1,0 +1,21 @@
+,Label,Sentence,Words
+0,1,"A listeria outbreak linked to cheese might have killed one person and sickened four others in four states, the Food and Drug Administration said Wednesday.","['listeria', 'outbreak', 'link', 'chees', 'might', 'kill', 'one', 'person', 'sicken', 'four', 'other', 'four', 'state', 'food', 'drug', 'administr', 'said', 'wednesday']"
+1,2,One of the cases was a pregnant woman who suffered a miscarriage.,"['one', 'case', 'pregnant', 'woman', 'suffer', 'miscarriag']"
+2,3,"The listeriosis is linked to Les Freres cheese distributed by Crave Brothers Farmstead Classics, a Wisconsin producer, the FDA said.","['listeriosi', 'link', 'le', 'frere', 'chees', 'distribut', 'crave', 'brother', 'farmstead', 'classic', 'wisconsin', 'produc', 'fda', 'said']"
+3,4,"All of those sickened were infected with the same strain of listeriosis, the FDA said.","['sicken', 'infect', 'strain', 'listeriosi', 'fda', 'said']"
+4,5,"Two cases were in Minnesota, both involving older adults who were hospitalized after eating the cheese, the Minnesota Health and Agriculture departments said.","['two', 'case', 'minnesota', 'involv', 'older', 'adult', 'hospit', 'eat', 'chees', 'minnesota', 'health', 'agricultur', 'depart', 'said']"
+5,6,One later died.,"['one', 'later', 'die']"
+6,7,"The other states involved are Illinois, Indiana and Ohio.","['state', 'involv', 'illinoi', 'indiana', 'ohio']"
+7,8,"The Minnesota Department of Agriculture is testing samples of the cheese and early results indicate the presence of listeria, though confirmation is pending.","['minnesota', 'depart', 'agricultur', 'test', 'sampl', 'chees', 'earli', 'result', 'indic', 'presenc', 'listeria', 'though', 'confirm', 'pend']"
+8,9,"Minnesota health officials are warning consumers not to consume the Les Freres, Petit Frere and Petit Frere with Truffles cheeses.","['minnesota', 'health', 'offici', 'warn', 'consum', 'consum', 'le', 'frere', 'petit', 'frere', 'petit', 'frere', 'truffl', 'chees']"
+9,10,The state's Department of Agriculture has advised grocery stores and distributors to pull the products until it gets further information.,"['state', ""'s"", 'depart', 'agricultur', 'advis', 'groceri', 'store', 'distributor', 'pull', 'product', 'get', 'inform']"
+10,11,"The people who became ill ranged in age from 31 to 67 and were diagnosed between May 20 and June 17, the FDA said.","['peopl', 'becam', 'ill', 'rang', 'age', '31', '67', 'diagnos', 'may', '20', 'june', '17', 'fda', 'said']"
+11,12,"One case in a pregnant woman resulted in a miscarriage, the FDA said.","['one', 'case', 'pregnant', 'woman', 'result', 'miscarriag', 'fda', 'said']"
+12,13,"Listeriosis is a serious infection usually caused by eating food contaminated with the bacterium Listeria monocytogenes, according to the Centers for Disease Control and Prevention.","['listeriosi', 'seriou', 'infect', 'usual', 'caus', 'eat', 'food', 'contamin', 'bacterium', 'listeria', 'monocytogen', 'accord', 'center', 'diseas', 'control', 'prevent']"
+13,14,"The disease primarily affects older adults, pregnant women, newborns and adults with weakened immune systems.","['diseas', 'primarili', 'affect', 'older', 'adult', 'pregnant', 'women', 'newborn', 'adult', 'weaken', 'immun', 'system']"
+14,15,"A person with listeriosis usually has fever and muscle aches, sometimes preceded by diarrhea or other gastrointestinal symptoms, the CDC says.","['person', 'listeriosi', 'usual', 'fever', 'muscl', 'ach', 'sometim', 'preced', 'diarrhea', 'gastrointestin', 'symptom', 'cdc', 'say']"
+15,16,"They might also have headaches, a stiff neck, confusion, loss of balance or convulsions.","['might', 'also', 'headach', 'stiff', 'neck', 'confus', 'loss', 'balanc', 'convuls']"
+16,17,"Pregnant women typically experience fever and other nonspecific symptoms, such as fatigue and aches, but infections during pregnancy can lead to miscarriage, stillbirth, premature deliver, or life-threatening infection of the newborn.","['pregnant', 'women', 'typic', 'experi', 'fever', 'nonspecif', 'symptom', 'fatigu', 'ach', 'infect', 'pregnanc', 'lead', 'miscarriag', 'stillbirth', 'prematur', 'deliv', 'life-threaten', 'infect', 'newborn']"
+17,18,"What you need to know about listeria
+
+How to protect yourself from food poisoning","['need', 'know', 'listeria', 'protect', 'food', 'poison']"

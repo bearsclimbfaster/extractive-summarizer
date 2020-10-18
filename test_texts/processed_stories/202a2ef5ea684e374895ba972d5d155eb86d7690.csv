@@ -1,0 +1,21 @@
+,Label,Sentence,Words
+0,1,"Hurricane Isaac contributed to a moist air mass that brought torrential rainfall and street flooding Tuesday in Charleston, South Carolina, officials said.","['hurrican', 'isaac', 'contribut', 'moist', 'air', 'mass', 'brought', 'torrenti', 'rainfal', 'street', 'flood', 'tuesday', 'charleston', 'south', 'carolina', 'offici', 'said']"
+1,2,"By evening, between 4 and 8 inches had fallen across the low-lying metropolitan area.","['even', '4', '8', 'inch', 'fallen', 'across', 'low-li', 'metropolitan', 'area']"
+2,3,"""We were stranded and had to be rescued ourselves,"" said Charleston County spokeswoman Tracey Amick.","['strand', 'rescu', 'said', 'charleston', 'counti', 'spokeswoman', 'tracey', 'amick']"
+3,4,"""Our car had water coming through the doors.","['car', 'water', 'come', 'door']"
+4,5,It's ridiculous right now.,"[""'s"", 'ridicul', 'right']"
+5,6,"There are trash cans floating down the street, cars stuck, people trying to get through these flooded streets on bicycles.""","['trash', 'can', 'float', 'street', 'car', 'stuck', 'peopl', 'tri', 'get', 'flood', 'street', 'bicycl']"
+6,7,"The tropical moisture, combined with a trough of low pressure off the coast, prompted a flash-flood warning in the city that was to continue until 12:30 a.m. Wednesday.","['tropic', 'moistur', 'combin', 'trough', 'low', 'pressur', 'coast', 'prompt', 'flash-flood', 'warn', 'citi', 'continu', '12:30', 'a.m.', 'wednesday']"
+7,8,"About 20 vehicles were stranded on streets at one time, said meteorologist Vern Beaver of the National Weather Service.","['20', 'vehicl', 'strand', 'street', 'one', 'time', 'said', 'meteorologist', 'vern', 'beaver', 'nation', 'weather', 'servic']"
+8,9,Heavy flooding also was reported in Mount Pleasant and North Charleston.,"['heavi', 'flood', 'also', 'report', 'mount', 'pleasant', 'north', 'charleston']"
+9,10,The College of Charleston reported 5 inches of rainfall by 7 p.m. Tuesday.,"['colleg', 'charleston', 'report', '5', 'inch', 'rainfal', '7', 'p.m.', 'tuesday']"
+10,11,"West Ashley reported 7.5 inches, as did Daniel Island.","['west', 'ashley', 'report', '7.5', 'inch', 'daniel', 'island']"
+11,12,Significant flooding was reported near the Historic Charleston City Market.,"['signific', 'flood', 'report', 'near', 'histor', 'charleston', 'citi', 'market']"
+12,13,"The worst of the flooding appeared over late Tuesday, forecasters said.","['worst', 'flood', 'appear', 'late', 'tuesday', 'forecast', 'said']"
+13,14,Senior forecaster Steven Taylor said most of the rain Tuesday afternoon fell during low tide.,"['senior', 'forecast', 'steven', 'taylor', 'said', 'rain', 'tuesday', 'afternoon', 'fell', 'low', 'tide']"
+14,15,Winds were pushing slightly above normal tides in downtown Charleston.,"['wind', 'push', 'slightli', 'normal', 'tide', 'downtown', 'charleston']"
+15,16,"""If we get heavy rain to fall during high tide, the flooding level will only increase,"" he said.","['get', 'heavi', 'rain', 'fall', 'high', 'tide', 'flood', 'level', 'increas', 'said']"
+16,17,"Beaver expected rain to continue into Thursday, although it won't be as heavy as Tuesday's downpour.","['beaver', 'expect', 'rain', 'continu', 'thursday', 'although', 'wo', ""n't"", 'heavi', 'tuesday', ""'s"", 'downpour']"
+17,18,"Preparing for a storm: Links, tips and resources
+
+CNN's Nick Valencia and Phil Gast contributed to this report,.","['prepar', 'storm', 'link', 'tip', 'resourc', 'cnn', ""'s"", 'nick', 'valencia', 'phil', 'gast', 'contribut', 'report']"

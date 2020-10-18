@@ -1,0 +1,49 @@
+,Label,Sentence,Words
+0,1,Sorry seems to be the hardest word.,"['sorri', 'seem', 'hardest', 'word']"
+1,2,"The latest Ferguson confrontation isn't taking place on the streets of the beleaguered city, but between the St. Louis County Police Department and the St. Louis Rams football team -- over an apology, or lack thereof.","['latest', 'ferguson', 'confront', ""n't"", 'take', 'place', 'street', 'beleagu', 'citi', 'st.', 'loui', 'counti', 'polic', 'depart', 'st.', 'loui', 'ram', 'footbal', 'team', 'apolog', 'lack', 'thereof']"
+2,3,"The brouhaha started silently when five Rams players took to the field Sunday with their palms in the air -- showing the ""hands up, don't shoot"" gesture used by protesters decrying the police shooting death of unarmed black teen Michael Brown.","['brouhaha', 'start', 'silent', 'five', 'ram', 'player', 'took', 'field', 'sunday', 'palm', 'air', 'show', 'hand', ""n't"", 'shoot', 'gestur', 'use', 'protest', 'decri', 'polic', 'shoot', 'death', 'unarm', 'black', 'teen', 'michael', 'brown']"
+3,4,"The St. Louis Police Officers Association was furious, saying the players ""chose to ignore the mountains of evidence released from the St. Louis County Grand Jury"" after the jurors decided not to indict former Ferguson Officer Darren Wilson.","['st.', 'loui', 'polic', 'offic', 'associ', 'furiou', 'say', 'player', 'chose', 'ignor', 'mountain', 'evid', 'releas', 'st.', 'loui', 'counti', 'grand', 'juri', 'juror', 'decid', 'indict', 'former', 'ferguson', 'offic', 'darren', 'wilson']"
+4,5,A Rams official spoke with police Monday.,"['ram', 'offici', 'spoke', 'polic', 'monday']"
+5,6,"And that's when the he-said, he-said started.","[""'s"", 'he-said', 'he-said', 'start']"
+6,7,St. Louis County Police Chief Jon Belmar sent an e-mail to his staff saying the Rams' chief operating officer called him Monday to apologize.,"['st.', 'loui', 'counti', 'polic', 'chief', 'jon', 'belmar', 'sent', 'e-mail', 'staff', 'say', 'ram', 'chief', 'oper', 'offic', 'call', 'monday', 'apolog']"
+7,8,"""I received a very nice call this morning from Mr. Kevin Demoff of the St. Louis Rams who wanted to take the opportunity to apologize to our department on behalf of the Rams for the ""Hands Up"" gesture that some players took the field with yesterday,"" Belmar wrote in the e-mail, according to the St. Louis Post-Dispatch.","['receiv', 'nice', 'call', 'morn', 'mr.', 'kevin', 'demoff', 'st.', 'loui', 'ram', 'want', 'take', 'opportun', 'apolog', 'depart', 'behalf', 'ram', 'hand', 'gestur', 'player', 'took', 'field', 'yesterday', 'belmar', 'wrote', 'e-mail', 'accord', 'st.', 'loui', 'post-dispatch']"
+8,9,But the Rams said that's just not true.,"['ram', 'said', ""'s"", 'true']"
+9,10,"""We did not apologize,"" Rams spokesman Artis Twyman told CNN.","['apolog', 'ram', 'spokesman', 'arti', 'twyman', 'told', 'cnn']"
+10,11,"The team issued a statement saying the organization had ""positive discussions"" Monday with Belmar and other police officials ""during which we expressed our respect for their concerns surrounding yesterday's game.""","['team', 'issu', 'statement', 'say', 'organ', 'posit', 'discuss', 'monday', 'belmar', 'polic', 'offici', 'express', 'respect', 'concern', 'surround', 'yesterday', ""'s"", 'game']"
+11,12,Police took issue with the Rams' saying they didn't apologize and aired their grievances on Twitter.,"['polic', 'took', 'issu', 'ram', 'say', ""n't"", 'apolog', 'air', 'grievanc', 'twitter']"
+12,13,"""Apology: 'expression of regret for not being able to do something"" @kdemoff: ""I regretted any offense their officers may have taken,'"" St. Louis County Police tweeted Monday night.","['apolog', ""'express"", 'regret', 'abl', 'someth', 'kdemoff', 'regret', 'offens', 'offic', 'may', 'taken', 'st.', 'loui', 'counti', 'polic', 'tweet', 'monday', 'night']"
+13,14,The Rams didn't respond to the digital jab.,"['ram', ""n't"", 'respond', 'digit', 'jab']"
+14,15,But others sure did.,"['other', 'sure']"
+15,16,"""You guys should be more petty,"" one person tweeted.","['guy', 'petti', 'one', 'person', 'tweet']"
+16,17,"""You're acting like five year olds.","[""'re"", 'act', 'like', 'five', 'year', 'old']"
+17,18,"Grow up,"" another wrote.","['grow', 'anoth', 'wrote']"
+18,19,"Police leaders meet with Rams officials
+
+Aside from the semantics of the phone call, leaders from the St. Louis Police Officers Association and the St. Louis County Police Association met with team officials Monday.","['polic', 'leader', 'meet', 'ram', 'offici', 'asid', 'semant', 'phone', 'call', 'leader', 'st.', 'loui', 'polic', 'offic', 'associ', 'st.', 'loui', 'counti', 'polic', 'associ', 'met', 'team', 'offici', 'monday']"
+19,20,"The talks were ""productive but very preliminary,"" police said.","['talk', 'product', 'preliminari', 'polic', 'said']"
+20,21,They are expected to continue later in the week.,"['expect', 'continu', 'later', 'week']"
+21,22,"""We made some progress today and we had a healthy interaction with the Rams,"" SLPOA business manager Jeff Roorda said in a statement after the meeting.","['made', 'progress', 'today', 'healthi', 'interact', 'ram', 'slpoa', 'busi', 'manag', 'jeff', 'roorda', 'said', 'statement', 'meet']"
+22,23,"""We feel strongly that they better understand our perspective and the perspective of the law-abiding citizens that support law enforcement.""","['feel', 'strongli', 'better', 'understand', 'perspect', 'perspect', 'law-abid', 'citizen', 'support', 'law', 'enforc']"
+23,24,"The Rams also issued a statement, saying the team will ""continue to build on what have always been strong and valued relationships with local law enforcement and the greater St. Louis community as we come together to help heal our region.""","['ram', 'also', 'issu', 'statement', 'say', 'team', 'continu', 'build', 'alway', 'strong', 'valu', 'relationship', 'local', 'law', 'enforc', 'greater', 'st.', 'loui', 'commun', 'come', 'togeth', 'help', 'heal', 'region']"
+24,25,"The SLPOA had called for the five Rams to be disciplined, but both the NFL and the team's head coach said that won't happen.","['slpoa', 'call', 'five', 'ram', 'disciplin', 'nfl', 'team', ""'s"", 'head', 'coach', 'said', 'wo', ""n't"", 'happen']"
+25,26,"""They are exercising their right to free speech,"" Rams Head Coach Jeff Fisher said.","['exercis', 'right', 'free', 'speech', 'ram', 'head', 'coach', 'jeff', 'fisher', 'said']"
+26,27,"Share your view
+
+What the Rams players said
+
+The five Rams players who quietly protested on the field -- Stedman Bailey, Tavon Austin, Jared Cook, Chris Givens and Kenny Britt -- faced a barrage of questions after their gesture.","['share', 'view', 'ram', 'player', 'said', 'five', 'ram', 'player', 'quietli', 'protest', 'field', 'stedman', 'bailey', 'tavon', 'austin', 'jare', 'cook', 'chri', 'given', 'kenni', 'britt', 'face', 'barrag', 'question', 'gestur']"
+27,28,They told CNN affiliate KSDK that they came up with the idea just before the game and wanted to show solidarity with the St. Louis area community.,"['told', 'cnn', 'affili', 'ksdk', 'came', 'idea', 'game', 'want', 'show', 'solidar', 'st.', 'loui', 'area', 'commun']"
+28,29,"""We wanted to do something.","['want', 'someth']"
+29,30,...,[]
+30,31,"This is our community,"" Cook said.","['commun', 'cook', 'said']"
+31,32,The tight end said he hasn't had time to go to Ferguson because he's been busy with the season and because the area is dangerous and he doesn't want to get caught up in the violence.,"['tight', 'end', 'said', ""n't"", 'time', 'go', 'ferguson', ""'s"", 'busi', 'season', 'area', 'danger', ""n't"", 'want', 'get', 'caught', 'violenc']"
+32,33,"But at some point, ""definitely I will be making my trip to Ferguson,"" Cook said.","['point', 'definit', 'make', 'trip', 'ferguson', 'cook', 'said']"
+33,34,Bailey stressed that the players' move was just a way to show support for their community.,"['bailey', 'stress', 'player', 'move', 'way', 'show', 'support', 'commun']"
+34,35,"""The violence should stop,"" he told KSDK.","['violenc', 'stop', 'told', 'ksdk']"
+35,36,"""We just want it to stop.""","['want', 'stop']"
+36,37,"Austin said Brown's death and the ensuing violence was ""a tragedy, period.""","['austin', 'said', 'brown', ""'s"", 'death', 'ensu', 'violenc', 'tragedi', 'period']"
+37,38,"""There are things out there bigger than football,"" he said.","['thing', 'bigger', 'footbal', 'said']"
+38,39,"""And we notice that.""",['notic']
+39,40,"Complete coverage of what's happening in Ferguson
+
+CNN's Ashley Fantz, Dave Alsup, Wayne Sterling and Ryan Sloane contributed to this story.","['complet', 'coverag', ""'s"", 'happen', 'ferguson', 'cnn', ""'s"", 'ashley', 'fantz', 'dave', 'alsup', 'wayn', 'sterl', 'ryan', 'sloan', 'contribut', 'stori']"

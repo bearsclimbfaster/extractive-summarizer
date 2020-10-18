@@ -1,0 +1,50 @@
+,Label,Sentence,Words
+0,1,"He's still a teenager, but Wilfredo Vasquez has already seen plenty in his life.","[""'s"", 'still', 'teenag', 'wilfredo', 'vasquez', 'alreadi', 'seen', 'plenti', 'life']"
+1,2,"His story begins in Anamoros, a city in southeastern El Salvador.","['stori', 'begin', 'anamoro', 'citi', 'southeastern', 'el', 'salvador']"
+2,3,"At 16, alone, living in poverty, threatened by violent gangs in his neighborhood and practically abandoned by his parents, Vasquez decided to leave everything behind and migrate to the United States.","['16', 'alon', 'live', 'poverti', 'threaten', 'violent', 'gang', 'neighborhood', 'practic', 'abandon', 'parent', 'vasquez', 'decid', 'leav', 'everyth', 'behind', 'migrat', 'unit', 'state']"
+3,4,"""If you didn't join the gangs, they would kill you,"" Vasquez says, ""and I didn't want to join because I knew if I did it, I could die very soon.""","[""n't"", 'join', 'gang', 'would', 'kill', 'vasquez', 'say', ""n't"", 'want', 'join', 'knew', 'could', 'die', 'soon']"
+4,5,"By the time he left, he had managed to save $100.","['time', 'left', 'manag', 'save', '100']"
+5,6,Vasquez traveled by bus through Guatemala and crossed the Suchiate River illegally into Mexico.,"['vasquez', 'travel', 'bu', 'guatemala', 'cross', 'suchiat', 'river', 'illeg', 'mexico']"
+6,7,He then boarded a bus for the U.S. border.,"['board', 'bu', 'u.s.', 'border']"
+7,8,"At one point, he says he was detained by Mexican soldiers and questioned.","['one', 'point', 'say', 'detain', 'mexican', 'soldier', 'question']"
+8,9,"His Salvadoran accent betrayed him, but somehow he was let go.","['salvadoran', 'accent', 'betray', 'somehow', 'let', 'go']"
+9,10,"It took the teenager two weeks to get to the Texas border, eating at bus stations and sleeping wherever he could.","['took', 'teenag', 'two', 'week', 'get', 'texa', 'border', 'eat', 'bu', 'station', 'sleep', 'wherev', 'could']"
+10,11,"Crossroads of hope and fear: Stories from a desert bus station
+
+With the help of older immigrants, Vasquez says he swam across the Rio Grande, reaching Texas and American soil for the first time.","['crossroad', 'hope', 'fear', 'stori', 'desert', 'bu', 'station', 'help', 'older', 'immigr', 'vasquez', 'say', 'swam', 'across', 'rio', 'grand', 'reach', 'texa', 'american', 'soil', 'first', 'time']"
+11,12,His only belongings were the clothes he was wearing and a few dollars in his pocket.,"['belong', 'cloth', 'wear', 'dollar', 'pocket']"
+12,13,He was detained by immigration authorities near Houston and sent to a detention center where he would spend three months before being released to the custody of a relative living in Georgia.,"['detain', 'immigr', 'author', 'near', 'houston', 'sent', 'detent', 'center', 'would', 'spend', 'three', 'month', 'releas', 'custodi', 'rel', 'live', 'georgia']"
+13,14,"Vasquez is now a permanent resident in the United States, thanks to a little-known immigration law that helps undocumented minors arriving alone in this country.","['vasquez', 'perman', 'resid', 'unit', 'state', 'thank', 'little-known', 'immigr', 'law', 'help', 'undocu', 'minor', 'arriv', 'alon', 'countri']"
+14,15,"The law, officially known as Special Immigrant Juvenile Status, was first enacted by Congress in 1990.","['law', 'offici', 'known', 'special', 'immigr', 'juvenil', 'statu', 'first', 'enact', 'congress', '1990']"
+15,16,"In 2008, that law was expanded and reauthorized under new legislation.","['2008', 'law', 'expand', 'reauthor', 'new', 'legisl']"
+16,17,"According to the Department of Homeland Security, ""the purpose of the SIJ program is to help foreign children in the United States who have been abused, abandoned, or neglected.""","['accord', 'depart', 'homeland', 'secur', 'purpos', 'sij', 'program', 'help', 'foreign', 'children', 'unit', 'state', 'abus', 'abandon', 'neglect']"
+17,18,Minors who are approved can live and work permanently in the United States.,"['minor', 'approv', 'live', 'work', 'perman', 'unit', 'state']"
+18,19,"White House to spend millions to curb undocumented children
+
+Rebeca Salmon is an immigration attorney and the executive director of Access to Law, an organization that provides low-cost legal services.","['white', 'hous', 'spend', 'million', 'curb', 'undocu', 'children', 'rebeca', 'salmon', 'immigr', 'attorney', 'execut', 'director', 'access', 'law', 'organ', 'provid', 'low-cost', 'legal', 'servic']"
+19,20,Salmon says that applying for this immigration benefit is difficult because you have to prove your case at the state and federal level.,"['salmon', 'say', 'appli', 'immigr', 'benefit', 'difficult', 'prove', 'case', 'state', 'feder', 'level']"
+20,21,"""Not every kid that applies gets to stay.","['everi', 'kid', 'appli', 'get', 'stay']"
+21,22,Not every kid who enters can even apply.,"['everi', 'kid', 'enter', 'even', 'appli']"
+22,23,"You have to be abandoned, abused and neglected.","['abandon', 'abus', 'neglect']"
+23,24,You have to be without your parents.,"['without', 'parent']"
+24,25,"There are minimum requirements, but then there's also the rigorous process of immigration, so not every kid gets to stay,"" Salmon said.","['minimum', 'requir', ""'s"", 'also', 'rigor', 'process', 'immigr', 'everi', 'kid', 'get', 'stay', 'salmon', 'said']"
+25,26,"Tens of thousands of unaccompanied minors have arrived to the United States this year, mainly from Central America.","['ten', 'thousand', 'unaccompani', 'minor', 'arriv', 'unit', 'state', 'year', 'mainli', 'central', 'america']"
+26,27,"But Salmon says very few can actually qualify for this immigration benefit, unlike Vasquez, who was able to prove he was the victim of abuse, abandonment or neglect.","['salmon', 'say', 'actual', 'qualifi', 'immigr', 'benefit', 'unlik', 'vasquez', 'abl', 'prove', 'victim', 'abus', 'abandon', 'neglect']"
+27,28,"""If that's the only message you get out through this, please make sure that's clear.","[""'s"", 'messag', 'get', 'pleas', 'make', 'sure', ""'s"", 'clear']"
+28,29,"If you send your kids here or kids come on their own, you're fleeing something in your country, every case is different and every case is difficult,"" Salmon said.","['send', 'kid', 'kid', 'come', ""'re"", 'flee', 'someth', 'countri', 'everi', 'case', 'differ', 'everi', 'case', 'difficult', 'salmon', 'said']"
+29,30,"Daniel's journey: How thousands of children are creating a crisis in America
+
+She estimates that only about 10% of the estimated 60,000 children who have migrated to the United States in the last year alone are eligible for this immigration benefit, and of those, only a fraction can actually prove their case in court.","['daniel', ""'s"", 'journey', 'thousand', 'children', 'creat', 'crisi', 'america', 'estim', '10', 'estim', '60,000', 'children', 'migrat', 'unit', 'state', 'last', 'year', 'alon', 'elig', 'immigr', 'benefit', 'fraction', 'actual', 'prove', 'case', 'court']"
+30,31,"The rest will be deported, she says.","['rest', 'deport', 'say']"
+31,32,"'I didn't know I was undocumented'
+
+Those minors who qualify under this provision of the law and get approval can obtain a green card, which allows them to stay in this country and have legal status in the United States.","[""n't"", 'know', ""undocumented'"", 'minor', 'qualifi', 'provis', 'law', 'get', 'approv', 'obtain', 'green', 'card', 'allow', 'stay', 'countri', 'legal', 'statu', 'unit', 'state']"
+32,33,"They can then apply for citizenship after five years of living here if they have not committed any crimes, have learned English and can demonstrate a basic level of knowledge of American history and government.","['appli', 'citizenship', 'five', 'year', 'live', 'commit', 'crime', 'learn', 'english', 'demonstr', 'basic', 'level', 'knowledg', 'american', 'histori', 'govern']"
+33,34,Vasquez turned 18 earlier this year.,"['vasquez', 'turn', '18', 'earlier', 'year']"
+34,35,He's learning English in high school and getting good grades.,"[""'s"", 'learn', 'english', 'high', 'school', 'get', 'good', 'grade']"
+35,36,"""My dream is to graduate from high school and then go to college because I want to be a doctor,"" Vasquez said, quite an improvement for a young man whose goal as a child was merely to stay alive.","['dream', 'graduat', 'high', 'school', 'go', 'colleg', 'want', 'doctor', 'vasquez', 'said', 'quit', 'improv', 'young', 'man', 'whose', 'goal', 'child', 'mere', 'stay', 'aliv']"
+36,37,"Vargas: Undocumented and hiding in plain sight
+
+Opinion: Undocumented fed up with partisan politics
+
+Opinion: How we can help kids crossing at the border","['varga', 'undocu', 'hide', 'plain', 'sight', 'opinion', 'undocu', 'fed', 'partisan', 'polit', 'opinion', 'help', 'kid', 'cross', 'border']"

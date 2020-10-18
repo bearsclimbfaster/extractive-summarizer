@@ -1,0 +1,41 @@
+,Label,Sentence,Words
+0,1,"We have reached San Francisco, the end of our almost 4,000 km journey from Chicago.","['reach', 'san', 'francisco', 'end', 'almost', '4,000', 'km', 'journey', 'chicago']"
+1,2,"Here, I am meeting the former mayor Willie Brown.","['meet', 'former', 'mayor', 'willi', 'brown']"
+2,3,"He ran the city for eight years from 1996 to 2004, and before that was the speaker of California's legislative assembly for 15 years.","['ran', 'citi', 'eight', 'year', '1996', '2004', 'speaker', 'california', ""'s"", 'legisl', 'assembl', '15', 'year']"
+3,4,The weather here is spectacular.,"['weather', 'spectacular']"
+4,5,"It is in the 20s, and unusual to have such glorious warm days so late in the year.","['20', 'unusu', 'gloriou', 'warm', 'day', 'late', 'year']"
+5,6,It makes the Golden Gate Bridge glisten.,"['make', 'golden', 'gate', 'bridg', 'glisten']"
+6,7,San Francisco must surely be the most beautiful of cities.,"['san', 'francisco', 'must', 'sure', 'beauti', 'citi']"
+7,8,But the beauty should not mask the terrible financial mess the state faces.,"['beauti', 'mask', 'terribl', 'financi', 'mess', 'state', 'face']"
+8,9,"Gallery: Images from the journey
+
+It would take a voting catastrophe for President Barack Obama to lose in California.","['galleri', 'imag', 'journey', 'would', 'take', 'vote', 'catastroph', 'presid', 'barack', 'obama', 'lose', 'california']"
+9,10,The state hasn't voted for a Republican presidential candidate since 1988.,"['state', ""n't"", 'vote', 'republican', 'presidenti', 'candid', 'sinc', '1988']"
+10,11,"But the president (and the country) must listen closely to the trends coming from here, because what starts in California often ends up spreading across the country.","['presid', 'countri', 'must', 'listen', 'close', 'trend', 'come', 'start', 'california', 'often', 'end', 'spread', 'across', 'countri']"
+11,12,"Also there are some crucial Congressional elections which, if they go badly, would make it much harder for the Democrats to regain control of the House.","['also', 'crucial', 'congression', 'elect', 'go', 'badli', 'would', 'make', 'much', 'harder', 'democrat', 'regain', 'control', 'hous']"
+12,13,In California they are worried about the economy and jobs.,"['california', 'worri', 'economi', 'job']"
+13,14,"The unemployment rate, at 10.2%, is the third highest in the country.","['unemploy', 'rate', '10.2', 'third', 'highest', 'countri']"
+14,15,Immigration and health are also big concerns.,"['immigr', 'health', 'also', 'big', 'concern']"
+15,16,"But here, they are used to a higher standard of living and superb college system: One which is now crumbling.","['use', 'higher', 'standard', 'live', 'superb', 'colleg', 'system', 'one', 'crumbl']"
+16,17,There is a state budget deficit which would make even the eurozone blush.,"['state', 'budget', 'deficit', 'would', 'make', 'even', 'eurozon', 'blush']"
+17,18,"In May the Governor of California, Jerry Brown, announced the deficit was $16 billion.","['may', 'governor', 'california', 'jerri', 'brown', 'announc', 'deficit', '16', 'billion']"
+18,19,With the potential to balloon even higher unless something is done.,"['potenti', 'balloon', 'even', 'higher', 'unless', 'someth', 'done']"
+19,20,"Read more: Romney's university worlds apart
+
+With these facts, today's California is starting to look a lot like austerity Europe.","['read', 'romney', ""'s"", 'univers', 'world', 'apart', 'fact', 'today', ""'s"", 'california', 'start', 'look', 'lot', 'like', 'auster', 'europ']"
+20,21,Think about it.,['think']
+21,22,"Over the past few years, California has made deep cuts in education, social services, and even releasing some prisoners early to save money.","['past', 'year', 'california', 'made', 'deep', 'cut', 'educ', 'social', 'servic', 'even', 'releas', 'prison', 'earli', 'save', 'money']"
+22,23,"It has proposed raising income and sales taxes to close this stubborn budget gap, that is dangerously large and won't go away while the economy languishes.","['propos', 'rais', 'incom', 'sale', 'tax', 'close', 'stubborn', 'budget', 'gap', 'danger', 'larg', 'wo', ""n't"", 'go', 'away', 'economi', 'languish']"
+23,24,There are more similarities.,['similar']
+24,25,"In the past, when California fell on hard times, it could rely on a rising national economy to pick up the slack.","['past', 'california', 'fell', 'hard', 'time', 'could', 'reli', 'rise', 'nation', 'economi', 'pick', 'slack']"
+25,26,"After all, the U.S. economy is one large locomotive, and when one state falls on hard times the others can lend a hand.","['u.s.', 'economi', 'one', 'larg', 'locomot', 'one', 'state', 'fall', 'hard', 'time', 'other', 'lend', 'hand']"
+26,27,"That can't happen this time, because nationally there is no extra economic oomph to pick up the slack.","['ca', ""n't"", 'happen', 'time', 'nation', 'extra', 'econom', 'oomph', 'pick', 'slack']"
+27,28,"It is exactly the same as the eurozone, where even the German growth engine can't pull everyone out of recession.","['exactli', 'eurozon', 'even', 'german', 'growth', 'engin', 'ca', ""n't"", 'pull', 'everyon', 'recess']"
+28,29,"As the International Monetary Fund noted in the latest World Economic Outlook, everyone is cutting deficits at the same time and this makes a bad situation worse.","['intern', 'monetari', 'fund', 'note', 'latest', 'world', 'econom', 'outlook', 'everyon', 'cut', 'deficit', 'time', 'make', 'bad', 'situat', 'wors']"
+29,30,California is as much a victim of this as any European country.,"['california', 'much', 'victim', 'european', 'countri']"
+30,31,Colorado: Will frontier state call election?,"['colorado', 'frontier', 'state', 'call', 'elect']"
+31,32,I don't want to push this analogy too far.,"[""n't"", 'want', 'push', 'analog', 'far']"
+32,33,California's economy is in better fundamental shape than many eurozone countries.,"['california', ""'s"", 'economi', 'better', 'fundament', 'shape', 'mani', 'eurozon', 'countri']"
+33,34,"What I am suggesting is that the European austerity, which so far has not hit most of America, has well and truly arrived.","['suggest', 'european', 'auster', 'far', 'hit', 'america', 'well', 'truli', 'arriv']"
+34,35,This trend setting state is one of the first to truly feel the longer-lasting effects which I have no doubt will spread -- whoever wins the election.,"['trend', 'set', 'state', 'one', 'first', 'truli', 'feel', 'longer-last', 'effect', 'doubt', 'spread', 'whoever', 'win', 'elect']"
+35,36,"Austerity California is a glimpse of the future for America; the rest of the country, blinded by extravagant election promises, just doesn't yet realize it.","['auster', 'california', 'glimps', 'futur', 'america', 'rest', 'countri', 'blind', 'extravag', 'elect', 'promis', ""n't"", 'yet', 'realiz']"

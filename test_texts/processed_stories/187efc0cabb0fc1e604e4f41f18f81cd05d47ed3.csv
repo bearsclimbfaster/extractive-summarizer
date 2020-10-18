@@ -1,0 +1,75 @@
+,Label,Sentence,Words
+0,1,In all of the fallout surrounding the prisoner exchange for Army Sgt.,"['fallout', 'surround', 'prison', 'exchang', 'armi', 'sgt']"
+1,2,"Bowe Bergdahl, let's get these points out of the way: the case for leaving no soldier behind is a sound and important one — a way to keep faith with our troops.","['bow', 'bergdahl', 'let', ""'s"", 'get', 'point', 'way', 'case', 'leav', 'soldier', 'behind', 'sound', 'import', 'one', '—', 'way', 'keep', 'faith', 'troop']"
+2,3,There is historical precedent for the exchange of prisoners.,"['histor', 'preced', 'exchang', 'prison']"
+3,4,"President Obama likely has the legal authority he needs, as commander in chief, to order a swap.","['presid', 'obama', 'like', 'legal', 'author', 'need', 'command', 'chief', 'order', 'swap']"
+4,5,Did the president notify Congress — as in the Democratic chairwoman of the Senate Intelligence Committee — in a timely manner beforehand?,"['presid', 'notifi', 'congress', '—', 'democrat', 'chairwoman', 'senat', 'intellig', 'committe', '—', 'time', 'manner', 'beforehand']"
+5,6,No.,[]
+6,7,Had this been a matter of some internal controversy for years precisely because of the nature of any trade?,"['matter', 'intern', 'controversi', 'year', 'precis', 'natur', 'trade']"
+7,8,Yes.,['ye']
+8,9,Was the White House aware of the questionable circumstances of Bergdahl's disappearance?,"['white', 'hous', 'awar', 'question', 'circumst', 'bergdahl', ""'s"", 'disappear']"
+9,10,Yes.,['ye']
+10,11,"Should National Security Adviser Susan Rice have thought twice before describing him as someone who ""served with honor and distinction.""","['nation', 'secur', 'advis', 'susan', 'rice', 'thought', 'twice', 'describ', 'someon', 'serv', 'honor', 'distinct']"
+11,12,"Yes, because the jury is most definitely out on that one.","['ye', 'juri', 'definit', 'one']"
+12,13,Should the President have held a triumphal newser in the Rose Garden to announce the release and swap?,"['presid', 'held', 'triumphal', 'newser', 'rose', 'garden', 'announc', 'releas', 'swap']"
+13,14,"Um, no.",['um']
+14,15,Absolutely no.,['absolut']
+15,16,"""The point is, you have to get him home as a way to keep faith with our troops,"" says a former senior national security official.","['point', 'get', 'home', 'way', 'keep', 'faith', 'troop', 'say', 'former', 'senior', 'nation', 'secur', 'offici']"
+16,17,"""Everybody gets that.","['everybodi', 'get']"
+17,18,"Then you deal with him and the circumstances of his departure.""","['deal', 'circumst', 'departur']"
+18,19,As for the ceremony in the President's backyard?,"['ceremoni', 'presid', ""'s"", 'backyard']"
+19,20,"""That was surreal,"" he says.","['surreal', 'say']"
+20,21,"""Truly.""",['truli']
+21,22,"Opinion: Five tough ethics issues in Bergdahl swap
+
+In a way, it's all surreal and hard to unspool.","['opinion', 'five', 'tough', 'ethic', 'issu', 'bergdahl', 'swap', 'way', ""'s"", 'surreal', 'hard', 'unspool']"
+22,23,So let's start at the policy end of all of this.,"['let', ""'s"", 'start', 'polici', 'end']"
+23,24,This is a president whose legacy is up for grabs.,"['presid', 'whose', 'legaci', 'grab']"
+24,25,One important piece: ending two wars (Iraq and Afghanistan) and capturing and killing Osama bin Laden.,"['one', 'import', 'piec', 'end', 'two', 'war', 'iraq', 'afghanistan', 'captur', 'kill', 'osama', 'bin', 'laden']"
+25,26,"""This (The Bergdahl swap) is tying up loose ends,"" says another former senior national security source.","['bergdahl', 'swap', 'tie', 'loos', 'end', 'say', 'anoth', 'former', 'senior', 'nation', 'secur', 'sourc']"
+26,27,"""The administration made the decision not to leave any people there, so that was that.""","['administr', 'made', 'decis', 'leav', 'peopl']"
+27,28,"The Republicans, of course, argue that a virtually 100% withdrawal is wrong.","['republican', 'cours', 'argu', 'virtual', '100', 'withdraw', 'wrong']"
+28,29,"That the President should have instead planned for a gradual withdrawal, depending on circumstances on the ground.","['presid', 'instead', 'plan', 'gradual', 'withdraw', 'depend', 'circumst', 'ground']"
+29,30,Then he might not have felt such pressure to clear the decks and cut this deal.,"['might', 'felt', 'pressur', 'clear', 'deck', 'cut', 'deal']"
+30,31,Or do a victory lap in the Rose Garden.,"['victori', 'lap', 'rose', 'garden']"
+31,32,"It is, they charge, pure politics.","['charg', 'pure', 'polit']"
+32,33,Then Obama played right into their hands.,"['obama', 'play', 'right', 'hand']"
+33,34,"Trouble is, Republicans are playing at it, too.","['troubl', 'republican', 'play']"
+34,35,"They're tweeting their joy about Bergdahl's release one minute, then un-tweeting it the next.","[""'re"", 'tweet', 'joy', 'bergdahl', ""'s"", 'releas', 'one', 'minut', 'un-tweet', 'next']"
+35,36,Republican Sen. Lindsey Graham charged that this is the President's backdoor way of emptying out Guantanamo without having to close it.,"['republican', 'sen.', 'lindsey', 'graham', 'charg', 'presid', ""'s"", 'backdoor', 'way', 'empti', 'guantanamo', 'without', 'close']"
+36,37,Please.,['pleas']
+37,38,Who are the Gitmo detainees?,"['gitmo', 'detaine']"
+38,39,This is a serious matter.,"['seriou', 'matter']"
+39,40,"Years of internal deliberations have gone into this, according to my sources.","['year', 'intern', 'deliber', 'gone', 'accord', 'sourc']"
+40,41,"That's why the White House needs to make it clear why the swap was a matter so urgent that there wasn't enough time to notify the appropriate people, much less consult with them.","[""'s"", 'white', 'hous', 'need', 'make', 'clear', 'swap', 'matter', 'urgent', ""n't"", 'enough', 'time', 'notifi', 'appropri', 'peopl', 'much', 'less', 'consult']"
+41,42,Was Bergdahl swap legal?,"['bergdahl', 'swap', 'legal']"
+42,43,"Depends on who you ask
+
+Understandably, there were concerns about his safety.","['depend', 'ask', 'understand', 'concern', 'safeti']"
+43,44,"And even given all the delicacies of revealing health issues, it's still an important matter to explain.","['even', 'given', 'delicaci', 'reveal', 'health', 'issu', ""'s"", 'still', 'import', 'matter', 'explain']"
+44,45,"Because right now, it looks like the lack of consultation is about one thing: the knowledge that there would be pushback.","['right', 'look', 'like', 'lack', 'consult', 'one', 'thing', 'knowledg', 'would', 'pushback']"
+45,46,"And, as one source puts it, ""fighting over process is always easier than fighting over substance.""","['one', 'sourc', 'put', 'fight', 'process', 'alway', 'easier', 'fight', 'substanc']"
+46,47,"In other words, it's easier to apologize than ask for permission.","['word', ""'s"", 'easier', 'apolog', 'ask', 'permiss']"
+47,48,Now the administration has fights on both of those fronts.,"['administr', 'fight', 'front']"
+48,49,At least they're consistent: micromanaging foreign policy from the west wing has always been a hallmark.,"['least', ""'re"", 'consist', 'micromanag', 'foreign', 'polici', 'west', 'wing', 'alway', 'hallmark']"
+49,50,Not that it wins you any friends — or political support.,"['win', 'friend', '—', 'polit', 'support']"
+50,51,Guess it's too late for that now.,"['guess', ""'s"", 'late']"
+51,52,"If this were Netflix, a replica of SEAL Team Six could have swooped in to the rescue, just like they did in 2011.","['netflix', 'replica', 'seal', 'team', 'six', 'could', 'swoop', 'rescu', 'like', '2011']"
+52,53,"Ironically, my sources say, the bin Laden raid itself complicated events: If Bergdahl was in Pakistan, would that inflame an already inflamed relationship due to the bin Laden raid?","['iron', 'sourc', 'say', 'bin', 'laden', 'raid', 'complic', 'event', 'bergdahl', 'pakistan', 'would', 'inflam', 'alreadi', 'inflam', 'relationship', 'due', 'bin', 'laden', 'raid']"
+53,54,Was the intel good enough?,"['intel', 'good', 'enough']"
+54,55,Was the considerable risk worth it?,"['consider', 'risk', 'worth']"
+55,56,"Taliban video shows Bowe Bergdahl's release in Afghanistan
+
+The backdrop to all of this is that the same questions that are now being raised publicly had been raised internally for years — about what a ""fair"" trade would include.","['taliban', 'video', 'show', 'bow', 'bergdahl', ""'s"", 'releas', 'afghanistan', 'backdrop', 'question', 'rais', 'publicli', 'rais', 'intern', 'year', '—', 'fair', 'trade', 'would', 'includ']"
+56,57,"As CNN's Elise Labott has reported, then-Secretary of State Hillary Clinton was skeptical of early plans to trade five Gitmo prisoners for Bergdahl.","['cnn', ""'s"", 'elis', 'labott', 'report', 'then-secretari', 'state', 'hillari', 'clinton', 'skeptic', 'earli', 'plan', 'trade', 'five', 'gitmo', 'prison', 'bergdahl']"
+57,58,"And as my national security source adds, ""people opposed the deal because it wasn't great.""","['nation', 'secur', 'sourc', 'add', 'peopl', 'oppos', 'deal', ""n't"", 'great']"
+58,59,"But, he adds, ""they were also looking at a deal that would provoke negotiations with the Taliban.""","['add', 'also', 'look', 'deal', 'would', 'provok', 'negoti', 'taliban']"
+59,60,"Hillary Clinton wanted tougher deal for Bergdahl
+
+That is not the case now.","['hillari', 'clinton', 'want', 'tougher', 'deal', 'bergdahl', 'case']"
+60,61,The conflict is winding down.,"['conflict', 'wind']"
+61,62,We're leaving Afghanistan.,"[""'re"", 'leav', 'afghanistan']"
+62,63,No one left behind.,"['one', 'left', 'behind']"
+63,64,Sgt.,['sgt']
+64,65,Bergdahl gets to go home.,"['bergdahl', 'get', 'go', 'home']"
+65,66,"What lingers, sadly, is the unsettling reality that five really, really bad guys have a ticket home, too.","['linger', 'sadli', 'unsettl', 'realiti', 'five', 'realli', 'realli', 'bad', 'guy', 'ticket', 'home']"

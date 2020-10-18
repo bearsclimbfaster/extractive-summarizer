@@ -1,0 +1,103 @@
+,Label,Sentence,Words
+0,1,"Russian and American leaders paint starkly different pictures of Ukraine, blaming each other for a crisis that shows no signs of simmering down.","['russian', 'american', 'leader', 'paint', 'starkli', 'differ', 'pictur', 'ukrain', 'blame', 'crisi', 'show', 'sign', 'simmer']"
+1,2,A defiant Russian President Vladimir Putin said Tuesday that masked gunmen are fueling anarchy in Ukraine.,"['defiant', 'russian', 'presid', 'vladimir', 'putin', 'said', 'tuesday', 'mask', 'gunmen', 'fuel', 'anarchi', 'ukrain']"
+2,3,"He decried what he called an illegitimate government that illegally seized power in a coup with U.S. backing, arguing that his country has a right to use military force.","['decri', 'call', 'illegitim', 'govern', 'illeg', 'seiz', 'power', 'coup', 'u.s.', 'back', 'argu', 'countri', 'right', 'use', 'militari', 'forc']"
+3,4,U.S. President Barack Obama and his country's top diplomat said Ukraine's new government is democratically responding to the people's will.,"['u.s.', 'presid', 'barack', 'obama', 'countri', ""'s"", 'top', 'diplomat', 'said', 'ukrain', ""'s"", 'new', 'govern', 'democrat', 'respond', 'peopl', ""'s""]"
+4,5,They warned of invading forces and a desperate Russia breaking international law.,"['warn', 'invad', 'forc', 'desper', 'russia', 'break', 'intern', 'law']"
+5,6,"""President Putin seems to have a different set of lawyers making a different set of interpretations,"" Obama said, ""but I don't think that's fooling anybody.""","['presid', 'putin', 'seem', 'differ', 'set', 'lawyer', 'make', 'differ', 'set', 'interpret', 'obama', 'said', ""n't"", 'think', ""'s"", 'fool', 'anybodi']"
+6,7,"Putin blamed Western powers, particularly the United States, for causing what he called ""anarchy and armed coup"" in Ukraine.","['putin', 'blame', 'western', 'power', 'particularli', 'unit', 'state', 'caus', 'call', 'anarchi', 'arm', 'coup', 'ukrain']"
+7,8,"""I have a feeling people in America sit in some lab doing experiments, like on rats,"" he said, ""without knowing consequences.""","['feel', 'peopl', 'america', 'sit', 'lab', 'experi', 'like', 'rat', 'said', 'without', 'know', 'consequ']"
+8,9,The conflicting descriptions are enough to give you whiplash.,"['conflict', 'descript', 'enough', 'give', 'whiplash']"
+9,10,"Ukraine's shaky new government is caught in the middle, and it's clear that world powers don't see eye to eye over basic facts about what's happening.","['ukrain', ""'s"", 'shaki', 'new', 'govern', 'caught', 'middl', ""'s"", 'clear', 'world', 'power', ""n't"", 'see', 'eye', 'eye', 'basic', 'fact', ""'s"", 'happen']"
+10,11,"Here are some of the questions at play, with a look at how key players are weighing in:
+
+What's happening in Kiev and Crimea?","['question', 'play', 'look', 'key', 'player', 'weigh', ""'s"", 'happen', 'kiev', 'crimea']"
+11,12,"Russia's take:
+
+Putin described a country in chaos.","['russia', ""'s"", 'take', 'putin', 'describ', 'countri', 'chao']"
+12,13,"""Military men are walking around Kiev in masks still now.","['militari', 'men', 'walk', 'around', 'kiev', 'mask', 'still']"
+13,14,"They wanted to humiliate someone or show their force,"" he said.","['want', 'humili', 'someon', 'show', 'forc', 'said']"
+14,15,"""I think this is very stupid.""","['think', 'stupid']"
+15,16,"United States' take:
+
+The streets in Kiev are ""calm and friendly,"" U.S. Secretary of State John Kerry said, and Ukrainian soldiers in Crimea have ""stood their ground but never fired a shot, never issued one provocation, have been surrounded by an invading group of troops.""","['unit', 'state', 'take', 'street', 'kiev', 'calm', 'friendli', 'u.s.', 'secretari', 'state', 'john', 'kerri', 'said', 'ukrainian', 'soldier', 'crimea', 'stood', 'ground', 'never', 'fire', 'shot', 'never', 'issu', 'one', 'provoc', 'surround', 'invad', 'group', 'troop']"
+16,17,"What we've seen:
+
+In Crimea, the situation is calm but tense, CNN's Ben Wedeman and Clare Sebastian report.","[""'ve"", 'seen', 'crimea', 'situat', 'calm', 'tens', 'cnn', ""'s"", 'ben', 'wedeman', 'clare', 'sebastian', 'report']"
+17,18,Russian forces have surrounded 10 Ukrainian military bases.,"['russian', 'forc', 'surround', '10', 'ukrainian', 'militari', 'base']"
+18,19,There's been no fighting -- or loss of life -- but there are ample signs of preparation.,"[""'s"", 'fight', 'loss', 'life', 'ampl', 'sign', 'prepar']"
+19,20,"There's a ""war of information"" in the region ""between those who watch Russian state TV and those who are getting their news from the West, none of them listening to the calls from Kiev for unity in this country,"" CNN's Diana Magnay reported.","[""'s"", 'war', 'inform', 'region', 'watch', 'russian', 'state', 'tv', 'get', 'news', 'west', 'none', 'listen', 'call', 'kiev', 'uniti', 'countri', 'cnn', ""'s"", 'diana', 'magnay', 'report']"
+20,21,"In Kiev, there are still barricades and battle scars from recent fighting before Viktor Yanukovych's ouster, CNN's Anderson Cooper and Elise Labott reported.","['kiev', 'still', 'barricad', 'battl', 'scar', 'recent', 'fight', 'viktor', 'yanukovych', ""'s"", 'ouster', 'cnn', ""'s"", 'anderson', 'cooper', 'elis', 'labott', 'report']"
+21,22,"Protesters there are waving posters depicting caricatures of Putin and declaring their willingness to fight against Russian forces, if necessary.","['protest', 'wave', 'poster', 'depict', 'caricatur', 'putin', 'declar', 'willing', 'fight', 'russian', 'forc', 'necessari']"
+22,23,"In Crimea: 'I feel unsure about what will be tomorrow'
+
+Who's in charge of Ukraine?","['crimea', 'feel', 'unsur', ""tomorrow'"", ""'s"", 'charg', 'ukrain']"
+23,24,"Russia's take:
+
+Viktor Yanukovych remains Ukraine's elected leader, and Ukraine's new government is illegitimate.","['russia', ""'s"", 'take', 'viktor', 'yanukovych', 'remain', 'ukrain', ""'s"", 'elect', 'leader', 'ukrain', ""'s"", 'new', 'govern', 'illegitim']"
+24,25,"""The legitimate president is only Yanukovych,"" Putin said.","['legitim', 'presid', 'yanukovych', 'putin', 'said']"
+25,26,"""There are just three ways to dismiss the president from power: death, his personal request and the third one, impeachment.","['three', 'way', 'dismiss', 'presid', 'power', 'death', 'person', 'request', 'third', 'one', 'impeach']"
+26,27,...,[]
+27,28,"This procedure was not followed.""","['procedur', 'follow']"
+28,29,"United States' take:
+
+Yanukovych abandoned his post last month, refused to sign a transition deal, fled the country and was then voted out of office by Ukraine's democratically elected parliament.","['unit', 'state', 'take', 'yanukovych', 'abandon', 'post', 'last', 'month', 'refus', 'sign', 'transit', 'deal', 'fled', 'countri', 'vote', 'offic', 'ukrain', ""'s"", 'democrat', 'elect', 'parliament']"
+29,30,"""He broke his obligation to sign that agreement and he fled into the night with his possessions, destroying papers behind him,"" Kerry said in Kiev on Tuesday.","['broke', 'oblig', 'sign', 'agreement', 'fled', 'night', 'possess', 'destroy', 'paper', 'behind', 'kerri', 'said', 'kiev', 'tuesday']"
+30,31,"""He abandoned his people and eventually his country.""","['abandon', 'peopl', 'eventu', 'countri']"
+31,32,"Ukraine's take:
+
+Ukraine has a legitimate government and is set to have new presidential elections on May 25.","['ukrain', ""'s"", 'take', 'ukrain', 'legitim', 'govern', 'set', 'new', 'presidenti', 'elect', 'may', '25']"
+32,33,"""Let's give an opportunity for that to work,"" Ukrainian Ambassador to the U.N. Yuriy Sergeyev said.","['let', ""'s"", 'give', 'opportun', 'work', 'ukrainian', 'ambassador', 'u.n.', 'yuriy', 'sergeyev', 'said']"
+33,34,But not everyone in the country agrees.,"['everyon', 'countri', 'agre']"
+34,35,Some support having closer ties with Russia.,"['support', 'closer', 'tie', 'russia']"
+35,36,"Yanukovych, for his part, said in a news conference from Russia last week that the planned May 25 elections would be illegal, insisting that he was still in charge and wanted to lead his country to peace, harmony and prosperity.","['yanukovych', 'part', 'said', 'news', 'confer', 'russia', 'last', 'week', 'plan', 'may', '25', 'elect', 'would', 'illeg', 'insist', 'still', 'charg', 'want', 'lead', 'countri', 'peac', 'harmoni', 'prosper']"
+36,37,"U.S. strategy for Ukraine crisis: Money talks
+
+How many Russian troops are inside Ukraine?","['u.s.', 'strategi', 'ukrain', 'crisi', 'money', 'talk', 'mani', 'russian', 'troop', 'insid', 'ukrain']"
+37,38,"Russia's take:
+
+Part of the Russian Navy is based in Crimea, but Putin hasn't acknowledged sending any additional troops to Ukraine.","['russia', ""'s"", 'take', 'part', 'russian', 'navi', 'base', 'crimea', 'putin', ""n't"", 'acknowledg', 'send', 'addit', 'troop', 'ukrain']"
+38,39,He told reporters Tuesday that the surge in forces in Crimea were local self-defense groups pushing for the will of the people to be respected.,"['told', 'report', 'tuesday', 'surg', 'forc', 'crimea', 'local', 'self-defens', 'group', 'push', 'peopl', 'respect']"
+39,40,"Asked whether they were Russian, he said the uniforms the troops are wearing could be purchased at a store.","['ask', 'whether', 'russian', 'said', 'uniform', 'troop', 'wear', 'could', 'purchas', 'store']"
+40,41,"United States' take:
+
+Kerry sounded shocked by Putin's explanation Tuesday.","['unit', 'state', 'take', 'kerri', 'sound', 'shock', 'putin', ""'s"", 'explan', 'tuesday']"
+41,42,"Putin, he said, ""is insisting against all evidence everywhere in the world about troops being in Crimea that they're not there.""","['putin', 'said', 'insist', 'evid', 'everywher', 'world', 'troop', 'crimea', ""'re""]"
+42,43,"Russian forces ""have complete operational control of the Crimean peninsula,"" a senior U.S. administration official told CNN on Sunday, with estimates of 6,000 Russian ground and naval forces in the region
+
+Ukraine's take:
+
+Russia has sent military ships, helicopters and cargo planes to deploy 16,000 troops into Crimea since February 24, Sergeyev told the United Nations on Monday.","['russian', 'forc', 'complet', 'oper', 'control', 'crimean', 'peninsula', 'senior', 'u.s.', 'administr', 'offici', 'told', 'cnn', 'sunday', 'estim', '6,000', 'russian', 'ground', 'naval', 'forc', 'region', 'ukrain', ""'s"", 'take', 'russia', 'sent', 'militari', 'ship', 'helicopt', 'cargo', 'plane', 'deploy', '16,000', 'troop', 'crimea', 'sinc', 'februari', '24', 'sergeyev', 'told', 'unit', 'nation', 'monday']"
+43,44,Does Russia have a right to send more military forces into Ukraine?,"['russia', 'right', 'send', 'militari', 'forc', 'ukrain']"
+44,45,"Russia's take:
+
+Yes.","['russia', ""'s"", 'take', 'ye']"
+45,46,"A treaty between the neighboring nations allows Russia to have up to 25,000 troops in Crimea, Russia's U.N. envoy said Monday, adding that Yanukovych asked Russia to send military forces.","['treati', 'neighbor', 'nation', 'allow', 'russia', '25,000', 'troop', 'crimea', 'russia', ""'s"", 'u.n.', 'envoy', 'said', 'monday', 'ad', 'yanukovych', 'ask', 'russia', 'send', 'militari', 'forc']"
+46,47,Putin said Russia has no plans to take over Crimea.,"['putin', 'said', 'russia', 'plan', 'take', 'crimea']"
+47,48,"""If I take the decision to use military force, it will be completely legitimate and correspond to the international law,"" Putin said, ""because we have the request of the legitimate president and also (it) corresponds to our duties and corresponds to our interest in protecting the people who are close to us historically and have connected culturally.""","['take', 'decis', 'use', 'militari', 'forc', 'complet', 'legitim', 'correspond', 'intern', 'law', 'putin', 'said', 'request', 'legitim', 'presid', 'also', 'correspond', 'duti', 'correspond', 'interest', 'protect', 'peopl', 'close', 'us', 'histor', 'connect', 'cultur']"
+48,49,"United States' take: No, and Putin is playing a dangerous game.","['unit', 'state', 'take', 'putin', 'play', 'danger', 'game']"
+49,50,Obama said Tuesday that the Russian President doesn't have the right to use force to influence the neighboring country.,"['obama', 'said', 'tuesday', 'russian', 'presid', ""n't"", 'right', 'use', 'forc', 'influenc', 'neighbor', 'countri']"
+50,51,"Russia ""has chosen aggression and intimidation as a first resort,"" Kerry said Tuesday, accusing the country's government of ""hiding its hand behind falsehoods, intimidation and provocations.""","['russia', 'chosen', 'aggress', 'intimid', 'first', 'resort', 'kerri', 'said', 'tuesday', 'accus', 'countri', ""'s"", 'govern', 'hide', 'hand', 'behind', 'falsehood', 'intimid', 'provoc']"
+51,52,"Ukraine's take:
+
+No.","['ukrain', ""'s"", 'take']"
+52,53,"Russian troops amassing in Crimea and near the border with Ukraine are an ""act of aggression.""","['russian', 'troop', 'amass', 'crimea', 'near', 'border', 'ukrain', 'act', 'aggress']"
+53,54,"If judged by the numbers, Ukraine's military loses war with Russia
+
+Why is the tense standoff unfolding now?","['judg', 'number', 'ukrain', ""'s"", 'militari', 'lose', 'war', 'russia', 'tens', 'standoff', 'unfold']"
+54,55,"Russia's take:
+
+Parliament approved Putin's use of military force to protect Russian citizens inside Ukraine.","['russia', ""'s"", 'take', 'parliament', 'approv', 'putin', ""'s"", 'use', 'militari', 'forc', 'protect', 'russian', 'citizen', 'insid', 'ukrain']"
+55,56,"""This corresponds to our national interest to protect these people, and this is a humanitarian mission.","['correspond', 'nation', 'interest', 'protect', 'peopl', 'humanitarian', 'mission']"
+56,57,"We are not trying to enslave people, or dictate anything to anyone,"" Putin said.","['tri', 'enslav', 'peopl', 'dictat', 'anyth', 'anyon', 'putin', 'said']"
+57,58,"""Of course, we can't stay aside if we see the people persecuted, bullied or killed.","['cours', 'ca', ""n't"", 'stay', 'asid', 'see', 'peopl', 'persecut', 'bulli', 'kill']"
+58,59,"We very much hope it will not come to this.""","['much', 'hope', 'come']"
+59,60,"United States' take:
+
+Putin, the administration believes, is threatened by challenges to his influence, especially popular uprisings against governments that are supportive of the Russian leader, a senior Obama administration official said Tuesday.","['unit', 'state', 'take', 'putin', 'administr', 'believ', 'threaten', 'challeng', 'influenc', 'especi', 'popular', 'upris', 'govern', 'support', 'russian', 'leader', 'senior', 'obama', 'administr', 'offici', 'said', 'tuesday']"
+60,61,"""They are externally taking over and trying to annex Crimea,"" Kerry said.","['extern', 'take', 'tri', 'annex', 'crimea', 'kerri', 'said']"
+61,62,"Ukraine's take:
+
+There's no evidence of any threat to Russians inside Ukraine.","['ukrain', ""'s"", 'take', ""'s"", 'evid', 'threat', 'russian', 'insid', 'ukrain']"
+62,63,Russia wants to annex Crimea.,"['russia', 'want', 'annex', 'crimea']"
+63,64,CNN's Jim Acosta and Dana Ford contributed to this report.,"['cnn', ""'s"", 'jim', 'acosta', 'dana', 'ford', 'contribut', 'report']"

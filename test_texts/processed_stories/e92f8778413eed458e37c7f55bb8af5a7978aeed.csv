@@ -1,0 +1,97 @@
+,Label,Sentence,Words
+0,1,"A number of themes emerge from the regional reports included in the National Climate Assessment -- things like risks to infrastructure due to rising oceans both benefits and harm to agricultural production because of changing temperature, and new realities for cooling and heating costs.","['number', 'theme', 'emerg', 'region', 'report', 'includ', 'nation', 'climat', 'assess', 'thing', 'like', 'risk', 'infrastructur', 'due', 'rise', 'ocean', 'benefit', 'harm', 'agricultur', 'product', 'chang', 'temperatur', 'new', 'realiti', 'cool', 'heat', 'cost']"
+1,2,"Find your geographic region below and see how these issues specifically affect where you live, according to the report.","['find', 'geograph', 'region', 'see', 'issu', 'specif', 'affect', 'live', 'accord', 'report']"
+2,3,"NORTHWEST
+
+If you live in the Northwest, you can appreciate how vital the snow accumulation in the mountains is.","['northwest', 'live', 'northwest', 'appreci', 'vital', 'snow', 'accumul', 'mountain']"
+3,4,It melts in spring to provide water for hydropower plants and irrigation for crops.,"['melt', 'spring', 'provid', 'water', 'hydropow', 'plant', 'irrig', 'crop']"
+4,5,"But as seasonal water patterns change, caused in part by changes in snowmelt, the region's diverse ecology and geography can face challenges.","['season', 'water', 'pattern', 'chang', 'caus', 'part', 'chang', 'snowmelt', 'region', ""'s"", 'divers', 'ecolog', 'geographi', 'face', 'challeng']"
+5,6,The impacts of climate change will be strongly felt along the coast -- an area important for the region's economy.,"['impact', 'climat', 'chang', 'strongli', 'felt', 'along', 'coast', 'area', 'import', 'region', ""'s"", 'economi']"
+6,7,"People's livelihoods, recreational areas and infrastructure could be affected by rising sea levels.","['peopl', ""'s"", 'livelihood', 'recreat', 'area', 'infrastructur', 'could', 'affect', 'rise', 'sea', 'level']"
+7,8,"At the same time, wildfires are expected to increase.","['time', 'wildfir', 'expect', 'increas']"
+8,9,"White House: Climate change is here, action needed now
+
+Examples from report:
+
+-- ""Since around 1950, area-averaged snowpack on April 1 in the Cascade Mountains decreased about 20%, spring snowmelt occurred 0 to 30 days earlier depending on location, late winter/early spring streamflow increases ranged from 0% to greater than 20% as a fraction of annual flow, and summer flow decreased 0% to 15% as a fraction of annual flow, with exceptions in smaller areas and shorter time periods.""","['white', 'hous', 'climat', 'chang', 'action', 'need', 'exampl', 'report', 'sinc', 'around', '1950', 'area-averag', 'snowpack', 'april', '1', 'cascad', 'mountain', 'decreas', '20', 'spring', 'snowmelt', 'occur', '0', '30', 'day', 'earlier', 'depend', 'locat', 'late', 'winter/earli', 'spring', 'streamflow', 'increas', 'rang', '0', 'greater', '20', 'fraction', 'annual', 'flow', 'summer', 'flow', 'decreas', '0', '15', 'fraction', 'annual', 'flow', 'except', 'smaller', 'area', 'shorter', 'time', 'period']"
+9,10,"-- As sea levels rise, coastal areas of Washington and Oregon will flood more often.","['sea', 'level', 'rise', 'coastal', 'area', 'washington', 'oregon', 'flood', 'often']"
+10,11,Beaches and habitats will probably decline in these areas.,"['beach', 'habitat', 'probabl', 'declin', 'area']"
+11,12,"-- ""Climate change will alter Northwest forests by increasing wildfire risk and insect and tree disease outbreaks, and by forcing longer-term shifts in forest types and species.""","['climat', 'chang', 'alter', 'northwest', 'forest', 'increas', 'wildfir', 'risk', 'insect', 'tree', 'diseas', 'outbreak', 'forc', 'longer-term', 'shift', 'forest', 'type', 'speci']"
+12,13,"-- Wildfires are a natural part of the forest ecosystem in the Northwest, but warmer and drier conditions have increased the number and extent of such fires.","['wildfir', 'natur', 'part', 'forest', 'ecosystem', 'northwest', 'warmer', 'drier', 'condit', 'increas', 'number', 'extent', 'fire']"
+13,14,"-- ""Projected warming will reduce the availability of irrigation water in snowmelt-fed basins and increase the probability of heat stress to field crops and tree fruit.""","['project', 'warm', 'reduc', 'avail', 'irrig', 'water', 'snowmelt-f', 'basin', 'increas', 'probabl', 'heat', 'stress', 'field', 'crop', 'tree', 'fruit']"
+14,15,"-- In the short term, some crops will benefit from a longer growing season, but the long-term consequences are uncertain.","['short', 'term', 'crop', 'benefit', 'longer', 'grow', 'season', 'long-term', 'consequ', 'uncertain']"
+15,16,"SOUTHWEST
+
+Those in the Southwest, especially in California, have already seen what changes in sea levels and temperature can do.","['southwest', 'southwest', 'especi', 'california', 'alreadi', 'seen', 'chang', 'sea', 'level', 'temperatur']"
+16,17,"Wildfires have ravaged some communities, and there has been damage along the coast due to waves encroaching further and further inland.","['wildfir', 'ravag', 'commun', 'damag', 'along', 'coast', 'due', 'wave', 'encroach', 'inland']"
+17,18,Residents in this region count on a reliable supply of water.,"['resid', 'region', 'count', 'reliabl', 'suppli', 'water']"
+18,19,Imagine if that supply becomes less reliable as snowpack and streamflow amounts decrease?,"['imagin', 'suppli', 'becom', 'less', 'reliabl', 'snowpack', 'streamflow', 'amount', 'decreas']"
+19,20,"Examples from the report:
+
+-- ""Over the past 50 years across most of the Southwest, there has been less late-winter precipitation falling as snow, earlier snowmelt, and earlier arrival of most of the year's streamflow.""","['exampl', 'report', 'past', '50', 'year', 'across', 'southwest', 'less', 'late-wint', 'precipit', 'fall', 'snow', 'earlier', 'snowmelt', 'earlier', 'arriv', 'year', ""'s"", 'streamflow']"
+20,21,"-- Between 1970 and 2003, warmer and drier conditions increased the burned area in the western U.S. mid-elevation conifer forests by 650%.","['1970', '2003', 'warmer', 'drier', 'condit', 'increas', 'burn', 'area', 'western', 'u.s.', 'mid-elev', 'conif', 'forest', '650']"
+21,22,-- The sea level along the California coast has risen anywhere between 6.7 to 7.9 inches over the past 100 years.,"['sea', 'level', 'along', 'california', 'coast', 'risen', 'anywher', '6.7', '7.9', 'inch', 'past', '100', 'year']"
+22,23,"--""If adaptive action is not taken, coastal highways, bridges, and other transportation infrastructure (such as the San Francisco and Oakland airports) are at increased risk of flooding with a 16-inch rise in sea level in the next 50 years.""","['adapt', 'action', 'taken', 'coastal', 'highway', 'bridg', 'transport', 'infrastructur', 'san', 'francisco', 'oakland', 'airport', 'increas', 'risk', 'flood', '16-inch', 'rise', 'sea', 'level', 'next', '50', 'year']"
+23,24,"-- ""The effects of heat stress are greatest during heat waves lasting several days or more, and heat waves are projected to increase in frequency, duration, and intensity,,,,, become more humid, and cause a greater number of deaths.""","['effect', 'heat', 'stress', 'greatest', 'heat', 'wave', 'last', 'sever', 'day', 'heat', 'wave', 'project', 'increas', 'frequenc', 'durat', 'intens', 'becom', 'humid', 'caus', 'greater', 'number', 'death']"
+24,25,"GREAT PLAINS
+
+A large chunk of the middle United States, from Texas to Montana and the Dakotas, falls into this category in the report.","['great', 'plain', 'larg', 'chunk', 'middl', 'unit', 'state', 'texa', 'montana', 'dakota', 'fall', 'categori', 'report']"
+25,26,What do Texans and Montanans have in common when it comes to climate?,"['texan', 'montanan', 'common', 'come', 'climat']"
+26,27,"Well, the entire region will see increased demand for water and energy, and temperatures rise.","['well', 'entir', 'region', 'see', 'increas', 'demand', 'water', 'energi', 'temperatur', 'rise']"
+27,28,Changes in how much you have to cool or warm your house has large impacts on the efficiency of energy use.,"['chang', 'much', 'cool', 'warm', 'hous', 'larg', 'impact', 'effici', 'energi', 'use']"
+28,29,"Five things you can do
+
+Climate change doesn't have just negative effects.","['five', 'thing', 'climat', 'chang', ""n't"", 'neg', 'effect']"
+29,30,"For example, increased rainfall in the Northern Plains could increase agricultural productivity.","['exampl', 'increas', 'rainfal', 'northern', 'plain', 'could', 'increas', 'agricultur', 'product']"
+30,31,"But in the Central and Southern Plains, declines in rainfall means crop yields will be reduced.","['central', 'southern', 'plain', 'declin', 'rainfal', 'mean', 'crop', 'yield', 'reduc']"
+31,32,"Examples from report:
+
+-- In the Northern Plains, warmer winters mean that there may be a reduction in heating demand, but it might be outweighed by greater demand for air conditioning during warmer summers.","['exampl', 'report', 'northern', 'plain', 'warmer', 'winter', 'mean', 'may', 'reduct', 'heat', 'demand', 'might', 'outweigh', 'greater', 'demand', 'air', 'condit', 'warmer', 'summer']"
+32,33,"-- In the Central and Southern Plains, ""the climate impacts of shifting from irrigated to dryland agriculture would reduce crop yields by about a factor of two.""","['central', 'southern', 'plain', 'climat', 'impact', 'shift', 'irrig', 'dryland', 'agricultur', 'would', 'reduc', 'crop', 'yield', 'factor', 'two']"
+33,34,"-- Plants and animals adjust to rising temperatures by adjusting their ranges, but that is becoming more difficult.","['plant', 'anim', 'adjust', 'rise', 'temperatur', 'adjust', 'rang', 'becom', 'difficult']"
+34,35,"For example: ""The historic bison herds migrated to adapt to climate, disturbance, and associated habitat variability, but modern land-use patterns, roads, agriculture, and structures inhibit similar large-scale migration.""","['exampl', 'histor', 'bison', 'herd', 'migrat', 'adapt', 'climat', 'disturb', 'associ', 'habitat', 'variabl', 'modern', 'land-us', 'pattern', 'road', 'agricultur', 'structur', 'inhibit', 'similar', 'large-scal', 'migrat']"
+35,36,"-- Native American communities face physical and political constraints as the climate changes: ""Tribal members have reported the decline or disappearance of culturally important animal species, changes in the timing of cultural ceremonies due to earlier onset of spring, and the inability to locate certain types of ceremonial wild plants.""","['nativ', 'american', 'commun', 'face', 'physic', 'polit', 'constraint', 'climat', 'chang', 'tribal', 'member', 'report', 'declin', 'disappear', 'cultur', 'import', 'anim', 'speci', 'chang', 'time', 'cultur', 'ceremoni', 'due', 'earlier', 'onset', 'spring', 'inabl', 'locat', 'certain', 'type', 'ceremoni', 'wild', 'plant']"
+36,37,"MIDWEST
+
+The Midwest is home to one of the country's treasures, the Great Lakes.","['midwest', 'midwest', 'home', 'one', 'countri', ""'s"", 'treasur', 'great', 'lake']"
+37,38,"Climate change, however, means that the ecosystem might see changes such as increased invasive species and harmful algae, and declining beach health.","['climat', 'chang', 'howev', 'mean', 'ecosystem', 'might', 'see', 'chang', 'increas', 'invas', 'speci', 'harm', 'alga', 'declin', 'beach', 'health']"
+38,39,"On the flipside, less ice on the lake could increase the shipping season.","['flipsid', 'less', 'ice', 'lake', 'could', 'increas', 'ship', 'season']"
+39,40,"As in other regions, the growing season stands to be lengthened because of the climate change, but again, it risks being offset by extreme weather events such as freezes that ruin crops.","['region', 'grow', 'season', 'stand', 'lengthen', 'climat', 'chang', 'risk', 'offset', 'extrem', 'weather', 'event', 'freez', 'ruin', 'crop']"
+40,41,"Examples from report:
+
+-- The Midwest growing season lengthened by almost two weeks since 1950.","['exampl', 'report', 'midwest', 'grow', 'season', 'lengthen', 'almost', 'two', 'week', 'sinc', '1950']"
+41,42,"-- The longer growing season can be offset by extreme weather, such as freezes and springtime cold outbreaks.","['longer', 'grow', 'season', 'offset', 'extrem', 'weather', 'freez', 'springtim', 'cold', 'outbreak']"
+42,43,-- The frequency of major heat waves in the Midwest has increased over the past 60 years.,"['frequenc', 'major', 'heat', 'wave', 'midwest', 'increas', 'past', '60', 'year']"
+43,44,"-- ""One study projected an increase of between 166 and 2,217 excess deaths per year from heat wave-related mortality in Chicago alone by 2081-2100.""","['one', 'studi', 'project', 'increas', '166', '2,217', 'excess', 'death', 'per', 'year', 'heat', 'wave-rel', 'mortal', 'chicago', 'alon', '2081-2100']"
+44,45,"-- ""The Great Lakes, North America's largest freshwater feature, have recently recorded higher water temperatures and less ice cover as a result of changes in regional climate.""","['great', 'lake', 'north', 'america', ""'s"", 'largest', 'freshwat', 'featur', 'recent', 'record', 'higher', 'water', 'temperatur', 'less', 'ice', 'cover', 'result', 'chang', 'region', 'climat']"
+45,46,"SOUTHEAST
+
+The Southeast -- known for its beaches, its seafood and ports, and as home to two of the nation's major cities -- Atlanta and Miami -- could face risks due to climate change.","['southeast', 'southeast', 'known', 'beach', 'seafood', 'port', 'home', 'two', 'nation', ""'s"", 'major', 'citi', 'atlanta', 'miami', 'could', 'face', 'risk', 'due', 'climat', 'chang']"
+46,47,"Sea-level, rise, especially, can affect the region, as well as extreme weather such as hurricanes and heat spells.","['sea-level', 'rise', 'especi', 'affect', 'region', 'well', 'extrem', 'weather', 'hurrican', 'heat', 'spell']"
+47,48,"The risk is intensified in that so many cities, roads, energy facilities and water supplies are on the coast.","['risk', 'intensifi', 'mani', 'citi', 'road', 'energi', 'facil', 'water', 'suppli', 'coast']"
+48,49,"Opinion: Wake up to the reality
+
+The hot weather is only going to get hotter, though the increases for this region are smaller than for some others.","['opinion', 'wake', 'realiti', 'hot', 'weather', 'go', 'get', 'hotter', 'though', 'increas', 'region', 'smaller', 'other']"
+49,50,"Examples from report:
+
+--North Carolina is raising the roadbed of U.S. Highway 64 across the Albemarle-Pamlico Peninsula on the coast by four feet, which includes 18 inches to allow for higher future sea levels.","['exampl', 'report', 'north', 'carolina', 'rais', 'roadb', 'u.s.', 'highway', '64', 'across', 'albemarle-pamlico', 'peninsula', 'coast', 'four', 'feet', 'includ', '18', 'inch', 'allow', 'higher', 'futur', 'sea', 'level']"
+50,51,"-- ""Louisiana State Highway 1, heavily used for delivering critical oil and gas resources from Port Fourchon, is literally sinking, resulting in more frequent and more severe flooding during high tides and storms.""","['louisiana', 'state', 'highway', '1', 'heavili', 'use', 'deliv', 'critic', 'oil', 'ga', 'resourc', 'port', 'fourchon', 'liter', 'sink', 'result', 'frequent', 'sever', 'flood', 'high', 'tide', 'storm']"
+51,52,-- Utilities will be under more pressure as rising seas means saltwater can contaminate freshwater supplies.,"['util', 'pressur', 'rise', 'sea', 'mean', 'saltwat', 'contamin', 'freshwat', 'suppli']"
+52,53,"-- The summer heat will continue to reduce crop productively and damage crops, as happened in Georgia in 2007, when a drought cost $339 million in losses.","['summer', 'heat', 'continu', 'reduc', 'crop', 'product', 'damag', 'crop', 'happen', 'georgia', '2007', 'drought', 'cost', '339', 'million', 'loss']"
+53,54,"NORTHEAST
+
+New York.","['northeast', 'new', 'york']"
+54,55,Washington.,['washington']
+55,56,Some of the country's most important cities are categorized together in the climate report under the Northeast region.,"['countri', ""'s"", 'import', 'citi', 'categor', 'togeth', 'climat', 'report', 'northeast', 'region']"
+56,57,"The governmental and financial hubs of the United States will have to withstand heat waves, downpours, and a rising sea level.","['government', 'financi', 'hub', 'unit', 'state', 'withstand', 'heat', 'wave', 'downpour', 'rise', 'sea', 'level']"
+57,58,"The Northeast is a highly-urbanized region, where the heat and other climate factors can take a toll on the population.","['northeast', 'highly-urban', 'region', 'heat', 'climat', 'factor', 'take', 'toll', 'popul']"
+58,59,"Already, there are examples of cities in this region incorporating the risk into their planning.","['alreadi', 'exampl', 'citi', 'region', 'incorpor', 'risk', 'plan']"
+59,60,"Industries such as agriculture and fishing will be tested, and farmers can choose to explore alternate crops, but this is not easy or cheap.","['industri', 'agricultur', 'fish', 'test', 'farmer', 'choos', 'explor', 'altern', 'crop', 'easi', 'cheap']"
+60,61,"Examples from report:
+
+-- ""One recent study projected that temperature changes alone would lead to a 50% to 91% increase in heat-related deaths in Manhattan by the 2080s.""","['exampl', 'report', 'one', 'recent', 'studi', 'project', 'temperatur', 'chang', 'alon', 'would', 'lead', '50', '91', 'increas', 'heat-rel', 'death', 'manhattan', '2080']"
+61,62,-- Don't forget about rural areas.,"[""n't"", 'forget', 'rural', 'area']"
+62,63,Places where air conditioning is not prevalent because heat waves are rare suddenly become vulnerable when such heat events become more frequent.,"['place', 'air', 'condit', 'preval', 'heat', 'wave', 'rare', 'suddenli', 'becom', 'vulner', 'heat', 'event', 'becom', 'frequent']"
+63,64,"-- ""In New York State, two feet of sea level rise is estimated (absent adaptation investment) to flood or render unusable 212 miles of roads, 77 miles of rail, 3,647 acres of airport facilities, and 539 acres of runways.""","['new', 'york', 'state', 'two', 'feet', 'sea', 'level', 'rise', 'estim', 'absent', 'adapt', 'invest', 'flood', 'render', 'unus', '212', 'mile', 'road', '77', 'mile', 'rail', '3,647', 'acr', 'airport', 'facil', '539', 'acr', 'runway']"
+64,65,-- Higher ocean temperatures mean that commercially important fish will be pushed northward.,"['higher', 'ocean', 'temperatur', 'mean', 'commerci', 'import', 'fish', 'push', 'northward']"
+65,66,This means fisheries that depend on cod and lobster face significant declines.,"['mean', 'fisheri', 'depend', 'cod', 'lobster', 'face', 'signific', 'declin']"

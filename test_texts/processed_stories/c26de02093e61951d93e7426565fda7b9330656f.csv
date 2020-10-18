@@ -1,0 +1,16 @@
+,Label,Sentence,Words
+0,1,Major League Baseball is to investigate a possible racially motivated incident involving Baltimore Orioles centerfield Adam Jones during their game at San Francisco Giants Sunday.,"['major', 'leagu', 'basebal', 'investig', 'possibl', 'racial', 'motiv', 'incid', 'involv', 'baltimor', 'oriol', 'centerfield', 'adam', 'jone', 'game', 'san', 'francisco', 'giant', 'sunday']"
+1,2,Jones took to Twitter to claim that a fan threw a banana at him during the ninth inning at AT&T Park.,"['jone', 'took', 'twitter', 'claim', 'fan', 'threw', 'banana', 'ninth', 'inning', 'park']"
+2,3,"Jones, who is an African-American, voiced his displeasure on his official account.","['jone', 'african-american', 'voic', 'displeasur', 'offici', 'account']"
+3,4,"""I want to thank whatever slap---- threw that banana towards my direction in the last inning,"" he posted.","['want', 'thank', 'whatev', 'slap', 'threw', 'banana', 'toward', 'direct', 'last', 'inning', 'post']"
+4,5,"""Way to show (your) class (you) jack---""
+
+MLB Senior Vice President of Public Relations Patrick Courtney told CNN Sports Monday: ""We are looking into this situation.""","['way', 'show', 'class', 'jack', 'mlb', 'senior', 'vice', 'presid', 'public', 'relat', 'patrick', 'courtney', 'told', 'cnn', 'sport', 'monday', 'look', 'situat']"
+5,6,"San Francisco also promised action, but in a statement released to CNN said they had to date been unable to identify the person responsible.","['san', 'francisco', 'also', 'promis', 'action', 'statement', 'releas', 'cnn', 'said', 'date', 'unabl', 'identifi', 'person', 'respons']"
+6,7,"""The Giants have a zero tolerance policy against this type of behavior, which results in immediate ejection from the ballpark,"" it read.","['giant', 'zero', 'toler', 'polici', 'type', 'behavior', 'result', 'immedi', 'eject', 'ballpark', 'read']"
+7,8,"""We would like to extend our sincerest apologies to Adam and the entire Orioles organization for this unfortunate incident.","['would', 'like', 'extend', 'sincerest', 'apolog', 'adam', 'entir', 'oriol', 'organ', 'unfortun', 'incid']"
+8,9,"""The inappropriate actions of this individual in no way reflect the values of our organization and our fans.""","['inappropri', 'action', 'individu', 'way', 'reflect', 'valu', 'organ', 'fan']"
+9,10,"The Orioles enjoyed a 10-2 victory over last season's World Series winners, rallying from an early two-run deficit to score 10 unanswered runs.","['oriol', 'enjoy', '10-2', 'victori', 'last', 'season', ""'s"", 'world', 'seri', 'winner', 'ralli', 'earli', 'two-run', 'deficit', 'score', '10', 'unansw', 'run']"
+10,11,Jones hit a three-run homer at the top of the ninth inning to help clinch the victory.,"['jone', 'hit', 'three-run', 'homer', 'top', 'ninth', 'inning', 'help', 'clinch', 'victori']"
+11,12,He said the reaction of some on Twitter to his angry posting could mean him closing his account.,"['said', 'reaction', 'twitter', 'angri', 'post', 'could', 'mean', 'close', 'account']"
+12,13,"""Good chance this means I get off social media soon,"" he later tweeted.","['good', 'chanc', 'mean', 'get', 'social', 'media', 'soon', 'later', 'tweet']"

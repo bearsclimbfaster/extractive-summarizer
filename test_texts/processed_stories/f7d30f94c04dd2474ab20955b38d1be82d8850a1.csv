@@ -1,0 +1,52 @@
+,Label,Sentence,Words
+0,1,President Barack Obama delivers the first State of the Union address of his second term on Tuesday.,"['presid', 'barack', 'obama', 'deliv', 'first', 'state', 'union', 'address', 'second', 'term', 'tuesday']"
+1,2,"Here are five things to watch for as the president lays out his second-term agenda:
+
+1.","['five', 'thing', 'watch', 'presid', 'lay', 'second-term', 'agenda', '1']"
+2,3,"Slap and tickle
+
+Sources say the president will point out bipartisan progress on immigration reform but he'll take it to the GOP on debt and tax reform.","['slap', 'tickl', 'sourc', 'say', 'presid', 'point', 'bipartisan', 'progress', 'immigr', 'reform', ""'ll"", 'take', 'gop', 'debt', 'tax', 'reform']"
+3,4,"Already, Republicans are bracing to play victim.","['alreadi', 'republican', 'brace', 'play', 'victim']"
+4,5,Tally up the jabs and weigh them against mentions of common ground.,"['talli', 'jab', 'weigh', 'mention', 'common', 'ground']"
+5,6,That will be an early scorecard for Wednesday-morning quarterbacking.,"['earli', 'scorecard', 'wednesday-morn', 'quarterback']"
+6,7,"Obama set to challenge and persuade
+
+2.","['obama', 'set', 'challeng', 'persuad', '2']"
+7,8,"Wish lists
+
+Expect to forget what the president says.","['wish', 'list', 'expect', 'forget', 'presid', 'say']"
+8,9,"Nothing personal, Mr. President, but State of the Union addresses are notoriously forgotten.","['noth', 'person', 'mr.', 'presid', 'state', 'union', 'address', 'notori', 'forgotten']"
+9,10,"John F. Kennedy was a great orator -- quick, what did he say in his State of the Unions?","['john', 'f.', 'kennedi', 'great', 'orat', 'quick', 'say', 'state', 'union']"
+10,11,How about Reagan?,['reagan']
+11,12,They're just not great venues for rhetoric.,"[""'re"", 'great', 'venu', 'rhetor']"
+12,13,"Granted, the Monroe Doctrine and the Four Freedoms were both laid out in State of the Unions, but in general they tend to be laundry lists for party policy wishes.","['grant', 'monro', 'doctrin', 'four', 'freedom', 'laid', 'state', 'union', 'gener', 'tend', 'laundri', 'list', 'parti', 'polici', 'wish']"
+13,14,"8 memorable State of the Union moments
+
+3.","['8', 'memor', 'state', 'union', 'moment', '3']"
+14,15,"What he doesn't say
+
+An average of 44 million people have watched Obama deliver previous State of the Union addresses.","[""n't"", 'say', 'averag', '44', 'million', 'peopl', 'watch', 'obama', 'deliv', 'previou', 'state', 'union', 'address']"
+15,16,His aides say a huge audience equals a huge opportunity.,"['aid', 'say', 'huge', 'audienc', 'equal', 'huge', 'opportun']"
+16,17,"So, will he seize the opportunity to answer his critics and respond to his base on issues including: U.S. use of unmanned drones, the legal rationale for targeting Americans, U.S. policy in Syria, Iran's nuclear program, and security of U.S. diplomatic posts?","['seiz', 'opportun', 'answer', 'critic', 'respond', 'base', 'issu', 'includ', 'u.s.', 'use', 'unman', 'drone', 'legal', 'rational', 'target', 'american', 'u.s.', 'polici', 'syria', 'iran', ""'s"", 'nuclear', 'program', 'secur', 'u.s.', 'diplomat', 'post']"
+17,18,"On the domestic front, will he address poverty in the United States?","['domest', 'front', 'address', 'poverti', 'unit', 'state']"
+18,19,Will any of these controversial issues make the cut?,"['controversi', 'issu', 'make', 'cut']"
+19,20,"State of the Union to focus on jobs, wages and the economy
+
+4.","['state', 'union', 'focu', 'job', 'wage', 'economi', '4']"
+20,21,"Keep count
+
+Count how many times your issue gets mentioned.","['keep', 'count', 'count', 'mani', 'time', 'issu', 'get', 'mention']"
+21,22,"While presidential speechwriters insist the amount of time dedicated to an issue in most speeches doesn't matter as much as the language used to describe it, the State of the Union is an exception.","['presidenti', 'speechwrit', 'insist', 'amount', 'time', 'dedic', 'issu', 'speech', ""n't"", 'matter', 'much', 'languag', 'use', 'describ', 'state', 'union', 'except']"
+22,23,That's because every word is debated.,"[""'s"", 'everi', 'word', 'debat']"
+23,24,Aides say this speech will be heavy on economic themes.,"['aid', 'say', 'speech', 'heavi', 'econom', 'theme']"
+24,25,"But look to see how much time Obama spends on the other issues he outlined in his inaugural address, including gay rights, women's rights, climate change and education.","['look', 'see', 'much', 'time', 'obama', 'spend', 'issu', 'outlin', 'inaugur', 'address', 'includ', 'gay', 'right', 'women', ""'s"", 'right', 'climat', 'chang', 'educ']"
+25,26,Mentions matter.,"['mention', 'matter']"
+26,27,"Republicans, Democrats suggest priorities ahead of State of the Union
+
+5.","['republican', 'democrat', 'suggest', 'prioriti', 'ahead', 'state', 'union', '5']"
+27,28,Will she or won't she?,"['wo', ""n't""]"
+28,29,Serious people don't care -- or so they say.,"['seriou', 'peopl', ""n't"", 'care', 'say']"
+29,30,"But since first lady Michelle Obama shocked tout de D.C. by showing her guns in the heroes box during the president's 2009 joint address to Congress, her outfit has become one of the best (sometimes only) surprises of the night.","['sinc', 'first', 'ladi', 'michel', 'obama', 'shock', 'tout', 'de', 'd.c.', 'show', 'gun', 'hero', 'box', 'presid', ""'s"", '2009', 'joint', 'address', 'congress', 'outfit', 'becom', 'one', 'best', 'sometim', 'surpris', 'night']"
+30,31,Will she bare her arms again?,"['bare', 'arm']"
+31,32,"Right now, it's one of the most closely held secrets in Washington.","['right', ""'s"", 'one', 'close', 'held', 'secret', 'washington']"
+32,33,"Obama to announce 34,000 troops to come home","['obama', 'announc', '34,000', 'troop', 'come', 'home']"

@@ -1,0 +1,12 @@
+,Label,Sentence,Words
+0,1,"Disgraced former lobbyist Jack Abramoff was transferred Tuesday from prison to a Maryland halfway house to serve out the remainder of his sentence, a spokeswoman for the Bureau of Prisons told CNN.","['disgrac', 'former', 'lobbyist', 'jack', 'abramoff', 'transfer', 'tuesday', 'prison', 'maryland', 'halfway', 'hous', 'serv', 'remaind', 'sentenc', 'spokeswoman', 'bureau', 'prison', 'told', 'cnn']"
+1,2,"Abramoff, who has been in prison in Cumberland, Maryland, has a scheduled release date of December 4, according to the agency Web site.","['abramoff', 'prison', 'cumberland', 'maryland', 'schedul', 'releas', 'date', 'decemb', '4', 'accord', 'agenc', 'web', 'site']"
+2,3,"Abramoff, once a high-rolling Republican lobbyist, pleaded guilty to a raft of federal corruption charges in 2006.","['abramoff', 'high-rol', 'republican', 'lobbyist', 'plead', 'guilti', 'raft', 'feder', 'corrupt', 'charg', '2006']"
+3,4,He admitted illegally showering gifts on officials who provided favors for his clients and agreed to cooperate with prosecutors.,"['admit', 'illeg', 'shower', 'gift', 'offici', 'provid', 'favor', 'client', 'agre', 'cooper', 'prosecutor']"
+4,5,"Among other things, the inquiry led to prison time for a former congressman, Ohio Republican Bob Ney; for Stephen Griles, once the Bush administration's deputy interior secretary; and for several former congressional staffers.","['among', 'thing', 'inquiri', 'led', 'prison', 'time', 'former', 'congressman', 'ohio', 'republican', 'bob', 'ney', 'stephen', 'grile', 'bush', 'administr', ""'s"", 'deputi', 'interior', 'secretari', 'sever', 'former', 'congression', 'staffer']"
+5,6,"Abramoff said at a 2008 sentencing hearing that he was ""a broken man.""","['abramoff', 'said', '2008', 'sentenc', 'hear', 'broken', 'man']"
+6,7,"""I've fallen into an abyss,"" he said.","[""'ve"", 'fallen', 'abyss', 'said']"
+7,8,"""My name is the butt of a joke, the source of a laugh and the title of a scandal.","['name', 'butt', 'joke', 'sourc', 'laugh', 'titl', 'scandal']"
+8,9,...,[]
+9,10,"I hope this horrible nightmare ends at some point.""","['hope', 'horribl', 'nightmar', 'end', 'point']"
+10,11,CNN's Carol Cratty contributed to this report.,"['cnn', ""'s"", 'carol', 'cratti', 'contribut', 'report']"

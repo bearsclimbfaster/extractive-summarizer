@@ -1,0 +1,15 @@
+,Label,Sentence,Words
+0,1,Google's new Nexus S smartphone has launched.,"['googl', ""'s"", 'new', 'nexu', 'smartphon', 'launch']"
+1,2,Literally.,['liter']
+2,3,"To celebrate the release of the Nexus S, Google employees constructed seven hobbyist-style air balloons, each containing a phone, and sent them into orbit.","['celebr', 'releas', 'nexu', 'googl', 'employe', 'construct', 'seven', 'hobbyist-styl', 'air', 'balloon', 'contain', 'phone', 'sent', 'orbit']"
+3,4,"In a company blog post chronicling the nerdy stunt, Google's Zi Wang wrote that the project was intended to help test some of the hardware sensors in the phone.","['compani', 'blog', 'post', 'chronicl', 'nerdi', 'stunt', 'googl', ""'s"", 'zi', 'wang', 'wrote', 'project', 'intend', 'help', 'test', 'hardwar', 'sensor', 'phone']"
+4,5,But that could just be a front to convince their bosses they weren't goofing off.,"['could', 'front', 'convinc', 'boss', ""n't"", 'goof']"
+5,6,Or it could be related to a project Wang mentioned in an interview with New Scientist last week.,"['could', 'relat', 'project', 'wang', 'mention', 'interview', 'new', 'scientist', 'last', 'week']"
+6,7,"Google is in talks with a UK satellite manufacturer about contributing the core technology in the Nexus S to help build small satellites, according to that report.","['googl', 'talk', 'uk', 'satellit', 'manufactur', 'contribut', 'core', 'technolog', 'nexu', 'help', 'build', 'small', 'satellit', 'accord', 'report']"
+7,8,"""The phone is powerful enough,"" Wang told the science publication.","['phone', 'power', 'enough', 'wang', 'told', 'scienc', 'public']"
+8,9,Google says it recovered all seven capsules from the test run.,"['googl', 'say', 'recov', 'seven', 'capsul', 'test', 'run']"
+9,10,"At least one of those reached higher than 100,000 feet (more than 20 miles).","['least', 'one', 'reach', 'higher', '100,000', 'feet', '20', 'mile']"
+10,11,"The phones stopped functioning at 60,000 feet -- about twice as high as most planes fly.","['phone', 'stop', 'function', '60,000', 'feet', 'twice', 'high', 'plane', 'fli']"
+11,12,Not bad for being in space without a helmet.,"['bad', 'space', 'without', 'helmet']"
+12,13,Google says the phones started working again on descent.,"['googl', 'say', 'phone', 'start', 'work', 'descent']"
+13,14,The company posted several videos about the project on YouTube.,"['compani', 'post', 'sever', 'video', 'project', 'youtub']"

@@ -1,0 +1,131 @@
+,Label,Sentence,Words
+0,1,"Vienna, famous for its hundreds of museums, 2000 parks and of course its roasted coffee, is the best place on the planet to live, according to Mercer's 2012 Quality of Living Index.","['vienna', 'famou', 'hundr', 'museum', '2000', 'park', 'cours', 'roast', 'coffe', 'best', 'place', 'planet', 'live', 'accord', 'mercer', ""'s"", '2012', 'qualiti', 'live', 'index']"
+1,2,This year's latest accolade makes Vienna number one in the world for the fourth year in a row.,"['year', ""'s"", 'latest', 'accolad', 'make', 'vienna', 'number', 'one', 'world', 'fourth', 'year', 'row']"
+2,3,The annual survey by the global human resources consulting firm points not just to Austria's qualities but to much of the region's virtues.,"['annual', 'survey', 'global', 'human', 'resourc', 'consult', 'firm', 'point', 'austria', ""'s"", 'qualiti', 'much', 'region', ""'s"", 'virtu']"
+3,4,Eight of the report's top 10 cities are in Europe.,"['eight', 'report', ""'s"", 'top', '10', 'citi', 'europ']"
+4,5,"Zurich is the world's second most livable city while three German cities -- Munich, Dusseldorf and Frankfurt -- follow close behind.","['zurich', 'world', ""'s"", 'second', 'livabl', 'citi', 'three', 'german', 'citi', 'munich', 'dusseldorf', 'frankfurt', 'follow', 'close', 'behind']"
+5,6,"""Overall, European cities continue to have high quality of living as a result of a combination of increased stability, rising living standards and advanced city infrastructures,"" said Slagin Parakatil, Senior Researcher at Mercer.","['overal', 'european', 'citi', 'continu', 'high', 'qualiti', 'live', 'result', 'combin', 'increas', 'stabil', 'rise', 'live', 'standard', 'advanc', 'citi', 'infrastructur', 'said', 'slagin', 'parakatil', 'senior', 'research', 'mercer']"
+6,7,"This is despite economic turmoil, political tension and high unemployment in some European countries.","['despit', 'econom', 'turmoil', 'polit', 'tension', 'high', 'unemploy', 'european', 'countri']"
+7,8,"Australian, New Zealand and Canadian metropolises round out the top ten list.","['australian', 'new', 'zealand', 'canadian', 'metropolis', 'round', 'top', 'ten', 'list']"
+8,9,"The world's top 30 cities of the Mercer 2012 index
+
+1.","['world', ""'s"", 'top', '30', 'citi', 'mercer', '2012', 'index', '1']"
+9,10,"Vienna, Austria
+
+2.","['vienna', 'austria', '2']"
+10,11,"Zurich, Switzerland
+
+3.","['zurich', 'switzerland', '3']"
+11,12,"Auckland, New Zealand
+
+4.","['auckland', 'new', 'zealand', '4']"
+12,13,"Munich, Germany
+
+5.","['munich', 'germani', '5']"
+13,14,"Vancouver, Canada
+
+6.","['vancouv', 'canada', '6']"
+14,15,"DÃ¼sseldorf, Germany
+
+7.","['dã¼sseldorf', 'germani', '7']"
+15,16,"Frankfurt, Germany
+
+8.","['frankfurt', 'germani', '8']"
+16,17,"Geneva, Switzerland
+
+9.","['geneva', 'switzerland', '9']"
+17,18,"Copenhagen, Denmark
+
+10.","['copenhagen', 'denmark', '10']"
+18,19,"Bern, Switzerland
+
+10.","['bern', 'switzerland', '10']"
+19,20,"(tie) Sydney, Australia
+
+12.","['tie', 'sydney', 'australia', '12']"
+20,21,"Amsterdam, Netherlands
+
+13.","['amsterdam', 'netherland', '13']"
+21,22,"Wellington, New Zealand
+
+14.","['wellington', 'new', 'zealand', '14']"
+22,23,"Ottawa, Canada
+
+15.","['ottawa', 'canada', '15']"
+23,24,"Toronto, Canada
+
+16.","['toronto', 'canada', '16']"
+24,25,"Berlin, Germany
+
+17.","['berlin', 'germani', '17']"
+25,26,"Hamburg, Germany
+
+17.","['hamburg', 'germani', '17']"
+26,27,"Melbourne, Australia
+
+19.","['melbourn', 'australia', '19']"
+27,28,"Luxembourg, Luxembourg
+
+21.","['luxembourg', 'luxembourg', '21']"
+28,29,"Perth, Australia
+
+22.","['perth', 'australia', '22']"
+29,30,"Brussels, Belgium
+
+23.","['brussel', 'belgium', '23']"
+30,31,"Montreal, Canada
+
+24.","['montreal', 'canada', '24']"
+31,32,"Nuremberg, Germany
+
+25.","['nuremberg', 'germani', '25']"
+32,33,"Singapore, Singapore
+
+26.","['singapor', 'singapor', '26']"
+33,34,"Canberra, Australia
+
+27.","['canberra', 'australia', '27']"
+34,35,"Stuttgart, Germany
+
+28.","['stuttgart', 'germani', '28']"
+35,36,"Honolulu, U.S.
+
+29.","['honolulu', 'u.s.', '29']"
+36,37,"Adelaide, Australia
+
+29.","['adelaid', 'australia', '29']"
+37,38,"(tie) Paris, France
+
+29.","['tie', 'pari', 'franc', '29']"
+38,39,"(tie) San Francisco, U.S.
+
+Mercer's survey results are based on an analysis of local living conditions comprising 39 factors in 10 categories.","['tie', 'san', 'francisco', 'u.s.', 'mercer', ""'s"", 'survey', 'result', 'base', 'analysi', 'local', 'live', 'condit', 'compris', '39', 'factor', '10', 'categori']"
+39,40,Political considerations include government stability and crime rates.,"['polit', 'consider', 'includ', 'govern', 'stabil', 'crime', 'rate']"
+40,41,Economic factors take into account banking services and currency exchange laws.,"['econom', 'factor', 'take', 'account', 'bank', 'servic', 'currenc', 'exchang', 'law']"
+41,42,Health considerations include access to medical care and pollution levels.,"['health', 'consider', 'includ', 'access', 'medic', 'care', 'pollut', 'level']"
+42,43,"Transport, housing and recreation are also taken into account.","['transport', 'hous', 'recreat', 'also', 'taken', 'account']"
+43,44,City scores help multinational companies calculate compensation packages for the employees they dispatch overseas.,"['citi', 'score', 'help', 'multin', 'compani', 'calcul', 'compens', 'packag', 'employe', 'dispatch', 'oversea']"
+44,45,"A lower score often correlates into a better compensation package that includes hardship allowances, according to Mercer.","['lower', 'score', 'often', 'correl', 'better', 'compens', 'packag', 'includ', 'hardship', 'allow', 'accord', 'mercer']"
+45,46,Countries with unstable governments or undergoing civil strife tend usually have lower scores.,"['countri', 'unstabl', 'govern', 'undergo', 'civil', 'strife', 'tend', 'usual', 'lower', 'score']"
+46,47,Eight African cities dominate the bottom ten in this year's survey.,"['eight', 'african', 'citi', 'domin', 'bottom', 'ten', 'year', ""'s"", 'survey']"
+47,48,"""The ongoing turmoil in many countries across North Africa and the Middle East has led to serous security issues for locals and expatriates,"" says Mercer's Parakatil.","['ongo', 'turmoil', 'mani', 'countri', 'across', 'north', 'africa', 'middl', 'east', 'led', 'serou', 'secur', 'issu', 'local', 'expatri', 'say', 'mercer', ""'s"", 'parakatil']"
+48,49,"""Companies need to be able to proactively implement mitigation plans, such as emergency repatriation, or adjust expatriate compensation packages accordingly.""","['compani', 'need', 'abl', 'proactiv', 'implement', 'mitig', 'plan', 'emerg', 'repatri', 'adjust', 'expatri', 'compens', 'packag', 'accordingli']"
+49,50,"Around the word and on a regional basis, the cities that score the lowest are the following:
+
+64.","['around', 'word', 'region', 'basi', 'citi', 'score', 'lowest', 'follow', '64']"
+50,51,"Belfast, Northern Ireland (Western Europe)
+
+71.","['belfast', 'northern', 'ireland', 'western', 'europ', '71']"
+51,52,"Detroit, Michigan, (United States)
+
+207.","['detroit', 'michigan', 'unit', 'state', '207']"
+52,53,"Dushanbe, Tajikistan (Asia-Pacific)
+
+213.","['dushanb', 'tajikistan', 'asia-pacif', '213']"
+53,54,"Tbilisi, Georgia (Eastern Europe)
+
+219.","['tbilisi', 'georgia', 'eastern', 'europ', '219']"
+54,55,"Port-au-Prince, Haiti (North Americas)
+
+This year's city with the worst quality of life?","['port-au-princ', 'haiti', 'north', 'america', 'year', ""'s"", 'citi', 'worst', 'qualiti', 'life']"
+55,56,"Baghdad, Iraq at #221.","['baghdad', 'iraq', '221']"

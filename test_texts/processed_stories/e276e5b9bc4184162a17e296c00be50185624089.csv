@@ -1,0 +1,53 @@
+,Label,Sentence,Words
+0,1,"It's daybreak on Sara Creek, a sleepy backwater that sits near Yorktown, Virginia, and empties into the Chesapeake.","[""'s"", 'daybreak', 'sara', 'creek', 'sleepi', 'backwat', 'sit', 'near', 'yorktown', 'virginia', 'empti', 'chesapeak']"
+1,2,"The early morning fog slowly lifts to reveal the ripples of water, the boats swaying, and a picturesque harbor.","['earli', 'morn', 'fog', 'slowli', 'lift', 'reveal', 'rippl', 'water', 'boat', 'sway', 'picturesqu', 'harbor']"
+2,3,Tommy Leggett works to reduce polluted waters in Chesapeake Bay by growing oysters.,"['tommi', 'leggett', 'work', 'reduc', 'pollut', 'water', 'chesapeak', 'bay', 'grow', 'oyster']"
+3,4,Local watermen have been fishing around this area for generations.,"['local', 'watermen', 'fish', 'around', 'area', 'gener']"
+4,5,"It's beginning to rain, and Tommy Leggett, a very proud and reserved waterman, combs over his white beard with his rough hands and prepares his boat, ""Chesapeake Gold,"" for what looks like a day of fishing out in the bay.","[""'s"", 'begin', 'rain', 'tommi', 'leggett', 'proud', 'reserv', 'waterman', 'comb', 'white', 'beard', 'rough', 'hand', 'prepar', 'boat', 'chesapeak', 'gold', 'look', 'like', 'day', 'fish', 'bay']"
+5,6,"""I've been a waterman for over 20 years,"" he says.","[""'ve"", 'waterman', '20', 'year', 'say']"
+6,7,The difference now is Leggett doesn't fish anymore.,"['differ', 'leggett', ""n't"", 'fish', 'anymor']"
+7,8,He's an eco-conscious farmer and advocate who works on his sustainable oyster farm in the James River.,"[""'s"", 'eco-consci', 'farmer', 'advoc', 'work', 'sustain', 'oyster', 'farm', 'jame', 'river']"
+8,9,"He uses the term ""aquaculture"" to describe what he's doing here.","['use', 'term', 'aquacultur', 'describ', ""'s""]"
+9,10,"""It refers to the husbandry, or farming, of aquatic species.""","['refer', 'husbandri', 'farm', 'aquat', 'speci']"
+10,11,"Leggett sells the oysters he harvests to local restaurants, growing about 100,000 a year as a part-time business.","['leggett', 'sell', 'oyster', 'harvest', 'local', 'restaur', 'grow', '100,000', 'year', 'part-tim', 'busi']"
+11,12,He makes sure he always has a product to replace the ones that he sells.,"['make', 'sure', 'alway', 'product', 'replac', 'one', 'sell']"
+12,13,"He shares his expertise with other watermen, educating them about oyster aquaculture and the importance of sustainability.","['share', 'expertis', 'watermen', 'educ', 'oyster', 'aquacultur', 'import', 'sustain']"
+13,14,"Watch Leggett's efforts to save the bay »
+
+Leggett also sells his fresh products to the area market.","['watch', 'leggett', ""'s"", 'effort', 'save', 'bay', '»', 'leggett', 'also', 'sell', 'fresh', 'product', 'area', 'market']"
+14,15,"""Customers want to know if the oysters they are buying are local, which means they're fresher and taste better.""","['custom', 'want', 'know', 'oyster', 'buy', 'local', 'mean', ""'re"", 'fresher', 'tast', 'better']"
+15,16,"Waterman: Many foods rely on oysters
+
+The Chesapeake Bay, which is the United States' largest estuary, covering more than 64,000 square miles and spanning across several states, has seen its fish, crab and oyster stocks dwindle, in part, because of pollution over the past several decades.","['waterman', 'mani', 'food', 'reli', 'oyster', 'chesapeak', 'bay', 'unit', 'state', 'largest', 'estuari', 'cover', '64,000', 'squar', 'mile', 'span', 'across', 'sever', 'state', 'seen', 'fish', 'crab', 'oyster', 'stock', 'dwindl', 'part', 'pollut', 'past', 'sever', 'decad']"
+16,17,"""It was once said that the oyster stock in the Chesapeake Bay could have filtered the entire volume of the bay, in a single day,"" says Leggett, who has been farming shellfish in the watershed since 1995.","['said', 'oyster', 'stock', 'chesapeak', 'bay', 'could', 'filter', 'entir', 'volum', 'bay', 'singl', 'day', 'say', 'leggett', 'farm', 'shellfish', 'watersh', 'sinc', '1995']"
+17,18,"""Most people don't think of oysters having come from farms, and historically they haven't.","['peopl', ""n't"", 'think', 'oyster', 'come', 'farm', 'histor', ""n't""]"
+18,19,"They've been harvested from the wild fishery, which is supplied by Mother Nature.""","[""'ve"", 'harvest', 'wild', 'fisheri', 'suppli', 'mother', 'natur']"
+19,20,"That wild fishery, which still exists today, has seen its share of setbacks.","['wild', 'fisheri', 'still', 'exist', 'today', 'seen', 'share', 'setback']"
+20,21,"From disease to overharvesting, Leggett knows what's at stake, and he's trying to get the message out.","['diseas', 'overharvest', 'leggett', 'know', ""'s"", 'stake', ""'s"", 'tri', 'get', 'messag']"
+21,22,"""Oysters filter the water, and they provide habitat for other species.","['oyster', 'filter', 'water', 'provid', 'habitat', 'speci']"
+22,23,"There are so many food webs that depend and rely on oysters.""","['mani', 'food', 'web', 'depend', 'reli', 'oyster']"
+23,24,"Not only does Leggett farm, he also works for the Chesapeake Bay Foundation (CBF) as the Virginia oyster and fishery scientist.","['leggett', 'farm', 'also', 'work', 'chesapeak', 'bay', 'foundat', 'cbf', 'virginia', 'oyster', 'fisheri', 'scientist']"
+24,25,He is trying to do his part to reverse the trends of depleting oyster stocks.,"['tri', 'part', 'revers', 'trend', 'deplet', 'oyster', 'stock']"
+25,26,"""If we don't restore oysters, we're not going to restore the Bay,"" he says.","[""n't"", 'restor', 'oyster', ""'re"", 'go', 'restor', 'bay', 'say']"
+26,27,He wants to make sure people understand what just one single oyster can do.,"['want', 'make', 'sure', 'peopl', 'understand', 'one', 'singl', 'oyster']"
+27,28,"""One oyster out here in one of our bags can filter as much as 50 gallons of water a day.""","['one', 'oyster', 'one', 'bag', 'filter', 'much', '50', 'gallon', 'water', 'day']"
+28,29,"By filtering the water, this important shellfish can take away deadly pollutants that eventually could deplete the crab and fish stocks, which in turn can leave fishermen without work.","['filter', 'water', 'import', 'shellfish', 'take', 'away', 'deadli', 'pollut', 'eventu', 'could', 'deplet', 'crab', 'fish', 'stock', 'turn', 'leav', 'fishermen', 'without', 'work']"
+29,30,"Millions of oyster 'moms and dads'
+
+The CBF helps to grow millions of oysters that will eventually make their way to sanctuary reefs and will not be harvested.","['million', 'oyster', ""'mom"", ""dads'"", 'cbf', 'help', 'grow', 'million', 'oyster', 'eventu', 'make', 'way', 'sanctuari', 'reef', 'harvest']"
+30,31,"The oysters will reproduce, and make a home for thousands of sea critters that will eventually become food for larger animals.","['oyster', 'reproduc', 'make', 'home', 'thousand', 'sea', 'critter', 'eventu', 'becom', 'food', 'larger', 'anim']"
+31,32,"""Its all a giant food chain,"" Leggett explains.","['giant', 'food', 'chain', 'leggett', 'explain']"
+32,33,"Leggett works alongside Jackie Harmon as the CBF's sole employees at a worksite near the Institute of Marine Science in Hayes, Virginia.","['leggett', 'work', 'alongsid', 'jacki', 'harmon', 'cbf', ""'s"", 'sole', 'employe', 'worksit', 'near', 'institut', 'marin', 'scienc', 'hay', 'virginia']"
+33,34,"iReport.com: Show us the environment near you
+
+""Our goal is to replenish oyster stocks,"" Harmon says, ""and by doing so, the oysters cannot only help filter water, but also help with shoreline erosion.""","['ireport.com', 'show', 'us', 'environ', 'near', 'goal', 'replenish', 'oyster', 'stock', 'harmon', 'say', 'oyster', 'help', 'filter', 'water', 'also', 'help', 'shorelin', 'eros']"
+34,35,"""It's a sustainable way for watermen of the Chesapeake to continue their livelihood as fishermen, in a more eco-friendly way.""","[""'s"", 'sustain', 'way', 'watermen', 'chesapeak', 'continu', 'livelihood', 'fishermen', 'eco-friendli', 'way']"
+35,36,Harmon also maintains an oyster farm on the weekend and hopes to one day sell her oysters at local farmers' markets.,"['harmon', 'also', 'maintain', 'oyster', 'farm', 'weekend', 'hope', 'one', 'day', 'sell', 'oyster', 'local', 'farmer', 'market']"
+36,37,"Leggett puts it this way: ""All we're doing here is making moms and dads to help jump-start reefs throughout the Chesapeake.""","['leggett', 'put', 'way', ""'re"", 'make', 'mom', 'dad', 'help', 'jump-start', 'reef', 'throughout', 'chesapeak']"
+37,38,Leggett and Harmon are optimistic.,"['leggett', 'harmon', 'optimist']"
+38,39,They believe current federal and state administrations are doing great things for the environment.,"['believ', 'current', 'feder', 'state', 'administr', 'great', 'thing', 'environ']"
+39,40,They believe the CBF's message is being heard.,"['believ', 'cbf', ""'s"", 'messag', 'heard']"
+40,41,"However, a lot more needs to be done, Harmon says.","['howev', 'lot', 'need', 'done', 'harmon', 'say']"
+41,42,"""People are becoming more aware and want to take care of their environment, and they want to make it a better place for future generations,"" she says.","['peopl', 'becom', 'awar', 'want', 'take', 'care', 'environ', 'want', 'make', 'better', 'place', 'futur', 'gener', 'say']"
+42,43,"So as the land-based movement makes it apparent that buying local is the healthy way to live, seafood should be known in that same light.","['land-bas', 'movement', 'make', 'appar', 'buy', 'local', 'healthi', 'way', 'live', 'seafood', 'known', 'light']"
+43,44,"Leggett believes the Chesapeake Bay can produce the amount of seafood needed for the entire region and he thinks with careful oversight, the watersheds can be an abundant source for that local seafood industry again, just like it was decades ago.","['leggett', 'believ', 'chesapeak', 'bay', 'produc', 'amount', 'seafood', 'need', 'entir', 'region', 'think', 'care', 'oversight', 'watersh', 'abund', 'sourc', 'local', 'seafood', 'industri', 'like', 'decad', 'ago']"

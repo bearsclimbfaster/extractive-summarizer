@@ -1,0 +1,11 @@
+,Label,Sentence,Words
+0,1,"A SkyWest Airlines flight made an emergency landing in Buffalo, New York, on Wednesday after a passenger lost consciousness, officials said.","['skywest', 'airlin', 'flight', 'made', 'emerg', 'land', 'buffalo', 'new', 'york', 'wednesday', 'passeng', 'lost', 'conscious', 'offici', 'said']"
+1,2,"The passenger received medical attention before being released, according to Marissa Snow, spokeswoman for SkyWest.","['passeng', 'receiv', 'medic', 'attent', 'releas', 'accord', 'marissa', 'snow', 'spokeswoman', 'skywest']"
+2,3,"She said the airliner expects to accommodate the 75 passengers on another aircraft to their original destination -- Hartford, Connecticut -- later Wednesday afternoon.","['said', 'airlin', 'expect', 'accommod', '75', 'passeng', 'anoth', 'aircraft', 'origin', 'destin', 'hartford', 'connecticut', 'later', 'wednesday', 'afternoon']"
+3,4,The Federal Aviation Administration initially reported a pressurization problem and said it would investigate.,"['feder', 'aviat', 'administr', 'initi', 'report', 'pressur', 'problem', 'said', 'would', 'investig']"
+4,5,"Snow said there was no indication of any pressurization issues, and the FAA later issued a statement that did not reference a pressurization problem.","['snow', 'said', 'indic', 'pressur', 'issu', 'faa', 'later', 'issu', 'statement', 'refer', 'pressur', 'problem']"
+5,6,"SkyWest also said there was no problem with the plane's door, which some media initially reported.","['skywest', 'also', 'said', 'problem', 'plane', ""'s"", 'door', 'media', 'initi', 'report']"
+6,7,Flight 5622 was originally scheduled to fly from Chicago to Hartford.,"['flight', '5622', 'origin', 'schedul', 'fli', 'chicago', 'hartford']"
+7,8,"The plane descended 28,000 feet in three minutes.","['plane', 'descend', '28,000', 'feet', 'three', 'minut']"
+8,9,"""It would feel like a roller coaster -- when you're coming over the top and you're going down,"" CNN aviation analyst Mary Schiavo said, describing how such a descent would feel.","['would', 'feel', 'like', 'roller', 'coaster', ""'re"", 'come', 'top', ""'re"", 'go', 'cnn', 'aviat', 'analyst', 'mari', 'schiavo', 'said', 'describ', 'descent', 'would', 'feel']"
+9,10,"""You know that these pilots knew they were in a very grave and very serious situation.""","['know', 'pilot', 'knew', 'grave', 'seriou', 'situat']"

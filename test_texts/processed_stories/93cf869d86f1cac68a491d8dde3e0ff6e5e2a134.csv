@@ -1,0 +1,16 @@
+,Label,Sentence,Words
+0,1,"On this week's Tech Check podcast, Doug Gross, John Sutter and Stephanie Goldberg discuss some pretty big advances in car technology that could be just a few years away from becoming a reality.","['week', ""'s"", 'tech', 'check', 'podcast', 'doug', 'gross', 'john', 'sutter', 'stephani', 'goldberg', 'discuss', 'pretti', 'big', 'advanc', 'car', 'technolog', 'could', 'year', 'away', 'becom', 'realiti']"
+1,2,Consumer Reports has endorsed what's called vehicle-to-vehicle communication technology.,"['consum', 'report', 'endors', ""'s"", 'call', 'vehicle-to-vehicl', 'commun', 'technolog']"
+2,3,"The tech, which is being tested now, lets automobiles, in effect, talk to each other -- for safety and other reasons.","['tech', 'test', 'let', 'automobil', 'effect', 'talk', 'safeti', 'reason']"
+3,4,There's also growing talk that cars that drive themselves could be closer than we think.,"[""'s"", 'also', 'grow', 'talk', 'car', 'drive', 'could', 'closer', 'think']"
+4,5,In other news we talk about a billboard in London that shows you a different ad based on your gender.,"['news', 'talk', 'billboard', 'london', 'show', 'differ', 'ad', 'base', 'gender']"
+5,6,It uses facial recognition to decide (supposedly with 90 percent accuracy) whether you're a man or woman and respond accordingly.,"['use', 'facial', 'recognit', 'decid', 'supposedli', '90', 'percent', 'accuraci', 'whether', ""'re"", 'man', 'woman', 'respond', 'accordingli']"
+6,7,We talk about what this might mean for the future of advertising.,"['talk', 'might', 'mean', 'futur', 'advertis']"
+7,8,Our Reader Comments of the Week come from our stories this week about internet privacy -- most notably concerns by lawmakers and state attorneys about Google's upcoming changes to its privacy policy.,"['reader', 'comment', 'week', 'come', 'stori', 'week', 'internet', 'privaci', 'notabl', 'concern', 'lawmak', 'state', 'attorney', 'googl', ""'s"", 'upcom', 'chang', 'privaci', 'polici']"
+8,9,Google says it will be pulling all of your data from all its sites and tools into a single profile.,"['googl', 'say', 'pull', 'data', 'site', 'tool', 'singl', 'profil']"
+9,10,Should you be concerned.,['concern']
+10,11,And our Tech Fail of the Week goes to some folks who we feel are taking Klout -- a pretty fun app to play with that attempts to measure your online influence -- a little too seriously.,"['tech', 'fail', 'week', 'goe', 'folk', 'feel', 'take', 'klout', 'pretti', 'fun', 'app', 'play', 'attempt', 'measur', 'onlin', 'influenc', 'littl', 'serious']"
+11,12,"To listen to Tech Check, click on the audio box to the left.","['listen', 'tech', 'check', 'click', 'audio', 'box', 'left']"
+12,13,"To subscribe, you can add Tech Check to your RSS feed here.","['subscrib', 'add', 'tech', 'check', 'rss', 'feed']"
+13,14,You can also download the podcast on iTunes or using mobile apps like Stitcher.,"['also', 'download', 'podcast', 'itun', 'use', 'mobil', 'app', 'like', 'stitcher']"
+14,15,"In the mean time, you can find us on Twitter at @cnntech or on the CNN Tech page on Facebook.","['mean', 'time', 'find', 'us', 'twitter', 'cnntech', 'cnn', 'tech', 'page', 'facebook']"

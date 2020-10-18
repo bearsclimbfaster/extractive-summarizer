@@ -1,0 +1,55 @@
+,Label,Sentence,Words
+0,1,"While the country's been debating Woody Allen and Dylan Farrow, I've been thinking about Alaska, where a staggering 59% of women are subjected to sexual or intimate partner violence, including threats of violence, in their lives.","['countri', ""'s"", 'debat', 'woodi', 'allen', 'dylan', 'farrow', ""'ve"", 'think', 'alaska', 'stagger', '59', 'women', 'subject', 'sexual', 'intim', 'partner', 'violenc', 'includ', 'threat', 'violenc', 'live']"
+1,2,"Farrow expanded recently on the allegation that Allen, maker of the films ""Manhattan"" and ""Annie Hall,"" sexually assaulted her as a young girl.","['farrow', 'expand', 'recent', 'alleg', 'allen', 'maker', 'film', 'manhattan', 'anni', 'hall', 'sexual', 'assault', 'young', 'girl']"
+2,3,"She stared at a toy train set while it happened, she wrote in a blog post for the New York Times.","['stare', 'toy', 'train', 'set', 'happen', 'wrote', 'blog', 'post', 'new', 'york', 'time']"
+3,4,Toy trains still haunt her.,"['toy', 'train', 'still', 'haunt']"
+4,5,Allen denies the allegations.,"['allen', 'deni', 'alleg']"
+5,6,"The truth in that long-debated case may never be known, and I don't want to parse the details, since plenty of others have.","['truth', 'long-deb', 'case', 'may', 'never', 'known', ""n't"", 'want', 'pars', 'detail', 'sinc', 'plenti', 'other']"
+6,7,"But this much I can say for certain: If a survivor comes to you with a story of sexual abuse, you should start from a place of belief and compassion.","['much', 'say', 'certain', 'survivor', 'come', 'stori', 'sexual', 'abus', 'start', 'place', 'belief', 'compass']"
+7,8,Not doing so can ruin a person's life.,"['ruin', 'person', ""'s"", 'life']"
+8,9,"Related: The rapist next door
+
+And it can perpetuate a cycle of violence I saw all too clearly on a two-week trip to Alaska, in December, as part of CNN's Change the List project.","['relat', 'rapist', 'next', 'door', 'perpetu', 'cycl', 'violenc', 'saw', 'clearli', 'two-week', 'trip', 'alaska', 'decemb', 'part', 'cnn', ""'s"", 'chang', 'list', 'project']"
+9,10,Readers of this column voted for me to cover rape in the U.S. state where that crime is most frequent.,"['reader', 'column', 'vote', 'cover', 'rape', 'u.s.', 'state', 'crime', 'frequent']"
+10,11,"Progress has been made to reduce rape rates nationwide, but Alaska still has the highest reported rape rate in the country, according to 2012 FBI crime estimates.","['progress', 'made', 'reduc', 'rape', 'rate', 'nationwid', 'alaska', 'still', 'highest', 'report', 'rape', 'rate', 'countri', 'accord', '2012', 'fbi', 'crime', 'estim']"
+11,12,The rate is three times the national average.,"['rate', 'three', 'time', 'nation', 'averag']"
+12,13,(You can read more about the trip at CNN.com/Change.),"['read', 'trip', 'cnn.com/chang']"
+13,14,"In one Alaska town, I spent several days with a rapist who was sexually abused as a child.","['one', 'alaska', 'town', 'spent', 'sever', 'day', 'rapist', 'sexual', 'abus', 'child']"
+14,15,"When he came forward to tell his parents about it his dad punished him, pulled his ears, and told him never to speak of it again.","['came', 'forward', 'tell', 'parent', 'dad', 'punish', 'pull', 'ear', 'told', 'never', 'speak']"
+15,16,"Related map: Reported rape by state
+
+He didn't.","['relat', 'map', 'report', 'rape', 'state', ""n't""]"
+16,17,Not until he served jail time for abusing his stepdaughter.,"['serv', 'jail', 'time', 'abus', 'stepdaught']"
+17,18,"""I've got to be a man,"" he thought.","[""'ve"", 'got', 'man', 'thought']"
+18,19,"""And carry this with me alone.""","['carri', 'alon']"
+19,20,Another offender told me he hid his own abuse for six decades.,"['anoth', 'offend', 'told', 'hid', 'abus', 'six', 'decad']"
+20,21,"For rape and sexual violence to end, victims have to break their painful silence and, perhaps more importantly for everyone reading this, the rest of us have to be ready to listen.","['rape', 'sexual', 'violenc', 'end', 'victim', 'break', 'pain', 'silenc', 'perhap', 'importantli', 'everyon', 'read', 'rest', 'us', 'readi', 'listen']"
+21,22,"Too often, friends and law enforcement officers are inclined to blame the victim or question them with unfair harshness.","['often', 'friend', 'law', 'enforc', 'offic', 'inclin', 'blame', 'victim', 'question', 'unfair', 'harsh']"
+22,23,"As women's rights advocates have told me, rape and sex abuse victims are extremely traumatized by these crimes.","['women', ""'s"", 'right', 'advoc', 'told', 'rape', 'sex', 'abus', 'victim', 'extrem', 'traumat', 'crime']"
+23,24,That may affect the way they remember events -- the timeline may appear in clouded fragments -- and they way they react to questions that would be innocuous in other situations.,"['may', 'affect', 'way', 'rememb', 'event', 'timelin', 'may', 'appear', 'cloud', 'fragment', 'way', 'react', 'question', 'would', 'innocu', 'situat']"
+24,25,"Related: The lawless 'end of the land'
+
+The safe way to have these conversations isn't immediately obvious.","['relat', 'lawless', ""'end"", ""land'"", 'safe', 'way', 'convers', ""n't"", 'immedi', 'obviou']"
+25,26,"You should never ask a rape victim, for example, what she was wearing when the assault occurred.","['never', 'ask', 'rape', 'victim', 'exampl', 'wear', 'assault', 'occur']"
+26,27,Was he or she drinking?,['drink']
+27,28,"That question, too, can be damaging in the aftermath of an assault.","['question', 'damag', 'aftermath', 'assault']"
+28,29,It implies the victim's actions may have instigated the rape.,"['impli', 'victim', ""'s"", 'action', 'may', 'instig', 'rape']"
+29,30,"No matter the intention, it implies someone other than the rapist is to blame.","['matter', 'intent', 'impli', 'someon', 'rapist', 'blame']"
+30,31,"The most important thing, according to groups like the Rape Abuse & Incest National Network, is to ""listen,"" ""be there,"" and ""don't be judgmental.""","['import', 'thing', 'accord', 'group', 'like', 'rape', 'abus', 'incest', 'nation', 'network', 'listen', ""n't"", 'judgment']"
+31,32,"Exercising this sensitivity can help ensure more rapes are prosecuted, too.","['exercis', 'sensit', 'help', 'ensur', 'rape', 'prosecut']"
+32,33,"Currently, according to RAINN's founder and president, Scott Berkowitz, only 40% of rapes in the United States are reported to authorities, and only 3% result in jail time.","['current', 'accord', 'rainn', ""'s"", 'founder', 'presid', 'scott', 'berkowitz', '40', 'rape', 'unit', 'state', 'report', 'author', '3', 'result', 'jail', 'time']"
+33,34,All of us can encourage survivors to come forward safely.,"['us', 'encourag', 'survivor', 'come', 'forward', 'safe']"
+34,35,"Many of you took the brave step of sharing your stories as part of a project we're calling ""We are the 59%.""","['mani', 'took', 'brave', 'step', 'share', 'stori', 'part', 'project', ""'re"", 'call', '59']"
+35,36,"In solidarity with that percentage of Alaska women who suffer from intimate partner or sexual violence, CNN iReport asked readers to share their stories of survival -- in hopes that would be healing and might encourage others to speak out.","['solidar', 'percentag', 'alaska', 'women', 'suffer', 'intim', 'partner', 'sexual', 'violenc', 'cnn', 'ireport', 'ask', 'reader', 'share', 'stori', 'surviv', 'hope', 'would', 'heal', 'might', 'encourag', 'other', 'speak']"
+36,37,"The results were raw and powerful:
+
+""I laid there pretending to be asleep, too terrified to do anything.""","['result', 'raw', 'power', 'laid', 'pretend', 'asleep', 'terrifi', 'anyth']"
+37,38,"""It was a well-kept family secret.""","['well-kept', 'famili', 'secret']"
+38,39,"""I hoped that by cooperating it would be over quickly.""","['hope', 'cooper', 'would', 'quickli']"
+39,40,I spent an afternoon reading many of the responses (You can see a selection of them here).,"['spent', 'afternoon', 'read', 'mani', 'respons', 'see', 'select']"
+40,41,One of the most common and jarring themes: Survivors often aren't believed.,"['one', 'common', 'jar', 'theme', 'survivor', 'often', ""n't"", 'believ']"
+41,42,They have to turn to each other for support.,"['turn', 'support']"
+42,43,"""When the night seems endless and hope so hard to hold: Please, don't give up.","['night', 'seem', 'endless', 'hope', 'hard', 'hold', 'pleas', ""n't"", 'give']"
+43,44,"You are not alone,"" wrote Robin, a 50-year-old in New Mexico.","['alon', 'wrote', 'robin', '50-year-old', 'new', 'mexico']"
+44,45,"If someone tells you about their experience with sexual violence or abuse, please take time to listen -- and to remind them they absolutely are not alone.","['someon', 'tell', 'experi', 'sexual', 'violenc', 'abus', 'pleas', 'take', 'time', 'listen', 'remind', 'absolut', 'alon']"
+45,46,The opinions expressed in this commentary are solely those of John D. Sutter.,"['opinion', 'express', 'commentari', 'sole', 'john', 'd.', 'sutter']"

@@ -1,0 +1,36 @@
+,Label,Sentence,Words
+0,1,"Gas prices have dropped more than 7 cents over the past two weeks, but risen in some regions stricken by Superstorm Sandy, according to a survey published Sunday.","['ga', 'price', 'drop', '7', 'cent', 'past', 'two', 'week', 'risen', 'region', 'stricken', 'superstorm', 'sandi', 'accord', 'survey', 'publish', 'sunday']"
+1,2,"The new national average for regular gasoline is $3.47 -- down more than 36 cents over the past six weeks, the Lundberg Survey found.","['new', 'nation', 'averag', 'regular', 'gasolin', '3.47', '36', 'cent', 'past', 'six', 'week', 'lundberg', 'survey', 'found']"
+2,3,"""This latest decline comes mostly from weak gasoline demand,"" said publisher Trilby Lundberg, ""both because we are in the lower demand season and have also lost our daylight saving time.","['latest', 'declin', 'come', 'mostli', 'weak', 'gasolin', 'demand', 'said', 'publish', 'trilbi', 'lundberg', 'lower', 'demand', 'season', 'also', 'lost', 'daylight', 'save', 'time']"
+3,4,"Losing that puts a damper on driving.""","['lose', 'put', 'damper', 'drive']"
+4,5,"Sandy's impact in the Northeast lowered demand as well, since many people were stuck at home, unable to drive.","['sandi', ""'s"", 'impact', 'northeast', 'lower', 'demand', 'well', 'sinc', 'mani', 'peopl', 'stuck', 'home', 'unabl', 'drive']"
+5,6,"Map: See images of destruction, recovery across the East Coast
+
+But because there was also ""great difficulty getting fuel to the end user point,"" gas prices went up in some of those same areas, she said.","['map', 'see', 'imag', 'destruct', 'recoveri', 'across', 'east', 'coast', 'also', 'great', 'difficulti', 'get', 'fuel', 'end', 'user', 'point', 'ga', 'price', 'went', 'area', 'said']"
+6,7,The highest average price found by the latest survey was $4.18 for New York's Long Island.,"['highest', 'averag', 'price', 'found', 'latest', 'survey', '4.18', 'new', 'york', ""'s"", 'long', 'island']"
+7,8,That average was up 26 cents from two weeks earlier.,"['averag', '26', 'cent', 'two', 'week', 'earlier']"
+8,9,Long Island generally has higher prices than the national average due to taxes.,"['long', 'island', 'gener', 'higher', 'price', 'nation', 'averag', 'due', 'tax']"
+9,10,The Lundberg Survey tallies prices at thousands of gas stations nationwide.,"['lundberg', 'survey', 'talli', 'price', 'thousand', 'ga', 'station', 'nationwid']"
+10,11,"Good news should lie ahead for consumers around the country, Lundberg said.","['good', 'news', 'lie', 'ahead', 'consum', 'around', 'countri', 'lundberg', 'said']"
+11,12,"""Pump prices may well drop some more form here -- unless crude oil prices get seriously spooked by Middle East conflict or another geopolitical issue.""","['pump', 'price', 'may', 'well', 'drop', 'form', 'unless', 'crude', 'oil', 'price', 'get', 'serious', 'spook', 'middl', 'east', 'conflict', 'anoth', 'geopolit', 'issu']"
+12,13,"The current nationwide average is 9cents above the average a year ago, ""whereas most of this year it's been more like 16 cents,"" Lundberg said.","['current', 'nationwid', 'averag', '9cent', 'averag', 'year', 'ago', 'wherea', 'year', ""'s"", 'like', '16', 'cent', 'lundberg', 'said']"
+13,14,"The city with the lowest average in the latest survey was Memphis, at $3.04.","['citi', 'lowest', 'averag', 'latest', 'survey', 'memphi', '3.04']"
+14,15,"Here are average prices in some other cities:
+
+San Diego - $3.80
+
+Seattle - $3.49
+
+Las Vegas - $3.57
+
+Denver - $3.35
+
+El Paso - $3.36
+
+St. Louis - $3.14
+
+Boston - $3.69
+
+Atlanta - $3.24
+
+Miami - $3.42","['averag', 'price', 'citi', 'san', 'diego', '3.80', 'seattl', '3.49', 'la', 'vega', '3.57', 'denver', '3.35', 'el', 'paso', '3.36', 'st.', 'loui', '3.14', 'boston', '3.69', 'atlanta', '3.24', 'miami', '3.42']"

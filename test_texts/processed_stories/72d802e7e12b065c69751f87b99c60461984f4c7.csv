@@ -1,0 +1,13 @@
+,Label,Sentence,Words
+0,1,Mr. Grey will see you now.,"['mr.', 'grey', 'see']"
+1,2,Just not in Kenya.,['kenya']
+2,3,"The erotic movie ""Fifty Shades of Grey"" is out in theaters Friday.","['erot', 'movi', 'fifti', 'shade', 'grey', 'theater', 'friday']"
+3,4,"But the East African nation will not be showing it, citing ""prolonged and explicit sexual scenes depicting women as sexual slaves.""","['east', 'african', 'nation', 'show', 'cite', 'prolong', 'explicit', 'sexual', 'scene', 'depict', 'women', 'sexual', 'slave']"
+4,5,"Under the ban, anyone who distributes or shows it in Kenya is liable to a fine, imprisonment or both.","['ban', 'anyon', 'distribut', 'show', 'kenya', 'liabl', 'fine', 'imprison']"
+5,6,"""Fifty Shades"" is based on a book by E. L. James.","['fifti', 'shade', 'base', 'book', 'e.', 'l.', 'jame']"
+6,7,"It tells the steamy story of young, attractive billionaire Christian Grey and Anastasia Steele, the young woman he sexually dominates.","['tell', 'steami', 'stori', 'young', 'attract', 'billionair', 'christian', 'grey', 'anastasia', 'steel', 'young', 'woman', 'sexual', 'domin']"
+7,8,"Jamie Dornan, star of the crime drama ""The Fall,"" and Dakota Johnson play the lead characters.","['jami', 'dornan', 'star', 'crime', 'drama', 'fall', 'dakota', 'johnson', 'play', 'lead', 'charact']"
+8,9,The board that regulates movie content in Kenya warned theaters not to show the much-anticipated film.,"['board', 'regul', 'movi', 'content', 'kenya', 'warn', 'theater', 'show', 'much-anticip', 'film']"
+9,10,"""The Kenya Film Classification Board wishes to inform the public, film operators and stakeholders that the film has been restricted,"" it said in a statement this week.","['kenya', 'film', 'classif', 'board', 'wish', 'inform', 'public', 'film', 'oper', 'stakehold', 'film', 'restrict', 'said', 'statement', 'week']"
+10,11,"""It should not be screened or distributed to the public.""","['screen', 'distribut', 'public']"
+11,12,"Last year, the board banned ""The Wolf of Wall Street,"" saying it has ""extreme nudity, sex, alcohol and drugs.""","['last', 'year', 'board', 'ban', 'wolf', 'wall', 'street', 'say', 'extrem', 'nuditi', 'sex', 'alcohol', 'drug']"

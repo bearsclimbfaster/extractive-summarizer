@@ -1,0 +1,13 @@
+,Label,Sentence,Words
+0,1,"A Delta Air Lines plane returned to Atlanta's main airport after the crew experienced an ""engine issue,"" the airline said early Tuesday morning.","['delta', 'air', 'line', 'plane', 'return', 'atlanta', ""'s"", 'main', 'airport', 'crew', 'experienc', 'engin', 'issu', 'airlin', 'said', 'earli', 'tuesday', 'morn']"
+1,2,"Airline spokeswoman Chris Kelly Singley could not elaborate on what the problem was, saying she had heard varying reports.","['airlin', 'spokeswoman', 'chri', 'kelli', 'singley', 'could', 'elabor', 'problem', 'say', 'heard', 'vari', 'report']"
+2,3,"""A few moments after the plane took off, there was somewhat a loss of power and some passengers noticed a noise,"" said passenger Eric Psalmond.","['moment', 'plane', 'took', 'somewhat', 'loss', 'power', 'passeng', 'notic', 'nois', 'said', 'passeng', 'eric', 'psalmond']"
+3,4,"""We turned around and the flight crew announced that everything was fine and that we were just turning around and going back to the airport -- back for landing.""","['turn', 'around', 'flight', 'crew', 'announc', 'everyth', 'fine', 'turn', 'around', 'go', 'back', 'airport', 'back', 'land']"
+4,5,Flight 1323 took off from Hartsfield Jackson Atlanta International Airport and was headed to Los Angeles.,"['flight', '1323', 'took', 'hartsfield', 'jackson', 'atlanta', 'intern', 'airport', 'head', 'lo', 'angel']"
+5,6,"Shortly after, the Boeing 757 returned to the airport, Singley said.","['shortli', 'boe', '757', 'return', 'airport', 'singley', 'said']"
+6,7,Another passenger described the plane's rough landing.,"['anoth', 'passeng', 'describ', 'plane', ""'s"", 'rough', 'land']"
+7,8,"""She stepped on the brakes very hard,""  Bert Rudman told CNN affiliate WSB.","['step', 'brake', 'hard', 'bert', 'rudman', 'told', 'cnn', 'affili', 'wsb']"
+8,9,"Once the plane came to a stop, Rudman said, the order to evacuate was given.","['plane', 'came', 'stop', 'rudman', 'said', 'order', 'evacu', 'given']"
+9,10,"""The doors popped off and the flight attendant started encouraging people to move quickly and leave everything on the airplane,"" Rudman said.","['door', 'pop', 'flight', 'attend', 'start', 'encourag', 'peopl', 'move', 'quickli', 'leav', 'everyth', 'airplan', 'rudman', 'said']"
+10,11,"Psalmond said, ""Most everyone was calm and collected but there was a little sense of urgency.""","['psalmond', 'said', 'everyon', 'calm', 'collect', 'littl', 'sens', 'urgenc']"
+11,12,Delta said the 174 passengers on board would be taken to Los Angeles on another flight while the plane is examined.,"['delta', 'said', '174', 'passeng', 'board', 'would', 'taken', 'lo', 'angel', 'anoth', 'flight', 'plane', 'examin']"

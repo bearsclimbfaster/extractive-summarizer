@@ -1,0 +1,23 @@
+,Label,Sentence,Words
+0,1,"Snowmobiler Caleb Moore died Thursday, a week after a crash that has raised new safety concerns about the X Games.","['snowmobil', 'caleb', 'moor', 'die', 'thursday', 'week', 'crash', 'rais', 'new', 'safeti', 'concern', 'x', 'game']"
+1,2,He was 25 years old.,"['25', 'year', 'old']"
+2,3,"""He will be truly missed and never forgotten,"" his family said in a statement.","['truli', 'miss', 'never', 'forgotten', 'famili', 'said', 'statement']"
+3,4,"""The family wishes to express their deep gratitude for all the prayers and support they have received from all the fans, friends and family around the world that Caleb has inspired.","['famili', 'wish', 'express', 'deep', 'gratitud', 'prayer', 'support', 'receiv', 'fan', 'friend', 'famili', 'around', 'world', 'caleb', 'inspir']"
+4,5,...,[]
+5,6,"Arrangements for a celebration of life are being made and an announcement will be made in the coming days.""","['arrang', 'celebr', 'life', 'made', 'announc', 'made', 'come', 'day']"
+6,7,"Moore, a freestyle snowmobiler, was attempting a backflip at the Winter X Games in Aspen, Colorado, when he couldn't rotate his machine enough to land properly.","['moor', 'freestyl', 'snowmobil', 'attempt', 'backflip', 'winter', 'x', 'game', 'aspen', 'colorado', 'could', ""n't"", 'rotat', 'machin', 'enough', 'land', 'properli']"
+7,8,"The skis dug into the lip of the slope, bringing the 450-pound snowmobile crashing down on him.","['ski', 'dug', 'lip', 'slope', 'bring', '450-pound', 'snowmobil', 'crash']"
+8,9,The vehicle slammed into Moore's head and chest.,"['vehicl', 'slam', 'moor', ""'s"", 'head', 'chest']"
+9,10,"""We are deeply saddened by Caleb Moore's passing and our thoughts and prayers go out to his parents, Wade and Michelle, his brother, Colten, and the entire Moore family,"" ESPN, which organizes and televises the X Games, said in a statement.","['deepli', 'sadden', 'caleb', 'moor', ""'s"", 'pass', 'thought', 'prayer', 'go', 'parent', 'wade', 'michel', 'brother', 'colten', 'entir', 'moor', 'famili', 'espn', 'organ', 'televis', 'x', 'game', 'said', 'statement']"
+10,11,"""He will be remembered for his natural passion for life and his deep love for his family and friends, and he will always be an inspiration to everyone he touched in the action sports community.","['rememb', 'natur', 'passion', 'life', 'deep', 'love', 'famili', 'friend', 'alway', 'inspir', 'everyon', 'touch', 'action', 'sport', 'commun']"
+11,12,"""As a result of this accident we will conduct a thorough review of this discipline and adopt any appropriate changes to future X Games.""","['result', 'accid', 'conduct', 'thorough', 'review', 'disciplin', 'adopt', 'appropri', 'chang', 'futur', 'x', 'game']"
+12,13,"The statement added that the X Games have long worked on safety issues and that nevertheless, ""when the world's best compete at the highest level in any sport, risks remain.","['statement', 'ad', 'x', 'game', 'long', 'work', 'safeti', 'issu', 'nevertheless', 'world', ""'s"", 'best', 'compet', 'highest', 'level', 'sport', 'risk', 'remain']"
+13,14,"Caleb was a four-time X Games medalist attempting a move he has landed several times previously.""","['caleb', 'four-tim', 'x', 'game', 'medalist', 'attempt', 'move', 'land', 'sever', 'time', 'previous']"
+14,15,"Colten Moore, 23, was also involved in an accident during Thursday's event.","['colten', 'moor', '23', 'also', 'involv', 'accid', 'thursday', ""'s"", 'event']"
+15,16,"He was released from the hospital Saturday, according to his Facebook fan page.","['releas', 'hospit', 'saturday', 'accord', 'facebook', 'fan', 'page']"
+16,17,Caleb Moore's Facebook page is carrying messages from fans.,"['caleb', 'moor', ""'s"", 'facebook', 'page', 'carri', 'messag', 'fan']"
+17,18,"""R.I.P.",['r.i.p']
+18,19,"Caleb,"" wrote Candi Clark-Hibbs, adding, ""prayers to your family.""","['caleb', 'wrote', 'candi', 'clark-hibb', 'ad', 'prayer', 'famili']"
+19,20,"People we've lost in 2013: The lives they lived
+
+CNN's Josh Levs, Brian Todd, Dugald McConnell, Christine Sever and Shawn Nottingham contributed to this report.","['peopl', ""'ve"", 'lost', '2013', 'live', 'live', 'cnn', ""'s"", 'josh', 'lev', 'brian', 'todd', 'dugald', 'mcconnel', 'christin', 'sever', 'shawn', 'nottingham', 'contribut', 'report']"

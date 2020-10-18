@@ -1,0 +1,13 @@
+,Label,Sentence,Words
+0,1,The GoDaddy outage saga continues.,"['godaddi', 'outag', 'saga', 'continu']"
+1,2,A hacker associated with Anonymous claimed responsibility on Monday for taking down websites housed by or registered with that Internet services company.,"['hacker', 'associ', 'anonym', 'claim', 'respons', 'monday', 'take', 'websit', 'hous', 'regist', 'internet', 'servic', 'compani']"
+2,3,"But on Tuesday, GoDaddy, which says it is the world's largest host of secure websites, said the ""service outage was not caused by external influences.""","['tuesday', 'godaddi', 'say', 'world', ""'s"", 'largest', 'host', 'secur', 'websit', 'said', 'servic', 'outag', 'caus', 'extern', 'influenc']"
+3,4,"""It was not a 'hack' and it was not a denial of service attack (DDoS),"" Scott Wagner, GoDaddy's interim CEO, said in an e-mailed statement.","[""'hack"", 'denial', 'servic', 'attack', 'ddo', 'scott', 'wagner', 'godaddi', ""'s"", 'interim', 'ceo', 'said', 'e-mail', 'statement']"
+4,5,"""We have determined the service outage was due to a series of internal network events that corrupted router data tables.","['determin', 'servic', 'outag', 'due', 'seri', 'intern', 'network', 'event', 'corrupt', 'router', 'data', 'tabl']"
+5,6,"""Once the issues were identified, we took corrective actions to restore services for our customers and GoDaddy.com.","['issu', 'identifi', 'took', 'correct', 'action', 'restor', 'servic', 'custom', 'godaddy.com']"
+6,7,"We have implemented measures to prevent this from occurring again.""","['implement', 'measur', 'prevent', 'occur']"
+7,8,"The company added: ""At no time was any customer data at risk or were any of our systems compromised.""","['compani', 'ad', 'time', 'custom', 'data', 'risk', 'system', 'compromis']"
+8,9,Wagner also apologized to GoDaddy's customers and said that the company has a track record of having its computer servers up and working for customers 99.999% of the time.,"['wagner', 'also', 'apolog', 'godaddi', ""'s"", 'custom', 'said', 'compani', 'track', 'record', 'comput', 'server', 'work', 'custom', '99.999', 'time']"
+9,10,"A Twitter user named @AnonymousOwn3r previously had claimed responsibility for taking down GoDaddy's system, impacting an untold number of websites that use the company to store their data or to register their Web addresses.","['twitter', 'user', 'name', 'anonymousown3r', 'previous', 'claim', 'respons', 'take', 'godaddi', ""'s"", 'system', 'impact', 'untold', 'number', 'websit', 'use', 'compani', 'store', 'data', 'regist', 'web', 'address']"
+10,11,"The company says the ""intermittent service outage"" lasted from 1 to 7 p.m.","['compani', 'say', 'intermitt', 'servic', 'outag', 'last', '1', '7', 'p.m']"
+11,12,ET on Monday.,"['et', 'monday']"

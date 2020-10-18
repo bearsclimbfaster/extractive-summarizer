@@ -1,0 +1,88 @@
+,Label,Sentence,Words
+0,1,There can be no March without the madness.,"['march', 'without', 'mad']"
+1,2,"When it comes to college basketball, the first month of spring ushers in a frantic slew of games to determine seedings for one of the most fervently watched sporting events in the U.S., known simply as the NCAA Tournament, or more often, March Madness.","['come', 'colleg', 'basketbal', 'first', 'month', 'spring', 'usher', 'frantic', 'slew', 'game', 'determin', 'seed', 'one', 'fervent', 'watch', 'sport', 'event', 'u.s.', 'known', 'simpli', 'ncaa', 'tournament', 'often', 'march', 'mad']"
+2,3,"Like English soccer's FA Cup, much of the 68-team tournament's appeal is its egalitarian system of pitting traditional powerhouse programs like Duke, UCLA and Kentucky against relative minnows like Saint Mary's, Butler and Davidson.","['like', 'english', 'soccer', ""'s"", 'fa', 'cup', 'much', '68-team', 'tournament', ""'s"", 'appeal', 'egalitarian', 'system', 'pit', 'tradit', 'powerhous', 'program', 'like', 'duke', 'ucla', 'kentucki', 'rel', 'minnow', 'like', 'saint', 'mari', ""'s"", 'butler', 'davidson']"
+3,4,"And both competitions offer the carrot of being able to impress scouts from top pro teams -- a first-round NBA pick can expect to earn anywhere from $755,000 to $5.75 million.","['competit', 'offer', 'carrot', 'abl', 'impress', 'scout', 'top', 'pro', 'team', 'first-round', 'nba', 'pick', 'expect', 'earn', 'anywher', '755,000', '5.75', 'million']"
+4,5,Not bad for a graduate.,"['bad', 'graduat']"
+5,6,"Last year's tournament reached 102 million viewers, while almost 740,000 fans attended the 36 sessions.","['last', 'year', ""'s"", 'tournament', 'reach', '102', 'million', 'viewer', 'almost', '740,000', 'fan', 'attend', '36', 'session']"
+6,7,"""When you go to college, maybe your number one goal before you graduate is you want to be able to play in the NCAA tournament,"" says Bryce Drew, head coach and former player at Valparaiso University in Indiana (28-5, Horizon League champions).","['go', 'colleg', 'mayb', 'number', 'one', 'goal', 'graduat', 'want', 'abl', 'play', 'ncaa', 'tournament', 'say', 'bryce', 'drew', 'head', 'coach', 'former', 'player', 'valparaiso', 'univers', 'indiana', '28-5', 'horizon', 'leagu', 'champion']"
+7,8,"""It's the biggest stage for college basketball, and it's one of the biggest national events in all of America.""","[""'s"", 'biggest', 'stage', 'colleg', 'basketbal', ""'s"", 'one', 'biggest', 'nation', 'event', 'america']"
+8,9,Drew knows just how big an impact that high-profile stage can have on aspiring professionals from beyond the major college ranks.,"['drew', 'know', 'big', 'impact', 'high-profil', 'stage', 'aspir', 'profession', 'beyond', 'major', 'colleg', 'rank']"
+9,10,His last-second shot for Valparaiso to beat the University of Mississippi in the first round of the 1998 tournament is one of the most replayed moments in March Madness history.,"['last-second', 'shot', 'valparaiso', 'beat', 'univers', 'mississippi', 'first', 'round', '1998', 'tournament', 'one', 'replay', 'moment', 'march', 'mad', 'histori']"
+10,11,"How it works:
+
+Selection Sunday (March 15)
+
+A 10-member panel determines seedings for the 68 teams that make the knockout  tournament
+
+First Four  (March 17-18)
+
+A format started in 2011, 8 teams compete to qualify in the main draw
+
+Second round (March 19-20)
+
+64 teams split into 4 regions: Midwest, West, South and East
+
+#1 plays #16 in each group
+
+Third round (March 21-22)
+
+Down to 32 teams
+
+Regional semifinals (March 26-27)
+
+Known as the ""Sweet Sixteen""
+
+Regional finals (March 28-29)
+
+The ""Elite Eight""
+
+National semifinals (April 4)
+
+The ""Final Four"" is played at Lucas Oil Stadium in Indianapolis; minimum capacity 70,000
+
+Championship Game (April 6)
+
+One of the most-watched events in U.S. sport
+
+""I had always dreamed of winning the game in the NCAA tournament (and) always dreamed of making the last-second shot.","['work', 'select', 'sunday', 'march', '15', '10-member', 'panel', 'determin', 'seed', '68', 'team', 'make', 'knockout', 'tournament', 'first', 'four', 'march', '17-18', 'format', 'start', '2011', '8', 'team', 'compet', 'qualifi', 'main', 'draw', 'second', 'round', 'march', '19-20', '64', 'team', 'split', '4', 'region', 'midwest', 'west', 'south', 'east', '1', 'play', '16', 'group', 'third', 'round', 'march', '21-22', '32', 'team', 'region', 'semifin', 'march', '26-27', 'known', 'sweet', 'sixteen', 'region', 'final', 'march', '28-29', 'elit', 'eight', 'nation', 'semifin', 'april', '4', 'final', 'four', 'play', 'luca', 'oil', 'stadium', 'indianapoli', 'minimum', 'capac', '70,000', 'championship', 'game', 'april', '6', 'one', 'most-watch', 'event', 'u.s.', 'sport', 'alway', 'dream', 'win', 'game', 'ncaa', 'tournament', 'alway', 'dream', 'make', 'last-second', 'shot']"
+11,12,"For God to bless (me) with both of things at one time is something that I'll always cherish and remember,"" Drew says.","['god', 'bless', 'thing', 'one', 'time', 'someth', ""'ll"", 'alway', 'cherish', 'rememb', 'drew', 'say']"
+12,13,"His father, Homer Drew, was Valparaiso's coach at the time, and his brother Scott (now men's basketball coach at Baylor University) was an assistant, completing the Hollywood scenario.","['father', 'homer', 'drew', 'valparaiso', ""'s"", 'coach', 'time', 'brother', 'scott', 'men', ""'s"", 'basketbal', 'coach', 'baylor', 'univers', 'assist', 'complet', 'hollywood', 'scenario']"
+13,14,"""I don't think any of us realized that they would show that replay the next year, and even the next year, and the next year.","[""n't"", 'think', 'us', 'realiz', 'would', 'show', 'replay', 'next', 'year', 'even', 'next', 'year', 'next', 'year']"
+14,15,"We were just so happy in the moment and never thought that we'd be able to talk about it over a decade later,"" he says.","['happi', 'moment', 'never', 'thought', ""'d"", 'abl', 'talk', 'decad', 'later', 'say']"
+15,16,"Showing the highlight is virtually a prerequisite whenever Drew coaches a nationally televised game, and is sure to come up next week when his Crusaders play in the ""Big Dance"" (one more nickname for the tournament.)","['show', 'highlight', 'virtual', 'prerequisit', 'whenev', 'drew', 'coach', 'nation', 'televis', 'game', 'sure', 'come', 'next', 'week', 'crusad', 'play', 'big', 'danc', 'one', 'nicknam', 'tournament']"
+16,17,Drew was a senior nearing graduation at the time.,"['drew', 'senior', 'near', 'graduat', 'time']"
+17,18,"Although he had heard about professional scouts attending his games, being drafted by an NBA team was still considered a longshot.","['although', 'heard', 'profession', 'scout', 'attend', 'game', 'draft', 'nba', 'team', 'still', 'consid', 'longshot']"
+18,19,"After all, the last time a Valparaiso graduate dribbled a basketball in the NBA was in 1956.","['last', 'time', 'valparaiso', 'graduat', 'dribbl', 'basketbal', 'nba', '1956']"
+19,20,"But that was before ""The Shot.""",['shot']
+20,21,"Although Drew says private workouts for pro teams solidified his spot as the first Valparaiso player to be drafted in the NBA's first round (as the 16th pick,) he confesses that tournament attention is likely what got his foot in the door.","['although', 'drew', 'say', 'privat', 'workout', 'pro', 'team', 'solidifi', 'spot', 'first', 'valparaiso', 'player', 'draft', 'nba', ""'s"", 'first', 'round', '16th', 'pick', 'confess', 'tournament', 'attent', 'like', 'got', 'foot', 'door']"
+21,22,"""It helped me get my name out there, because they got to see me play against a different type of athlete in the NCAA tournament on a different stage,"" he says.","['help', 'get', 'name', 'got', 'see', 'play', 'differ', 'type', 'athlet', 'ncaa', 'tournament', 'differ', 'stage', 'say']"
+22,23,"Observing athletes during March Madness -- when competition is at its highest level -- is the best way to gauge if they will succeed as pros, according to one player representative.","['observ', 'athlet', 'march', 'mad', 'competit', 'highest', 'level', 'best', 'way', 'gaug', 'succeed', 'pro', 'accord', 'one', 'player', 'repres']"
+23,24,"""It definitely helps an agent to learn how a player will perform under a national stage,"" says Jared Karnes, co-founder of A3 Athletics agency in Knoxville, Tennessee.","['definit', 'help', 'agent', 'learn', 'player', 'perform', 'nation', 'stage', 'say', 'jare', 'karn', 'co-found', 'a3', 'athlet', 'agenc', 'knoxvil', 'tennesse']"
+24,25,"""If they want to play in the NBA, they are going to be expected to play under a tremendous amount of pressure and attention.""","['want', 'play', 'nba', 'go', 'expect', 'play', 'tremend', 'amount', 'pressur', 'attent']"
+25,26,"Michael Beasley, the second overall selection in the 2008 NBA draft, is one of Karnes' clients who has failed to live up to that pressure so far.","['michael', 'beasley', 'second', 'overal', 'select', '2008', 'nba', 'draft', 'one', 'karn', 'client', 'fail', 'live', 'pressur', 'far']"
+26,27,"Now 26, he recently found his way back to the NBA with the Miami Heat after a spell in China.","['26', 'recent', 'found', 'way', 'back', 'nba', 'miami', 'heat', 'spell', 'china']"
+27,28,"Karnes, a former player himself at little-known Belmont University who ""had the unfortunate assignment of having to guard Bryce Drew,"" says he enjoys recruiting clients from smaller programs because they lack the air of entitlement that can weigh on household names.","['karn', 'former', 'player', 'little-known', 'belmont', 'univers', 'unfortun', 'assign', 'guard', 'bryce', 'drew', 'say', 'enjoy', 'recruit', 'client', 'smaller', 'program', 'lack', 'air', 'entitl', 'weigh', 'household', 'name']"
+28,29,"""A lot of times they've had to work their way into the spotlight, and so they develop a hard work ethic,"" he says.","['lot', 'time', ""'ve"", 'work', 'way', 'spotlight', 'develop', 'hard', 'work', 'ethic', 'say']"
+29,30,"""They really have an appreciation about what's happened to them; the more you can identify a talent with a level of high character, as an agent you've just found a terrific prospect.""","['realli', 'appreci', ""'s"", 'happen', 'identifi', 'talent', 'level', 'high', 'charact', 'agent', ""'ve"", 'found', 'terrif', 'prospect']"
+30,31,Among the most successful small-program players in the NBA is former Davidson standout Stephen Curry -- the current MVP frontrunner with the Golden State Warriors.,"['among', 'success', 'small-program', 'player', 'nba', 'former', 'davidson', 'standout', 'stephen', 'curri', 'current', 'mvp', 'frontrunn', 'golden', 'state', 'warrior']"
+31,32,"Norris Cole, who played at Cleveland State and won two championships with the Miami Heat, and Gordon Hayward, a starting forward for the Utah Jazz, have also made their mark.","['norri', 'cole', 'play', 'cleveland', 'state', 'two', 'championship', 'miami', 'heat', 'gordon', 'hayward', 'start', 'forward', 'utah', 'jazz', 'also', 'made', 'mark']"
+32,33,"Cole strikes a particular chord with Drew since they both came out of the unheralded Horizon League, a Division One conference made up of nine Midwestern schools.","['cole', 'strike', 'particular', 'chord', 'drew', 'sinc', 'came', 'unherald', 'horizon', 'leagu', 'divis', 'one', 'confer', 'made', 'nine', 'midwestern', 'school']"
+33,34,It was the less glamorous side of the game that set Cole apart from other prospects.,"['less', 'glamor', 'side', 'game', 'set', 'cole', 'apart', 'prospect']"
+34,35,"""His defense is what helped him get drafted from our league,"" says Drew, who suited up for four NBA teams in six seasons before playing in Italy and Spain.","['defens', 'help', 'get', 'draft', 'leagu', 'say', 'drew', 'suit', 'four', 'nba', 'team', 'six', 'season', 'play', 'itali', 'spain']"
+35,36,"""A lot of guys can score and shoot, but when you get to the NBA, really being able to defend someone separates you.""","['lot', 'guy', 'score', 'shoot', 'get', 'nba', 'realli', 'abl', 'defend', 'someon', 'separ']"
+36,37,"Hayward led Butler -- a so-called ""mid-major"" program that exited the Horizon League two years ago -- all the way to the 2010 National Championship Game against Duke, only to watch his desperation half-court shot narrowly miss at the buzzer.","['hayward', 'led', 'butler', 'so-cal', 'mid-major', 'program', 'exit', 'horizon', 'leagu', 'two', 'year', 'ago', 'way', '2010', 'nation', 'championship', 'game', 'duke', 'watch', 'desper', 'half-court', 'shot', 'narrowli', 'miss', 'buzzer']"
+37,38,"Although Hayward turned pro after the two-point loss, Butler's exposure to potential recruits allowed the Bulldogs to return to the championship game the next year, and to the third round in 2013.","['although', 'hayward', 'turn', 'pro', 'two-point', 'loss', 'butler', ""'s"", 'exposur', 'potenti', 'recruit', 'allow', 'bulldog', 'return', 'championship', 'game', 'next', 'year', 'third', 'round', '2013']"
+38,39,"With an enrollment of only 4,500 students, it is the smallest school to play in the final for over 30 years.","['enrol', '4,500', 'student', 'smallest', 'school', 'play', 'final', '30', 'year']"
+39,40,"In 2013, Butler's 36-year-old Brad Stevens became the youngest head coach in the NBA when he signed a $22 million contract with the Boston Celtics.","['2013', 'butler', ""'s"", '36-year-old', 'brad', 'steven', 'becam', 'youngest', 'head', 'coach', 'nba', 'sign', '22', 'million', 'contract', 'boston', 'celtic']"
+40,41,"""Even though they are so wildly successful as a team (now,) Butler right before that wasn't well known,"" says Karnes, adding that it was Hayward who first put it on the map.","['even', 'though', 'wildli', 'success', 'team', 'butler', 'right', ""n't"", 'well', 'known', 'say', 'karn', 'ad', 'hayward', 'first', 'put', 'map']"
+41,42,"""You can find diamonds in these smaller schools.""","['find', 'diamond', 'smaller', 'school']"
+42,43,Drew hopes to emulate Butler's past success this postseason.,"['drew', 'hope', 'emul', 'butler', ""'s"", 'past', 'success', 'postseason']"
+43,44,He's already led Valparaiso to its highest victory total and winning percentage in school history.,"[""'s"", 'alreadi', 'led', 'valparaiso', 'highest', 'victori', 'total', 'win', 'percentag', 'school', 'histori']"
+44,45,"Led by 6-foot-10-inch Jamaican senior Vashil Fernandez (five blocked shots against Green Bay in the Horizon League tournament final) and 6' 9"" sophomore Alec Peters, the Crusaders are hoping for a high seed when a 10-member committee meets this ""Selection Sunday"" to rank the tournament's 68 participants.","['led', '6-foot-10-inch', 'jamaican', 'senior', 'vashil', 'fernandez', 'five', 'block', 'shot', 'green', 'bay', 'horizon', 'leagu', 'tournament', 'final', '6', '9', 'sophomor', 'alec', 'peter', 'crusad', 'hope', 'high', 'seed', '10-member', 'committe', 'meet', 'select', 'sunday', 'rank', 'tournament', ""'s"", '68', 'particip']"
+45,46,Valparaiso's nightmare scenario would be an early-round pairing with last year's runner-up Kentucky.,"['valparaiso', ""'s"", 'nightmar', 'scenario', 'would', 'early-round', 'pair', 'last', 'year', ""'s"", 'runner-up', 'kentucki']"
+46,47,The Wildcats (31-0) aim to become the first team to go undefeated and win the national championship since the Indiana Hoosiers in 1976.,"['wildcat', '31-0', 'aim', 'becom', 'first', 'team', 'go', 'undef', 'win', 'nation', 'championship', 'sinc', 'indiana', 'hoosier', '1976']"
+47,48,"Drew calls coach John Calipari's team -- powered by a front line of 7-footers Willie Cauley-Stein and Dakari Johnson, along with 6' 11"" Karl-Anthony Towns -- as the deepest he's ever seen in college basketball.","['drew', 'call', 'coach', 'john', 'calipari', ""'s"", 'team', 'power', 'front', 'line', '7-footer', 'willi', 'cauley-stein', 'dakari', 'johnson', 'along', '6', '11', 'karl-anthoni', 'town', 'deepest', ""'s"", 'ever', 'seen', 'colleg', 'basketbal']"
+48,49,Six of Kentucky's players are considered worthy of June's NBA draft.,"['six', 'kentucki', ""'s"", 'player', 'consid', 'worthi', 'june', ""'s"", 'nba', 'draft']"
+49,50,"While Karnes remains guarded about which college basketball players he's scouting, inking deals with Kentucky players after the tournament is probably a longshot.","['karn', 'remain', 'guard', 'colleg', 'basketbal', 'player', ""'s"", 'scout', 'ink', 'deal', 'kentucki', 'player', 'tournament', 'probabl', 'longshot']"
+50,51,"""You talk about these smaller schools that are out there, we're that way as a boutique agency,"" he says.","['talk', 'smaller', 'school', ""'re"", 'way', 'boutiqu', 'agenc', 'say']"

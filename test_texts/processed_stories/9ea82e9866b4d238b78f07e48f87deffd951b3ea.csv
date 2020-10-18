@@ -1,0 +1,75 @@
+,Label,Sentence,Words
+0,1,No science or religion can accurately predict what will happen in Congress.,"['scienc', 'religion', 'accur', 'predict', 'happen', 'congress']"
+1,2,"But looking plainly at the political chess board and listening to sources on Capitol Hill, there is plenty of reason to think that a shutdown of the federal government won't happen, at least not next week.","['look', 'plainli', 'polit', 'chess', 'board', 'listen', 'sourc', 'capitol', 'hill', 'plenti', 'reason', 'think', 'shutdown', 'feder', 'govern', 'wo', ""n't"", 'happen', 'least', 'next', 'week']"
+2,3,"Here's why:
+
+Politics.","[""'s"", 'polit']"
+3,4,And blame.,['blame']
+4,5,And 1996.,['1996']
+5,6,"""Let's put it this way,"" Sen. Orrin Hatch, R-Utah, told CNN.","['let', ""'s"", 'put', 'way', 'sen.', 'orrin', 'hatch', 'r-utah', 'told', 'cnn']"
+6,7,"""I'm not about to shut down the government and have Republicans take the blame for it.","[""'m"", 'shut', 'govern', 'republican', 'take', 'blame']"
+7,8,"It's just that simple.""","[""'s"", 'simpl']"
+8,9,"Bluntly, many Republicans fear they will be blamed for a shutdown, just months before a big congressional election year.","['bluntli', 'mani', 'republican', 'fear', 'blame', 'shutdown', 'month', 'big', 'congression', 'elect', 'year']"
+9,10,This makes them highly motivated to find a way to keep government running.,"['make', 'highli', 'motiv', 'find', 'way', 'keep', 'govern', 'run']"
+10,11,A CNN/ORC poll in mid-September showed 51% of people would hold Republicans in Congress responsible for a shutdown versus 40% for President Barack Obama.,"['cnn/orc', 'poll', 'mid-septemb', 'show', '51', 'peopl', 'would', 'hold', 'republican', 'congress', 'respons', 'shutdown', 'versu', '40', 'presid', 'barack', 'obama']"
+11,12,"House Speaker John Boehner, R-Ohio, might already be in this camp.","['hous', 'speaker', 'john', 'boehner', 'r-ohio', 'might', 'alreadi', 'camp']"
+12,13,He initially proposed a spending bill that would have avoided a standoff.,"['initi', 'propos', 'spend', 'bill', 'would', 'avoid', 'standoff']"
+13,14,"Conservatives forced him to go to war with a different version fully defunding Obamacare, but Boehner's opening move was an important signal that he wants to sidestep a shutdown.","['conserv', 'forc', 'go', 'war', 'differ', 'version', 'fulli', 'defund', 'obamacar', 'boehner', ""'s"", 'open', 'move', 'import', 'signal', 'want', 'sidestep', 'shutdown']"
+14,15,"Main Street fed up over Beltway shutdown battle
+
+There may be some learned behavior from history here, too.","['main', 'street', 'fed', 'beltway', 'shutdown', 'battl', 'may', 'learn', 'behavior', 'histori']"
+15,16,"""I saw this movie before, I saw what happened before,"" said Sen. John McCain, R-Arizona, talking about the sting Republicans felt after the shutdowns in 1995 and 1996.","['saw', 'movi', 'saw', 'happen', 'said', 'sen.', 'john', 'mccain', 'r-arizona', 'talk', 'sting', 'republican', 'felt', 'shutdown', '1995', '1996']"
+16,17,"""That's what happened the last time we tried this,"" he concluded.","[""'s"", 'happen', 'last', 'time', 'tri', 'conclud']"
+17,18,"Bottom line: Ideal or not, Congress runs on political currency.","['bottom', 'line', 'ideal', 'congress', 'run', 'polit', 'currenc']"
+18,19,And multiple House GOP aides tell CNN that the majority of the Republicans in their conference fear a shutdown would cost them with voters.,"['multipl', 'hous', 'gop', 'aid', 'tell', 'cnn', 'major', 'republican', 'confer', 'fear', 'shutdown', 'would', 'cost', 'voter']"
+19,20,"The next fights
+
+Republicans are divided over how far to take the Obamacare battle right now.","['next', 'fight', 'republican', 'divid', 'far', 'take', 'obamacar', 'battl', 'right']"
+20,21,And GOP leaders also are preparing a second Obamacare fight during the upcoming debt ceiling debate.,"['gop', 'leader', 'also', 'prepar', 'second', 'obamacar', 'fight', 'upcom', 'debt', 'ceil', 'debat']"
+21,22,"So, they have the option of dropping the anti-Obamacare push from the shutdown debate now and instead including it in the debt ceiling fight coming up.","['option', 'drop', 'anti-obamacar', 'push', 'shutdown', 'debat', 'instead', 'includ', 'debt', 'ceil', 'fight', 'come']"
+22,23,"At the same time, Democrats are eager to get past the shutdown debate so they can move on to the debt ceiling and start to deal with yet another fight: budget cuts slated to hit in January at the latest.","['time', 'democrat', 'eager', 'get', 'past', 'shutdown', 'debat', 'move', 'debt', 'ceil', 'start', 'deal', 'yet', 'anoth', 'fight', 'budget', 'cut', 'slate', 'hit', 'januari', 'latest']"
+23,24,"The numbers
+
+Republicans have 233 members in the House, 16 votes more than a majority.","['number', 'republican', '233', 'member', 'hous', '16', 'vote', 'major']"
+24,25,"Those 233 are divided over how far to take the Obamacare fight, over whether to ultimately shut down government in the name of defunding the health care law.","['233', 'divid', 'far', 'take', 'obamacar', 'fight', 'whether', 'ultim', 'shut', 'govern', 'name', 'defund', 'health', 'care', 'law']"
+25,26,"This year, funding measures repeatedly have passed the House of Representatives with a bipartisan coalition.","['year', 'fund', 'measur', 'repeatedli', 'pass', 'hous', 'repres', 'bipartisan', 'coalit']"
+26,27,Take a look at the Superstorm Sandy funding vote.,"['take', 'look', 'superstorm', 'sandi', 'fund', 'vote']"
+27,28,Or the last debt ceiling increase.,"['last', 'debt', 'ceil', 'increas']"
+28,29,Or the March vote to avoid a government shutdown.,"['march', 'vote', 'avoid', 'govern', 'shutdown']"
+29,30,"Sure, every vote is different.","['sure', 'everi', 'vote', 'differ']"
+30,31,But a bipartisan safety net has magically rolled out during the last funding standoffs.,"['bipartisan', 'safeti', 'net', 'magic', 'roll', 'last', 'fund', 'standoff']"
+31,32,"Deadline pressure
+
+Something happens in the day or two before a potential shutdown.","['deadlin', 'pressur', 'someth', 'happen', 'day', 'two', 'potenti', 'shutdown']"
+32,33,"Whatever the atmosphere and seemingly-firm positioning now, things will ramp up fast if Congress gets closer to a shutdown, especially a shutdown that would go in place during a work week.","['whatev', 'atmospher', 'seemingly-firm', 'posit', 'thing', 'ramp', 'fast', 'congress', 'get', 'closer', 'shutdown', 'especi', 'shutdown', 'would', 'go', 'place', 'work', 'week']"
+33,34,Workers ask if they will be sent home without pay.,"['worker', 'ask', 'sent', 'home', 'without', 'pay']"
+34,35,Troops (and their families) worry if their paychecks will be delayed.,"['troop', 'famili', 'worri', 'paycheck', 'delay']"
+35,36,Families may start to cancel vacations.,"['famili', 'may', 'start', 'cancel', 'vacat']"
+36,37,That is the moment when incredible political pressure against a shutdown builds.,"['moment', 'incred', 'polit', 'pressur', 'shutdown', 'build']"
+37,38,"The deadline itself
+
+Finally, we come to a public secret.","['deadlin', 'final', 'come', 'public', 'secret']"
+38,39,The government does not necessarily have to shut down at the end of the day on September 30.,"['govern', 'necessarili', 'shut', 'end', 'day', 'septemb', '30']"
+39,40,"Yes, at midnight, funding officially runs out for most programs.","['ye', 'midnight', 'fund', 'offici', 'run', 'program']"
+40,41,"But if lawmakers are close to a deal, the president can order agencies to keep running for a few hours or perhaps even a day or two for Congress to pass the legislation.","['lawmak', 'close', 'deal', 'presid', 'order', 'agenc', 'keep', 'run', 'hour', 'perhap', 'even', 'day', 'two', 'congress', 'pass', 'legisl']"
+41,42,"CNN Fact Checks: Obamacare
+
+This has happened before.","['cnn', 'fact', 'check', 'obamacar', 'happen']"
+42,43,Recently.,['recent']
+43,44,"At midnight at the end of April 8, 2011, the funding for most agencies officially ran out.","['midnight', 'end', 'april', '8', '2011', 'fund', 'agenc', 'offici', 'ran']"
+44,45,"But Democrats and Republicans had struck a funding deal a few hours before, it just had not passed through Congress yet.","['democrat', 'republican', 'struck', 'fund', 'deal', 'hour', 'pass', 'congress', 'yet']"
+45,46,So the Obama administration told agencies to hold off with any shutdown plans because a spending bill was likely to become law soon.,"['obama', 'administr', 'told', 'agenc', 'hold', 'shutdown', 'plan', 'spend', 'bill', 'like', 'becom', 'law', 'soon']"
+46,47,"In that case, it waived just a few hours of shutdown, but sources in both parties at the Capitol have confirmed that the president can do this for a longer period if a deal is emerging.","['case', 'waiv', 'hour', 'shutdown', 'sourc', 'parti', 'capitol', 'confirm', 'presid', 'longer', 'period', 'deal', 'emerg']"
+47,48,"Again, Congress works best on deadlines, and the shutdown deadline is not quite as firm as people might think.","['congress', 'work', 'best', 'deadlin', 'shutdown', 'deadlin', 'quit', 'firm', 'peopl', 'might', 'think']"
+48,49,"Why a shutdown (still) might happen
+
+All this said, you cannot underestimate the swirling, unpredictable dynamics in Congress at the moment and Republicans' gut-level objections to Obamacare.","['shutdown', 'still', 'might', 'happen', 'said', 'underestim', 'swirl', 'unpredict', 'dynam', 'congress', 'moment', 'republican', 'gut-level', 'object', 'obamacar']"
+49,50,"Once the Senate passes its version of a spending bill, House Republicans are considering attaching another item to it.","['senat', 'pass', 'version', 'spend', 'bill', 'hous', 'republican', 'consid', 'attach', 'anoth', 'item']"
+50,51,"That could be a one-year delay in the individual insurance mandate in Obamacare, a repeal of a medical device tax, a change in how the government handles congressional employee health plans or possibly something in support of the Keystone pipeline.","['could', 'one-year', 'delay', 'individu', 'insur', 'mandat', 'obamacar', 'repeal', 'medic', 'devic', 'tax', 'chang', 'govern', 'handl', 'congression', 'employe', 'health', 'plan', 'possibl', 'someth', 'support', 'keyston', 'pipelin']"
+51,52,"How this affects you
+
+A spending bill with something Republicans want and Democrats don't would set up a late game of chicken between the House, Senate and president.","['affect', 'spend', 'bill', 'someth', 'republican', 'want', 'democrat', ""n't"", 'would', 'set', 'late', 'game', 'chicken', 'hous', 'senat', 'presid']"
+52,53,"If no one blinks, which is possible, this would lead to a shutdown.","['one', 'blink', 'possibl', 'would', 'lead', 'shutdown']"
+53,54,It's unclear whether House Republicans will do this.,"[""'s"", 'unclear', 'whether', 'hous', 'republican']"
+54,55,It is also unclear how Democrats would react.,"['also', 'unclear', 'democrat', 'would', 'react']"
+55,56,But this scenario is the reason there is still a chance a shutdown could happen.,"['scenario', 'reason', 'still', 'chanc', 'shutdown', 'could', 'happen']"

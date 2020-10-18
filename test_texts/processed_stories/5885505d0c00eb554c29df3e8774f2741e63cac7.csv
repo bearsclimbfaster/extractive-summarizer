@@ -1,0 +1,92 @@
+,Label,Sentence,Words
+0,1,"For me, Chinese New Year used to be fun.","['chines', 'new', 'year', 'use', 'fun']"
+1,2,"When I was a kid, I was excited during Chinese New Year when I got lai see and I could stay up late.","['kid', 'excit', 'chines', 'new', 'year', 'got', 'lai', 'see', 'could', 'stay', 'late']"
+2,3,"I even had access to candy, a once-a-year treat while living under the roof of my Tiger Mom.","['even', 'access', 'candi', 'once-a-year', 'treat', 'live', 'roof', 'tiger', 'mom']"
+3,4,"Riding strong on the sugar highs, I always thought to myself, this is what it must feel like to be an adult.","['ride', 'strong', 'sugar', 'high', 'alway', 'thought', 'must', 'feel', 'like', 'adult']"
+4,5,"I was flush, free and giddy.","['flush', 'free', 'giddi']"
+5,6,"Then at some point in my twenties, Chinese New Year became a chore.","['point', 'twenti', 'chines', 'new', 'year', 'becam', 'chore']"
+6,7,"Not any garden variety chore, but a cold-sweat-inducing family obligation that I try hard to avoid.","['garden', 'varieti', 'chore', 'cold-sweat-induc', 'famili', 'oblig', 'tri', 'hard', 'avoid']"
+7,8,"As an adult, Chinese New Year is an annual nightmare, for the following reasons:
+
+1.","['adult', 'chines', 'new', 'year', 'annual', 'nightmar', 'follow', 'reason', '1']"
+8,9,"I find it sucks when you are single
+
+Relatives feel that they have a right to judge you because you do share bits of DNA, so, really, it's almost like they're judging themselves.","['find', 'suck', 'singl', 'rel', 'feel', 'right', 'judg', 'share', 'bit', 'dna', 'realli', ""'s"", 'almost', 'like', ""'re"", 'judg']"
+9,10,"Typically, the extended family gathers for Chinese New Year and spends an inordinate amount of time together, during which people get bored and focus their restlessness on judging the younger generation, particularly those who are single.","['typic', 'extend', 'famili', 'gather', 'chines', 'new', 'year', 'spend', 'inordin', 'amount', 'time', 'togeth', 'peopl', 'get', 'bore', 'focu', 'restless', 'judg', 'younger', 'gener', 'particularli', 'singl']"
+10,11,"Singledom means a lack of responsibilities and responsibility-free people need to be reined in by the wisdom of elders, or they will be reckless with their directionless lives.","['singledom', 'mean', 'lack', 'respons', 'responsibility-fre', 'peopl', 'need', 'rein', 'wisdom', 'elder', 'reckless', 'directionless', 'live']"
+11,12,Here are some unavoidable conversations at Chinese New Year.,"['unavoid', 'convers', 'chines', 'new', 'year']"
+12,13,"By ""conversations"" I really mean monologues by one Wise Elder or another, fired away at a particular Single Younger in a trance-like manner:
+
+""Why don't you have a boyfriend?","['convers', 'realli', 'mean', 'monologu', 'one', 'wise', 'elder', 'anoth', 'fire', 'away', 'particular', 'singl', 'younger', 'trance-lik', 'manner', ""n't"", 'boyfriend']"
+13,14,"If you have a boyfriend, why don't you get married?""","['boyfriend', ""n't"", 'get', 'marri']"
+14,15,"""Why are you not dieting at least a little bit?","['diet', 'least', 'littl', 'bit']"
+15,16,"Second Cousin Yong Yong will have to start bringing clothes from America for you.""","['second', 'cousin', 'yong', 'yong', 'start', 'bring', 'cloth', 'america']"
+16,17,"""What happened to your hair?","['happen', 'hair']"
+17,18,"Blue is not such a good color for us Chinese people.""","['blue', 'good', 'color', 'us', 'chines', 'peopl']"
+18,19,"""Are you saving up for an apartment?","['save', 'apart']"
+19,20,Why not?,[]
+20,21,The most important thing in life is to have a roof over your head.,"['import', 'thing', 'life', 'roof', 'head']"
+21,22,"You don't want to be homeless, do you?","[""n't"", 'want', 'homeless']"
+22,23,What if the economy collapses again?,"['economi', 'collaps']"
+23,24,"At least you will have an apartment.""","['least', 'apart']"
+24,25,"""Why don't you get a better paid job?","[""n't"", 'get', 'better', 'paid', 'job']"
+25,26,You are wasting your talent.,"['wast', 'talent']"
+26,27,"You will regret your life.""","['regret', 'life']"
+27,28,2.,['2']
+28,29,"I am employed
+
+I loved the great Chinese tradition of gifting lai see.","['employ', 'love', 'great', 'chines', 'tradit', 'gift', 'lai', 'see']"
+29,30,Getting HK$20 for no reason other than tradition really rocked my seven-year-old world.,"['get', 'hk', '20', 'reason', 'tradit', 'realli', 'rock', 'seven-year-old', 'world']"
+30,31,"I have an income now, so twenty bucks here and there doesn't make a huge difference, but I still retain that childhood anticipation for the red packets.","['incom', 'twenti', 'buck', ""n't"", 'make', 'huge', 'differ', 'still', 'retain', 'childhood', 'anticip', 'red', 'packet']"
+31,32,It's just a bit disappointing when I open up an envelope and it isn't concealing a massive check.,"[""'s"", 'bit', 'disappoint', 'open', 'envelop', ""n't"", 'conceal', 'massiv', 'check']"
+32,33,And it's the guilt from feeling disappointed that makes me really hate Chinese New Year for making me hate myself.,"[""'s"", 'guilt', 'feel', 'disappoint', 'make', 'realli', 'hate', 'chines', 'new', 'year', 'make', 'hate']"
+33,34,It's just like being unable to conceal your letdown expression when unwrapping that pair of socks at Secret Santa parties.,"[""'s"", 'like', 'unabl', 'conceal', 'letdown', 'express', 'unwrap', 'pair', 'sock', 'secret', 'santa', 'parti']"
+34,35,Gifting is a heartwarming tradition.,"['gift', 'heartwarm', 'tradit']"
+35,36,It's the thought that counts.,"[""'s"", 'thought', 'count']"
+36,37,I am not supposed to care.,"['suppos', 'care']"
+37,38,I am a bad person.,"['bad', 'person']"
+38,39,There's even worse.,"[""'s"", 'even', 'wors']"
+39,40,Chinese New Year gambling is just out of hand.,"['chines', 'new', 'year', 'gambl', 'hand']"
+40,41,"Now that I have a job, I'm expected to bet real money at The Mahjong Table, a no man's land filled with hidden agendas, treacherous scheming and Janus-faced traitors.","['job', ""'m"", 'expect', 'bet', 'real', 'money', 'mahjong', 'tabl', 'man', ""'s"", 'land', 'fill', 'hidden', 'agenda', 'treacher', 'scheme', 'janus-fac', 'traitor']"
+41,42,"If you beat your elder relatives at mahjong one too many times, beware their wrath.","['beat', 'elder', 'rel', 'mahjong', 'one', 'mani', 'time', 'bewar', 'wrath']"
+42,43,It really hurts when you get hit by a mahjong tile.,"['realli', 'hurt', 'get', 'hit', 'mahjong', 'tile']"
+43,44,"If you lose on purpose to your elders and are unable to skillfully conceal your purposefulness, you risk looking patronizing.","['lose', 'purpos', 'elder', 'unabl', 'skill', 'conceal', 'purpos', 'risk', 'look', 'patron']"
+44,45,"It will put them in a bad mood and lead to a vengeful ""what are you doing with your life"" interrogation later.","['put', 'bad', 'mood', 'lead', 'veng', 'life', 'interrog', 'later']"
+45,46,See point number one.,"['see', 'point', 'number', 'one']"
+46,47,"If you're simply crap at the game, you lose a load of money and will probably be judged for being not very intelligent.","[""'re"", 'simpli', 'crap', 'game', 'lose', 'load', 'money', 'probabl', 'judg', 'intellig']"
+47,48,See point number one again.,"['see', 'point', 'number', 'one']"
+48,49,3.,['3']
+49,50,"I like good food
+
+When foreigners make jokes about Chinese eating weird foods, I cringe.","['like', 'good', 'food', 'foreign', 'make', 'joke', 'chines', 'eat', 'weird', 'food', 'cring']"
+50,51,"When Chinese New Year comes around, I'm the one making the damn jokes.","['chines', 'new', 'year', 'come', 'around', ""'m"", 'one', 'make', 'damn', 'joke']"
+51,52,"At this time of year, we do get some incredible festive dishes.","['time', 'year', 'get', 'incred', 'festiv', 'dish']"
+52,53,"And then there are those odd ones that make you feel like the taste, texture and nutritional content of food have all become irrelevant -- we only eat for superstitions.","['odd', 'one', 'make', 'feel', 'like', 'tast', 'textur', 'nutrit', 'content', 'food', 'becom', 'irrelev', 'eat', 'superstit']"
+53,54,"Lots of Chinese New Year foods are auspicious in meaning, but atrocious in taste.","['lot', 'chines', 'new', 'year', 'food', 'auspici', 'mean', 'atroci', 'tast']"
+54,55,"I propose that we at least get rid of these three that are now out of touch with our lives:
+
+Chinese New Year cake
+
+Called ""leen go"" in Cantonese (""niangao"" in mainland China), the name sounds auspicious and means ""to progress more and reach higher every year.""","['propos', 'least', 'get', 'rid', 'three', 'touch', 'live', 'chines', 'new', 'year', 'cake', 'call', 'leen', 'go', 'cantones', 'niangao', 'mainland', 'china', 'name', 'sound', 'auspici', 'mean', 'progress', 'reach', 'higher', 'everi', 'year']"
+55,56,"The cake is made from glutionous rice, sugar and flavored with red bean paste or jujubes.","['cake', 'made', 'glution', 'rice', 'sugar', 'flavor', 'red', 'bean', 'past', 'jujub']"
+56,57,"Cut into thin slices, dip into beaten eggs and pan fry until it's gooey on the inside and crisp on the outside.","['cut', 'thin', 'slice', 'dip', 'beaten', 'egg', 'pan', 'fri', ""'s"", 'gooey', 'insid', 'crisp', 'outsid']"
+57,58,"The problem is, no one makes these at home anymore and the store-bought version is bland and stodgy, like eating slices of caulking.","['problem', 'one', 'make', 'home', 'anymor', 'store-bought', 'version', 'bland', 'stodgi', 'like', 'eat', 'slice', 'caulk']"
+58,59,"Since glutinous rice is considered difficult to digest for the elderly, us Single Youngers who have nothing to lose are forced to finish the plateful.","['sinc', 'glutin', 'rice', 'consid', 'difficult', 'digest', 'elderli', 'us', 'singl', 'younger', 'noth', 'lose', 'forc', 'finish', 'plate']"
+59,60,"Sugared lotus seeds
+
+Back in the day -- before globalization brought us jelly beans and Sugus, before the invention of Coca-Cola, before Christopher Columbus brought cocoa beans to the Old World -- eating sugar-coated lotus seeds during Chinese New Year seemed like a good idea.","['sugar', 'lotu', 'seed', 'back', 'day', 'global', 'brought', 'us', 'jelli', 'bean', 'sugu', 'invent', 'coca-cola', 'christoph', 'columbu', 'brought', 'cocoa', 'bean', 'old', 'world', 'eat', 'sugar-co', 'lotu', 'seed', 'chines', 'new', 'year', 'seem', 'like', 'good', 'idea']"
+60,61,"Today, we have so many more delicious ways to feed our sweet tooth, so why do people still buy sugared lotus seeds?","['today', 'mani', 'delici', 'way', 'feed', 'sweet', 'tooth', 'peopl', 'still', 'buy', 'sugar', 'lotu', 'seed']"
+61,62,"They look like mothballs, taste one dimensional and feel like a marble of sand broken upon the tongue.","['look', 'like', 'mothbal', 'tast', 'one', 'dimension', 'feel', 'like', 'marbl', 'sand', 'broken', 'upon', 'tongu']"
+62,63,"The name ""leen tsi"" sounds like ""to birth sons each year.""","['name', 'leen', 'tsi', 'sound', 'like', 'birth', 'son', 'year']"
+63,64,"No one in the family likes to eat them and most of them already have kids, which means us Single Youngers have to swallow.","['one', 'famili', 'like', 'eat', 'alreadi', 'kid', 'mean', 'us', 'singl', 'younger', 'swallow']"
+64,65,"Gok tsai
+
+These are deep-fried sweet dumplings.","['gok', 'tsai', 'deep-fri', 'sweet', 'dumpl']"
+65,66,"The skin is a thick, lifeless pastry made from lard, the filling is a mind-numbingly sweet blend of sugar and nuts.","['skin', 'thick', 'lifeless', 'pastri', 'made', 'lard', 'fill', 'mind-numbingli', 'sweet', 'blend', 'sugar', 'nut']"
+66,67,"Its shape and color makes it, somewhat, resemble a gold ingot.","['shape', 'color', 'make', 'somewhat', 'resembl', 'gold', 'ingot']"
+67,68,Eating these symbolize prosperity for the new year.,"['eat', 'symbol', 'prosper', 'new', 'year']"
+68,69,"If I had to run a marathon, I might appreciate the fat bomb.","['run', 'marathon', 'might', 'appreci', 'fat', 'bomb']"
+69,70,But the only thing that I run are scripts on my browser.,"['thing', 'run', 'script', 'browser']"
+70,71,"That point, like the others in this post, is lost on the Wise Elders, wise as they are.","['point', 'like', 'other', 'post', 'lost', 'wise', 'elder', 'wise']"
+71,72,The opinions expressed in this commentary are solely those of Zoe Li.,"['opinion', 'express', 'commentari', 'sole', 'zoe', 'li']"
+72,73,"A former CNN employee, Zoe is a Hong Kong resident and edits the Hong Kong section of BLOUIN ARTINFO.","['former', 'cnn', 'employe', 'zoe', 'hong', 'kong', 'resid', 'edit', 'hong', 'kong', 'section', 'blouin', 'artinfo']"

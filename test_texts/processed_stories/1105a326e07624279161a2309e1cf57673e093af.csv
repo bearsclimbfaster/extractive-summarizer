@@ -1,0 +1,27 @@
+,Label,Sentence,Words
+0,1,"Japan's nuclear watchdog on Wednesday said a toxic water leak at the tsunami-damaged Fukushima Daiichi power plant has been classified as a level 3 ""serious incident"" on an international scale.","['japan', ""'s"", 'nuclear', 'watchdog', 'wednesday', 'said', 'toxic', 'water', 'leak', 'tsunami-damag', 'fukushima', 'daiichi', 'power', 'plant', 'classifi', 'level', '3', 'seriou', 'incid', 'intern', 'scale']"
+1,2,"The Nuclear Regulation Authority (NRA) said it had made the decision after consulting with the Vienna-based International Atomic Energy Agency, said Juntaro Yamada, a spokesman for the regulator.","['nuclear', 'regul', 'author', 'nra', 'said', 'made', 'decis', 'consult', 'vienna-bas', 'intern', 'atom', 'energi', 'agenc', 'said', 'juntaro', 'yamada', 'spokesman', 'regul']"
+2,3,"As news emerged last week of the leak of hundreds of tons of radioactive water from a storage tank, the NRA said it was planning to issue the alert, its gravest warning since the massive 2011 earthquake and tsunami that sent three reactors at the plant into meltdown.","['news', 'emerg', 'last', 'week', 'leak', 'hundr', 'ton', 'radioact', 'water', 'storag', 'tank', 'nra', 'said', 'plan', 'issu', 'alert', 'gravest', 'warn', 'sinc', 'massiv', '2011', 'earthquak', 'tsunami', 'sent', 'three', 'reactor', 'plant', 'meltdown']"
+3,4,"The leak had previously been assigned a level 1 ""anomaly rating"" on the International Nuclear and Radiological Event Scale, which ranges from zero, for no safety threat, to seven, for a major accident like the meltdowns.","['leak', 'previous', 'assign', 'level', '1', 'anomali', 'rate', 'intern', 'nuclear', 'radiolog', 'event', 'scale', 'rang', 'zero', 'safeti', 'threat', 'seven', 'major', 'accid', 'like', 'meltdown']"
+4,5,"The decision to issue the level 3 alert came two days after a Japanese government minister had compared the plant operator's efforts to deal with worrying toxic water leaks at the site to a game of ""whack-a-mole.""","['decis', 'issu', 'level', '3', 'alert', 'came', 'two', 'day', 'japanes', 'govern', 'minist', 'compar', 'plant', 'oper', ""'s"", 'effort', 'deal', 'worri', 'toxic', 'water', 'leak', 'site', 'game', 'whack-a-mol']"
+5,6,"Toshimitsu Motegi, the industry minister, said Monday after visiting the plant that ""from now on, the government is going to step forward.""","['toshimitsu', 'motegi', 'industri', 'minist', 'said', 'monday', 'visit', 'plant', 'govern', 'go', 'step', 'forward']"
+6,7,His ministry has been tasked by Prime Minister Shinzo Abe to come up with measures to tackle the mounting problems at Fukushima Daiichi.,"['ministri', 'task', 'prime', 'minist', 'shinzo', 'abe', 'come', 'measur', 'tackl', 'mount', 'problem', 'fukushima', 'daiichi']"
+7,8,"TEPCO looks for outside help to stabilize Fukushima
+
+Huge volumes of toxic water
+
+The plant operator, Tokyo Electric Power Company (Tepco), has been struggling to deal with the high volume of contaminated water at the plant.","['tepco', 'look', 'outsid', 'help', 'stabil', 'fukushima', 'huge', 'volum', 'toxic', 'water', 'plant', 'oper', 'tokyo', 'electr', 'power', 'compani', 'tepco', 'struggl', 'deal', 'high', 'volum', 'contamin', 'water', 'plant']"
+8,9,"Last month, Tepco admitted that radioactive groundwater was leaking into the Pacific Ocean from the site, bypassing an underground barrier built to seal in the water.","['last', 'month', 'tepco', 'admit', 'radioact', 'groundwat', 'leak', 'pacif', 'ocean', 'site', 'bypass', 'underground', 'barrier', 'built', 'seal', 'water']"
+9,10,"About 400 tons of groundwater flow into the site each day, and Tepco also pumps large amounts water through the buildings to keep the crippled reactors cool.","['400', 'ton', 'groundwat', 'flow', 'site', 'day', 'tepco', 'also', 'pump', 'larg', 'amount', 'water', 'build', 'keep', 'crippl', 'reactor', 'cool']"
+10,11,"Fukishima tuna study finds miniscule health risks
+
+The operator has stored hundreds of thousands of tons of the contaminated water in huge tanks at the site.","['fukishima', 'tuna', 'studi', 'find', 'miniscul', 'health', 'risk', 'oper', 'store', 'hundr', 'thousand', 'ton', 'contamin', 'water', 'huge', 'tank', 'site']"
+11,12,"There are now about 1,000 of the containers, 93% of which are already full of radioactive water.","['1,000', 'contain', '93', 'alreadi', 'full', 'radioact', 'water']"
+12,13,Around 350 of the tanks were built as temporary storage units in the aftermath of the meltdowns.,"['around', '350', 'tank', 'built', 'temporari', 'storag', 'unit', 'aftermath', 'meltdown']"
+13,14,"But more than two years later, they are still being used.","['two', 'year', 'later', 'still', 'use']"
+14,15,"It was one of those makeshift tanks where the leak was detected, setting off the latest crisis.","['one', 'makeshift', 'tank', 'leak', 'detect', 'set', 'latest', 'crisi']"
+15,16,Tepco says it has transferred the remaining tainted water from the faulty tank to another container.,"['tepco', 'say', 'transfer', 'remain', 'taint', 'water', 'faulti', 'tank', 'anoth', 'contain']"
+16,17,But it hasn't said what caused the leak in the first place.,"[""n't"", 'said', 'caus', 'leak', 'first', 'place']"
+17,18,"Japan ponders freezing ground
+
+CNN's Junko Ogura reported from Tokyo, and Jethro Mullen wrote from Hong Kong.","['japan', 'ponder', 'freez', 'ground', 'cnn', ""'s"", 'junko', 'ogura', 'report', 'tokyo', 'jethro', 'mullen', 'wrote', 'hong', 'kong']"

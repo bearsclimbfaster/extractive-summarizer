@@ -1,0 +1,30 @@
+,Label,Sentence,Words
+0,1,Roaches crawling out of air vents.,"['roach', 'crawl', 'air', 'vent']"
+1,2,Roaches climbing up seats and windows.,"['roach', 'climb', 'seat', 'window']"
+2,3,Roaches on people's coats and hats.,"['roach', 'peopl', ""'s"", 'coat', 'hat']"
+3,4,Roaches everywhere.,"['roach', 'everywher']"
+4,5,It sounds like a scene from a horror movie -- but is in fact what passengers say happened on a Greyhound bus journey from Atlantic City to New York on Friday.,"['sound', 'like', 'scene', 'horror', 'movi', 'fact', 'passeng', 'say', 'happen', 'greyhound', 'bu', 'journey', 'atlant', 'citi', 'new', 'york', 'friday']"
+5,6,"""There's like a thousand roaches,"" passenger Dawn Alexander told CNN affiliate WABC.","[""'s"", 'like', 'thousand', 'roach', 'passeng', 'dawn', 'alexand', 'told', 'cnn', 'affili', 'wabc']"
+6,7,"""And when I say infested, I mean infested.","['say', 'infest', 'mean', 'infest']"
+7,8,"People were in the aisles literally brushing roaches off of them.""","['peopl', 'aisl', 'liter', 'brush', 'roach']"
+8,9,"""We thought it was one.","['thought', 'one']"
+9,10,"It turned out to be a whole house full of roaches,"" said a fellow passenger.","['turn', 'whole', 'hous', 'full', 'roach', 'said', 'fellow', 'passeng']"
+10,11,"""I sat down -- roaches started crawling up on our clothes, falling down from the ceiling.","['sat', 'roach', 'start', 'crawl', 'cloth', 'fall', 'ceil']"
+11,12,"Everything,"" said another.","['everyth', 'said', 'anoth']"
+12,13,Cellphone footage shows the pests scurrying across the bus floor and steps.,"['cellphon', 'footag', 'show', 'pest', 'scurri', 'across', 'bu', 'floor', 'step']"
+13,14,"Greyhound's Media Relations Director Maureen Richmond said the bus driver had acted swiftly when passengers alerted him to ""bugs on the bus.""","['greyhound', ""'s"", 'media', 'relat', 'director', 'maureen', 'richmond', 'said', 'bu', 'driver', 'act', 'swiftli', 'passeng', 'alert', 'bug', 'bu']"
+14,15,"Bionic cockroaches to the rescue
+
+""He immediately pulled the bus over and radioed our dispatch office for assistance,"" she told CNN.","['bionic', 'cockroach', 'rescu', 'immedi', 'pull', 'bu', 'radio', 'dispatch', 'offic', 'assist', 'told', 'cnn']"
+15,16,"""A second bus was immediately sent to continue the trip into New York.","['second', 'bu', 'immedi', 'sent', 'continu', 'trip', 'new', 'york']"
+16,17,"We have spoken with each passenger and provided full refunds.""","['spoken', 'passeng', 'provid', 'full', 'refund']"
+17,18,"Greyhound has apologized for the inconvenience to the 48 passengers on board the bus, which departed Atlantic City around 10 a.m. Friday.","['greyhound', 'apolog', 'inconveni', '48', 'passeng', 'board', 'bu', 'depart', 'atlant', 'citi', 'around', '10', 'a.m.', 'friday']"
+18,19,"""We are investigating how they got there -- in bags or from the bus,"" said Richmond.","['investig', 'got', 'bag', 'bu', 'said', 'richmond']"
+19,20,What caused the insects to start pouring out of the air vents about 15 minutes into the journey is not yet clear -- nor what Greyhound plans to do to get rid of them.,"['caus', 'insect', 'start', 'pour', 'air', 'vent', '15', 'minut', 'journey', 'yet', 'clear', 'greyhound', 'plan', 'get', 'rid']"
+20,21,Alexander told WABC she was sitting in the back of the bus when she saw those toward the front starting to panic.,"['alexand', 'told', 'wabc', 'sit', 'back', 'bu', 'saw', 'toward', 'front', 'start', 'panic']"
+21,22,"""Then after a while, the panic got towards the back because we all started looking around and saw roaches crawling everywhere,"" she said.","['panic', 'got', 'toward', 'back', 'start', 'look', 'around', 'saw', 'roach', 'crawl', 'everywher', 'said']"
+22,23,"According to the National Institute of Environmental Health Sciences, roaches ""are common even in the cleanest of crowded urban areas and older dwellings"" and are found in all types of neighborhoods.","['accord', 'nation', 'institut', 'environment', 'health', 'scienc', 'roach', 'common', 'even', 'cleanest', 'crowd', 'urban', 'area', 'older', 'dwell', 'found', 'type', 'neighborhood']"
+23,24,"Happily, the pests don't usually hitch a ride on a bus to the Big Apple.","['happili', 'pest', ""n't"", 'usual', 'hitch', 'ride', 'bu', 'big', 'appl']"
+24,25,"In 2011: AirTran sued over cockroaches on flight
+
+CNN's Erinn Cawthon contributed to this report.","['2011', 'airtran', 'su', 'cockroach', 'flight', 'cnn', ""'s"", 'erinn', 'cawthon', 'contribut', 'report']"

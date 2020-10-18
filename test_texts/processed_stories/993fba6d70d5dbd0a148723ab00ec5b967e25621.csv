@@ -1,0 +1,11 @@
+,Label,Sentence,Words
+0,1,"An American Airlines flight headed to California was diverted to New Mexico and a passenger detained for allegedly smoking onboard, officials said.","['american', 'airlin', 'flight', 'head', 'california', 'divert', 'new', 'mexico', 'passeng', 'detain', 'allegedli', 'smoke', 'onboard', 'offici', 'said']"
+1,2,"The FBI took the male passenger into custody, said Daniel Jiron, a spokesman for the Albuquerque International Airport.","['fbi', 'took', 'male', 'passeng', 'custodi', 'said', 'daniel', 'jiron', 'spokesman', 'albuquerqu', 'intern', 'airport']"
+2,3,"""Apparently, he had some matches on him that were struck,"" Jiron said.","['appar', 'match', 'struck', 'jiron', 'said']"
+3,4,The flight from New York was on its way to Los Angeles.,"['flight', 'new', 'york', 'way', 'lo', 'angel']"
+4,5,It was diverted to Albuquerque on Wednesday afternoon.,"['divert', 'albuquerqu', 'wednesday', 'afternoon']"
+5,6,"""TSA was notified of a passenger allegedly smoking onboard American Airlines Flight 117 from John F. Kennedy International Airport (JFK) to Los Angeles International Airport (LAX),"" the Transportation Security Administration said in a statement.","['tsa', 'notifi', 'passeng', 'allegedli', 'smoke', 'onboard', 'american', 'airlin', 'flight', '117', 'john', 'f.', 'kennedi', 'intern', 'airport', 'jfk', 'lo', 'angel', 'intern', 'airport', 'lax', 'transport', 'secur', 'administr', 'said', 'statement']"
+6,7,"There was no bomb or bomb threat on the flight, the Federal Aviation Administration said.","['bomb', 'bomb', 'threat', 'flight', 'feder', 'aviat', 'administr', 'said']"
+7,8,"Canines swept the plane Wednesday evening out of an ""abundance of caution,"" the transportation agency said.","['canin', 'swept', 'plane', 'wednesday', 'even', 'abund', 'caution', 'transport', 'agenc', 'said']"
+8,9,"The plane's 168 passengers exited after landing, said Billy Sanez, a spokesman for the airline.","['plane', ""'s"", '168', 'passeng', 'exit', 'land', 'said', 'billi', 'sanez', 'spokesman', 'airlin']"
+9,10,The plane later continued onto Los Angeles without the detained passenger  late Wednesday.,"['plane', 'later', 'continu', 'onto', 'lo', 'angel', 'without', 'detain', 'passeng', 'late', 'wednesday']"

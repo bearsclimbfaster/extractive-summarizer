@@ -1,0 +1,29 @@
+,Label,Sentence,Words
+0,1,Six Italian men were shot dead in the German city of Duisburg on Wednesday in an execution-style killing linked to a mafia feud.,"['six', 'italian', 'men', 'shot', 'dead', 'german', 'citi', 'duisburg', 'wednesday', 'execution-styl', 'kill', 'link', 'mafia', 'feud']"
+1,2,Police remove a body from the scene.,"['polic', 'remov', 'bodi', 'scene']"
+2,3,"Italian Interior Minister Giuliano Amato said the shootings appeared to be linked to a feud between two mafia clans in the southern region of Calabria, home to the 'Ndrangheta organized crime group.","['italian', 'interior', 'minist', 'giuliano', 'amato', 'said', 'shoot', 'appear', 'link', 'feud', 'two', 'mafia', 'clan', 'southern', 'region', 'calabria', 'home', ""'ndrangheta"", 'organ', 'crime', 'group']"
+3,4,"Here are some key facts about the group:
+
+ORIGINS:
+
+-- The Calabrian ""Honored Society"", known as ""'Ndrangheta"", in the Calabria region of south Italy is the equivalent of the Sicilian Mafia.","['key', 'fact', 'group', 'origin', 'calabrian', 'honor', 'societi', 'known', ""'ndrangheta"", 'calabria', 'region', 'south', 'itali', 'equival', 'sicilian', 'mafia']"
+4,5,-- 'Ndrangheta began as a defense network for impoverished rural peasants against aristocratic landlords.,"[""'ndrangheta"", 'began', 'defens', 'network', 'impoverish', 'rural', 'peasant', 'aristocrat', 'landlord']"
+5,6,"Members emigrated to Canada and the United States, and were discovered running an intimidation scheme in Pennsylvania mining towns in 1906.","['member', 'emigr', 'canada', 'unit', 'state', 'discov', 'run', 'intimid', 'scheme', 'pennsylvania', 'mine', 'town', '1906']"
+6,7,HOW DOES IT WORK?,['work']
+7,8,"-- They are known as ""The Honored Society"", Fibbia or Calabrian mafia.","['known', 'honor', 'societi', 'fibbia', 'calabrian', 'mafia']"
+8,9,"Instead of the pyramid structure of bosses used by other mafia, The 'Ndrangheta"" uses families based on blood relationships, inter-marriages, or being a Godfather.","['instead', 'pyramid', 'structur', 'boss', 'use', 'mafia', ""'ndrangheta"", 'use', 'famili', 'base', 'blood', 'relationship', 'inter-marriag', 'godfath']"
+9,10,"Each group is named after their village, or after the family leader.","['group', 'name', 'villag', 'famili', 'leader']"
+10,11,"TWENTIETH CENTURY EXPANSION:
+
+-- When Calabria began the process of industrialization and urbanization in the late 20th century, the 'Ndrangheta became interested in drug trafficking, weapons sales and public works and construction.","['twentieth', 'centuri', 'expans', 'calabria', 'began', 'process', 'industri', 'urban', 'late', '20th', 'centuri', ""'ndrangheta"", 'becam', 'interest', 'drug', 'traffick', 'weapon', 'sale', 'public', 'work', 'construct']"
+11,12,"THE PRESENT:
+
+-- In 2004, authorities uncovered an international drugs trafficking network involving gangs in South America, Australia, and Europe.","['present', '2004', 'author', 'uncov', 'intern', 'drug', 'traffick', 'network', 'involv', 'gang', 'south', 'america', 'australia', 'europ']"
+12,13,Drugs from Colombia were destined for countries such as Greece and Bulgaria.,"['drug', 'colombia', 'destin', 'countri', 'greec', 'bulgaria']"
+13,14,-- Italian officials estimated at the time that 80 percent of Europe's cocaine had arrived from Colombia via Gioia Tauro's docks in Reggio Calabria.,"['italian', 'offici', 'estim', 'time', '80', 'percent', 'europ', ""'s"", 'cocain', 'arriv', 'colombia', 'via', 'gioia', 'tauro', ""'s"", 'dock', 'reggio', 'calabria']"
+14,15,"-- Italian anti-organized crime agencies have estimated that the 'NDrangheta earns about $30 billion annually, mostly from illegal drugs, but also from ostensibly legal businesses such as construction, restaurants and supermarkets.","['italian', 'anti-organ', 'crime', 'agenc', 'estim', ""'ndrangheta"", 'earn', '30', 'billion', 'annual', 'mostli', 'illeg', 'drug', 'also', 'ostens', 'legal', 'busi', 'construct', 'restaur', 'supermarket']"
+15,16,"-- There are believed to be about 100 'Ndrangheta families in Calabria, who have become more successful than their Sicilian counterparts because their family ties are closer.","['believ', '100', ""'ndrangheta"", 'famili', 'calabria', 'becom', 'success', 'sicilian', 'counterpart', 'famili', 'tie', 'closer']"
+16,17,"E-mail to a friend
+
+Copyright 2007 Reuters.","['e-mail', 'friend', 'copyright', '2007', 'reuter']"
+17,18,"All rights reserved.This material may not be published, broadcast, rewritten, or redistributed.","['right', 'reserved.thi', 'materi', 'may', 'publish', 'broadcast', 'rewritten', 'redistribut']"

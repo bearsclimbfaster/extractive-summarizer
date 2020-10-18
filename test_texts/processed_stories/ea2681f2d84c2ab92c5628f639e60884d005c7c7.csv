@@ -1,0 +1,47 @@
+,Label,Sentence,Words
+0,1,"A little more than a month after taking office, President Obama addresses a joint session of Congress tonight, the 76th time a president has done so.","['littl', 'month', 'take', 'offic', 'presid', 'obama', 'address', 'joint', 'session', 'congress', 'tonight', '76th', 'time', 'presid', 'done']"
+1,2,Ronald Reagan was the only president to postpone his speech to Congress.,"['ronald', 'reagan', 'presid', 'postpon', 'speech', 'congress']"
+2,3,"Tonight's speech by Obama will not technically be a ""State of the Union"" address.","['tonight', ""'s"", 'speech', 'obama', 'technic', 'state', 'union', 'address']"
+3,4,"Since 1977, new presidents haven't called their first speech before Congress that.","['sinc', '1977', 'new', 'presid', ""n't"", 'call', 'first', 'speech', 'congress']"
+4,5,"When a ""State of the Union"" isn't »
+
+Check out other tidbits of presidential address/State of the Union history to quench your thirst for political trivia.","['state', 'union', ""n't"", '»', 'check', 'tidbit', 'presidenti', 'address/st', 'union', 'histori', 'quench', 'thirst', 'polit', 'trivia']"
+5,6,"The 2009 speech
+
+• Tonight's address will be the 220th State of the Union/""annual message"" in the nation's history.","['2009', 'speech', '•', 'tonight', ""'s"", 'address', '220th', 'state', 'union/', 'annual', 'messag', 'nation', ""'s"", 'histori']"
+6,7,• It will be the 76th time a U.S. president has delivered the address as a speech before Congress.,"['•', '76th', 'time', 'u.s.', 'presid', 'deliv', 'address', 'speech', 'congress']"
+7,8,• The last Democratic president to address a Democratic-controlled Congress was Bill Clinton in 1994.,"['•', 'last', 'democrat', 'presid', 'address', 'democratic-control', 'congress', 'bill', 'clinton', '1994']"
+8,9,"The history
+
+• Only U.S. presidents give solo addresses to joint SESSIONS of Congress; prominent Americans, foreign heads of state and other officials address joint MEETINGS of Congress.","['histori', '•', 'u.s.', 'presid', 'give', 'solo', 'address', 'joint', 'session', 'congress', 'promin', 'american', 'foreign', 'head', 'state', 'offici', 'address', 'joint', 'meet', 'congress']"
+9,10,"• The U.S. Constitution requires the president to brief Congress on the state of the union: ""He [the president] shall from time to time give to Congress information of the State of the Union and recommend to their Consideration such measures as he shall judge necessary and expedient.""","['•', 'u.s.', 'constitut', 'requir', 'presid', 'brief', 'congress', 'state', 'union', 'presid', 'shall', 'time', 'time', 'give', 'congress', 'inform', 'state', 'union', 'recommend', 'consider', 'measur', 'shall', 'judg', 'necessari', 'expedi']"
+10,11,• The idea for a State of the Union address originated from a British monarchy ritual.,"['•', 'idea', 'state', 'union', 'address', 'origin', 'british', 'monarchi', 'ritual']"
+11,12,The king would give a speech from the throne at the opening session of Parliament.,"['king', 'would', 'give', 'speech', 'throne', 'open', 'session', 'parliament']"
+12,13,"• George Washington delivered the first ""annual message"" on January 8, 1790, at Federal Hall in New York.","['•', 'georg', 'washington', 'deliv', 'first', 'annual', 'messag', 'januari', '8', '1790', 'feder', 'hall', 'new', 'york']"
+13,14,"• Washington and his successor, John Adams, delivered their annual messages as speeches before Congress.","['•', 'washington', 'successor', 'john', 'adam', 'deliv', 'annual', 'messag', 'speech', 'congress']"
+14,15,"Thomas Jefferson, the third president, discontinued this practice in 1801, saying the elaborate, formal ceremony (which included a ""president's throne"") too closely resembled a king addressing his subjects.","['thoma', 'jefferson', 'third', 'presid', 'discontinu', 'practic', '1801', 'say', 'elabor', 'formal', 'ceremoni', 'includ', 'presid', ""'s"", 'throne', 'close', 'resembl', 'king', 'address', 'subject']"
+15,16,"Instead, Jefferson's private secretary carried the written message to Capitol Hill, and it was read to the chamber by the clerk of the House.","['instead', 'jefferson', ""'s"", 'privat', 'secretari', 'carri', 'written', 'messag', 'capitol', 'hill', 'read', 'chamber', 'clerk', 'hous']"
+16,17,The practice of written annual messages continued for 112 years.,"['practic', 'written', 'annual', 'messag', 'continu', '112', 'year']"
+17,18,"• Woodrow Wilson resumed the practice of delivering the ""annual message"" as a speech before Congress on December 2, 1913.","['•', 'woodrow', 'wilson', 'resum', 'practic', 'deliv', 'annual', 'messag', 'speech', 'congress', 'decemb', '2', '1913']"
+18,19,Wilson's decision was controversial at the time.,"['wilson', ""'s"", 'decis', 'controversi', 'time']"
+19,20,"Almost every president since has delivered the address in person, rather than in writing.","['almost', 'everi', 'presid', 'sinc', 'deliv', 'address', 'person', 'rather', 'write']"
+20,21,"• The president's message was not referred to as a ""State of the Union"" until January 6, 1941 (Franklin Roosevelt's eighth address).","['•', 'presid', ""'s"", 'messag', 'refer', 'state', 'union', 'januari', '6', '1941', 'franklin', 'roosevelt', ""'s"", 'eighth', 'address']"
+21,22,"Before that, the ""State of the Union"" was generally referred to as the president's ""annual message.""","['state', 'union', 'gener', 'refer', 'presid', ""'s"", 'annual', 'messag']"
+22,23,"• Harry Truman delivered the longest State of the Union in 1946 at 25,000 words; Washington's 1790 address was the shortest at 833 words.","['•', 'harri', 'truman', 'deliv', 'longest', 'state', 'union', '1946', '25,000', 'word', 'washington', ""'s"", '1790', 'address', 'shortest', '833', 'word']"
+23,24,• The only postponement of a State of the Union occurred in 1986.,"['•', 'postpon', 'state', 'union', 'occur', '1986']"
+24,25,"Ronald Reagan was scheduled to deliver his address on January 28, 1986, the same day the space shuttle Challenger exploded.","['ronald', 'reagan', 'schedul', 'deliv', 'address', 'januari', '28', '1986', 'day', 'space', 'shuttl', 'challeng', 'explod']"
+25,26,The speech was delayed until February 4.,"['speech', 'delay', 'februari', '4']"
+26,27,"• The practice of inviting surprise guests to sit in the House Gallery began in 1982 when Reagan recognized Lenny Skutnick, a good Samaritan who pulled a survivor out of the frozen Potomac River in Washington, D.C., after an Air Florida plane crashed into the 14th Street Bridge.","['•', 'practic', 'invit', 'surpris', 'guest', 'sit', 'hous', 'galleri', 'began', '1982', 'reagan', 'recogn', 'lenni', 'skutnick', 'good', 'samaritan', 'pull', 'survivor', 'frozen', 'potomac', 'river', 'washington', 'd.c.', 'air', 'florida', 'plane', 'crash', '14th', 'street', 'bridg']"
+27,28,The guests sit in the first lady's box.,"['guest', 'sit', 'first', 'ladi', ""'s"", 'box']"
+28,29,"The logistics
+
+• At least one member of the president's Cabinet is designated not to attend the speech in person to ensure the presidential line of succession.","['logist', '•', 'least', 'one', 'member', 'presid', ""'s"", 'cabinet', 'design', 'attend', 'speech', 'person', 'ensur', 'presidenti', 'line', 'success']"
+29,30,The choice of which Cabinet member stays away rotates among the departments.,"['choic', 'cabinet', 'member', 'stay', 'away', 'rotat', 'among', 'depart']"
+30,31,"This year, Attorney General Eric Holder will not attend.","['year', 'attorney', 'gener', 'eric', 'holder', 'attend']"
+31,32,"• The State of the Union is delivered in the chamber of the House of Representatives, before members of both the House and the Senate, as well as the justices of the Supreme Court, the Cabinet and international dignitaries.","['•', 'state', 'union', 'deliv', 'chamber', 'hous', 'repres', 'member', 'hous', 'senat', 'well', 'justic', 'suprem', 'court', 'cabinet', 'intern', 'dignitari']"
+32,33,"• The president is escorted into the House chamber by members of both the House and the Senate, and his arrival is announced by the sergeant-at-arms of the House.","['•', 'presid', 'escort', 'hous', 'chamber', 'member', 'hous', 'senat', 'arriv', 'announc', 'sergeant-at-arm', 'hous']"
+33,34,The House speaker then introduces the president.,"['hous', 'speaker', 'introduc', 'presid']"
+34,35,• Seated behind the president during the address are the top members of each chamber of Congress: the president of the Senate (a.k.a.,"['•', 'seat', 'behind', 'presid', 'address', 'top', 'member', 'chamber', 'congress', 'presid', 'senat', 'a.k.a']"
+35,36,the vice president) and the speaker of the House.,"['vice', 'presid', 'speaker', 'hous']"
+36,37,"If there is no vice president, or if the vice president does not attend, the president pro tempore of the Senate sits in the vice president's seat.","['vice', 'presid', 'vice', 'presid', 'attend', 'presid', 'pro', 'tempor', 'senat', 'sit', 'vice', 'presid', ""'s"", 'seat']"
+37,38,"• Members of the Supreme Court usually attend the State of the Union (seated front-row, center), though they do not play an official role.","['•', 'member', 'suprem', 'court', 'usual', 'attend', 'state', 'union', 'seat', 'front-row', 'center', 'though', 'play', 'offici', 'role']"

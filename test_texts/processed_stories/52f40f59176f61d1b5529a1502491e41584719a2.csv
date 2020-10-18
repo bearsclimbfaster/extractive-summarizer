@@ -1,0 +1,65 @@
+,Label,Sentence,Words
+0,1,"Whether a monochromatic yellow or featuring every color in the Crayola box, these cites are guaranteed to brighten your day.","['whether', 'monochromat', 'yellow', 'featur', 'everi', 'color', 'crayola', 'box', 'cite', 'guarante', 'brighten', 'day']"
+1,2,"The word ""pretty"" isn't often associated with the shantytowns of Rio de Janeiro.","['word', 'pretti', ""n't"", 'often', 'associ', 'shantytown', 'rio', 'de', 'janeiro']"
+2,3,"But gazing across the hills toward the notorious Santa Maria favela, you might be pleasantly surprised by the burst of colors, the result of a recent social art project launched by Dutch design duo Haas&Hahn.","['gaze', 'across', 'hill', 'toward', 'notori', 'santa', 'maria', 'favela', 'might', 'pleasantli', 'surpris', 'burst', 'color', 'result', 'recent', 'social', 'art', 'project', 'launch', 'dutch', 'design', 'duo', 'haa', 'hahn']"
+3,4,"Pockets of rainbow-bright residences and streets pop up in cities across the globe; some are contrived, like Haas&Hahn's favela project and the commissioning of a blue-painted town in southern Spain by Sony Pictures to promote the Smurfs 3D movie (no, really).","['pocket', 'rainbow-bright', 'resid', 'street', 'pop', 'citi', 'across', 'globe', 'contriv', 'like', 'haa', 'hahn', ""'s"", 'favela', 'project', 'commiss', 'blue-paint', 'town', 'southern', 'spain', 'soni', 'pictur', 'promot', 'smurf', '3d', 'movi', 'realli']"
+4,5,"Others, like the eclectic homes and murals of ValparaÃ­so, Chile, are more organic, inspired by the creative spirits of the residents that inhabit them.","['other', 'like', 'eclect', 'home', 'mural', 'valparaã\xadso', 'chile', 'organ', 'inspir', 'creativ', 'spirit', 'resid', 'inhabit']"
+5,6,"From a monochromatic Indian city painted pink for a visiting English prince to the candy-colored waterfront of Miami's South Beach, these landscapes bring a new level of vibrancy to austere deserts, mountains, slums and already sparkling aqua waters.","['monochromat', 'indian', 'citi', 'paint', 'pink', 'visit', 'english', 'princ', 'candy-color', 'waterfront', 'miami', ""'s"", 'south', 'beach', 'landscap', 'bring', 'new', 'level', 'vibranc', 'auster', 'desert', 'mountain', 'slum', 'alreadi', 'sparkl', 'aqua', 'water']"
+6,7,"Travel + Leisure: World's most beautiful canal cities
+
+Jaipur, India
+
+Now this is a royal welcome: Maharaja Sawai Ram Singh had the whole city daubed in pink for the arrival of Edward, the Prince of Wales, during a diplomatic visit in 1853.","['travel', 'leisur', 'world', ""'s"", 'beauti', 'canal', 'citi', 'jaipur', 'india', 'royal', 'welcom', 'maharaja', 'sawai', 'ram', 'singh', 'whole', 'citi', 'daub', 'pink', 'arriv', 'edward', 'princ', 'wale', 'diplomat', 'visit', '1853']"
+7,8,The Rajasthani capital retains its signature rose-tinted hue across broad boulevards and historic buildings like the Hawa Mahal (Palace of the Winds).,"['rajasthani', 'capit', 'retain', 'signatur', 'rose-tint', 'hue', 'across', 'broad', 'boulevard', 'histor', 'build', 'like', 'hawa', 'mahal', 'palac', 'wind']"
+8,9,"Chefchaouen, Morocco
+
+A four-hour drive from the bustling city of Fez brings you to this village high in the Rif Mountains, known for its labyrinthine medina bathed entirely in shades of blue.","['chefchaouen', 'morocco', 'four-hour', 'drive', 'bustl', 'citi', 'fez', 'bring', 'villag', 'high', 'rif', 'mountain', 'known', 'labyrinthin', 'medina', 'bath', 'entir', 'shade', 'blue']"
+9,10,"The area was once a refuge for Spanish Jews who, fleeing the Inquisition in the 1500s, found a harmonious haven in Chefchaouen.","['area', 'refug', 'spanish', 'jew', 'flee', 'inquisit', '1500', 'found', 'harmoni', 'chefchaouen']"
+10,11,"Though most have now migrated to Israel, the warren of turquoise alleys remains as their legacy.","['though', 'migrat', 'israel', 'warren', 'turquois', 'alley', 'remain', 'legaci']"
+11,12,"Travel + Leisure: World's strangest towns
+
+Izamal, Mexico
+
+Mexico's tourism secretary designated Izamal, in the Yucatan region, a pueblo magico (magical city), and it's easy to see why.","['travel', 'leisur', 'world', ""'s"", 'strangest', 'town', 'izam', 'mexico', 'mexico', ""'s"", 'tourism', 'secretari', 'design', 'izam', 'yucatan', 'region', 'pueblo', 'magico', 'magic', 'citi', ""'s"", 'easi', 'see']"
+12,13,The colonial buildings are awash in a vivid yellow that gives the monochromatic town a sunny look whatever the weather.,"['coloni', 'build', 'awash', 'vivid', 'yellow', 'give', 'monochromat', 'town', 'sunni', 'look', 'whatev', 'weather']"
+13,14,"Take a horse-and-buggy ride around the cobblestone streets past marigold churches, government buildings and the city's centerpiece: the historic 16th-century Basilica of San Antonio de Padua.","['take', 'horse-and-buggi', 'ride', 'around', 'cobbleston', 'street', 'past', 'marigold', 'church', 'govern', 'build', 'citi', ""'s"", 'centerpiec', 'histor', '16th-centuri', 'basilica', 'san', 'antonio', 'de', 'padua']"
+14,15,"Bo-Kaap, Cape Town
+
+No, that's not a rainbow at the foot of Signal Hill.","['bo-kaap', 'cape', 'town', ""'s"", 'rainbow', 'foot', 'signal', 'hill']"
+15,16,"The pops of color making their way up the slopes are typical of Cape Town's historic Muslim quarter, where the mosques and homes make up a splashy kaleidoscope of aquamarine, fuchsia and lime.","['pop', 'color', 'make', 'way', 'slope', 'typic', 'cape', 'town', ""'s"", 'histor', 'muslim', 'quarter', 'mosqu', 'home', 'make', 'splashi', 'kaleidoscop', 'aquamarin', 'fuchsia', 'lime']"
+16,17,"Its Cape Malay community is descended from slaves brought over by the Dutch from Southeast Asia in the 1600s, and residents began painting their homes to celebrate the end of apartheid.","['cape', 'malay', 'commun', 'descend', 'slave', 'brought', 'dutch', 'southeast', 'asia', '1600', 'resid', 'began', 'paint', 'home', 'celebr', 'end', 'apartheid']"
+17,18,"Travel + Leisure: World's strangest bridges
+
+Balat, Istanbul
+
+Once Istanbul's old Jewish quarter, Balat has attracted a more diverse range of residents over time.","['travel', 'leisur', 'world', ""'s"", 'strangest', 'bridg', 'balat', 'istanbul', 'istanbul', ""'s"", 'old', 'jewish', 'quarter', 'balat', 'attract', 'divers', 'rang', 'resid', 'time']"
+18,19,"Yet the architecture takes you back to a lost era; it's easy to spend a few hours wandering, preferably with camera in hand, to capture the dilapidated yellow and pink buildings adorned by billowing red or green curtains, all sparkling against the cerulean sky.","['yet', 'architectur', 'take', 'back', 'lost', 'era', ""'s"", 'easi', 'spend', 'hour', 'wander', 'prefer', 'camera', 'hand', 'captur', 'dilapid', 'yellow', 'pink', 'build', 'adorn', 'billow', 'red', 'green', 'curtain', 'sparkl', 'cerulean', 'sky']"
+19,20,"Juzcar, Spain
+
+Among the iconic White Towns of Andalusia, Juzcar looks so comically out of place that you'd be forgiven for wondering if it's out of a cartoon -- in fact, you'd be correct.","['juzcar', 'spain', 'among', 'icon', 'white', 'town', 'andalusia', 'juzcar', 'look', 'comic', 'place', ""'d"", 'forgiven', 'wonder', ""'s"", 'cartoon', 'fact', ""'d"", 'correct']"
+20,21,"Until recently, it, too, was a whitewashed village; in 2011, Hollywood executives inquired whether the residents would paint their homes blue for a promotional blitz surrounding a Smurfs movie.","['recent', 'whitewash', 'villag', '2011', 'hollywood', 'execut', 'inquir', 'whether', 'resid', 'would', 'paint', 'home', 'blue', 'promot', 'blitz', 'surround', 'smurf', 'movi']"
+21,22,"Afterward, Sony offered to paint the town back, but aware of the skyrocketing tourist numbers that resulted from the gimmick, the 220 citizens voted to keep it blue.","['afterward', 'soni', 'offer', 'paint', 'town', 'back', 'awar', 'skyrocket', 'tourist', 'number', 'result', 'gimmick', '220', 'citizen', 'vote', 'keep', 'blue']"
+22,23,"South Beach, Miami
+
+Neon lights, frothy facades, quirky patterned lifeguard stands, art deco buildings -- driving along Ocean Drive in Miami is a retro trip back to an era when Technicolor was just bursting onto screens.","['south', 'beach', 'miami', 'neon', 'light', 'frothi', 'facad', 'quirki', 'pattern', 'lifeguard', 'stand', 'art', 'deco', 'build', 'drive', 'along', 'ocean', 'drive', 'miami', 'retro', 'trip', 'back', 'era', 'technicolor', 'burst', 'onto', 'screen']"
+23,24,"Flamingo pinks and tropical greens flank the white sand on one side, with azure waters on the other.","['flamingo', 'pink', 'tropic', 'green', 'flank', 'white', 'sand', 'one', 'side', 'azur', 'water']"
+24,25,"Rio de Janeiro
+
+In 2010, Dutch artists Haas&Hahn schemed to turn a favela in Rio de Janeiro into a giant canvas for their third project in that city's slums (favelapainting.com).","['rio', 'de', 'janeiro', '2010', 'dutch', 'artist', 'haa', 'hahn', 'scheme', 'turn', 'favela', 'rio', 'de', 'janeiro', 'giant', 'canva', 'third', 'project', 'citi', ""'s"", 'slum', 'favelapainting.com']"
+25,26,"Enlisting the help of local youths, they converted the homes of Favela Santa Maria into a rainbow of staggering proportions, composed of rays in myriad shades radiating across the facades.","['enlist', 'help', 'local', 'youth', 'convert', 'home', 'favela', 'santa', 'maria', 'rainbow', 'stagger', 'proport', 'compos', 'ray', 'myriad', 'shade', 'radiat', 'across', 'facad']"
+26,27,"Willemstad, Curacao
+
+Legend has it that in the 1800s, when the Dutch ruled Curacao, the then-governor attributed the migraines that afflicted him to the powerful Caribbean sun reflecting off the colony's stark walls.","['willemstad', 'curacao', 'legend', '1800', 'dutch', 'rule', 'curacao', 'then-governor', 'attribut', 'migrain', 'afflict', 'power', 'caribbean', 'sun', 'reflect', 'coloni', ""'s"", 'stark', 'wall']"
+27,28,The result?,['result']
+28,29,An official decree that commanded residents to paint the structures anything but white.,"['offici', 'decre', 'command', 'resid', 'paint', 'structur', 'anyth', 'white']"
+29,30,"Today, this World Heritage site owes its distinctive pastel shades to one man's maladies.","['today', 'world', 'heritag', 'site', 'owe', 'distinct', 'pastel', 'shade', 'one', 'man', ""'s"", 'maladi']"
+30,31,"Vernazza, Italy
+
+These postcard-perfect pastel pink, lemon yellow and sea green facades were hit by devastating floods in 2011.","['vernazza', 'itali', 'postcard-perfect', 'pastel', 'pink', 'lemon', 'yellow', 'sea', 'green', 'facad', 'hit', 'devast', 'flood', '2011']"
+31,32,"While the damage to Vernazza and the four other scenic waterfront villages that make up Cinque Terre was severe, efforts are under way to restore, rebuild -- and repaint.","['damag', 'vernazza', 'four', 'scenic', 'waterfront', 'villag', 'make', 'cinqu', 'terr', 'sever', 'effort', 'way', 'restor', 'rebuild', 'repaint']"
+32,33,See more colorful cities on Travel + Leisure.,"['see', 'color', 'citi', 'travel', 'leisur']"
+33,34,Planning a getaway?,"['plan', 'getaway']"
+34,35,"Don't miss Travel + Leisure's guide to the World's Best Hotels
+
+Copyright 2012 American Express Publishing Corporation.","[""n't"", 'miss', 'travel', 'leisur', ""'s"", 'guid', 'world', ""'s"", 'best', 'hotel', 'copyright', '2012', 'american', 'express', 'publish', 'corpor']"
+35,36,All rights reserved.,"['right', 'reserv']"

@@ -1,0 +1,83 @@
+,Label,Sentence,Words
+0,1,"Last summer an EF3 tornado ripped through my town, Monson, Massachusetts.","['last', 'summer', 'ef3', 'tornado', 'rip', 'town', 'monson', 'massachusett']"
+1,2,There is a very particular feeling of vulnerability you experience in such a violent storm.,"['particular', 'feel', 'vulner', 'experi', 'violent', 'storm']"
+2,3,"You crouch in a dark basement, the windows explode inwards, and you have no idea if the groaning beams will hold.","['crouch', 'dark', 'basement', 'window', 'explod', 'inward', 'idea', 'groan', 'beam', 'hold']"
+3,4,"We had no directly storm-related deaths in Monson, despite the rarity of a tornado in our region.","['directli', 'storm-rel', 'death', 'monson', 'despit', 'rariti', 'tornado', 'region']"
+4,5,"We were prepared, whether through federal programs or memory of the movie Twister, to shelter and ride out the storm.","['prepar', 'whether', 'feder', 'program', 'memori', 'movi', 'twister', 'shelter', 'ride', 'storm']"
+5,6,The tornado took its toll -- more than 270 homes in Monson sustained damage.,"['tornado', 'took', 'toll', '270', 'home', 'monson', 'sustain', 'damag']"
+6,7,"My own was rendered unlivable, our family displaced for a year.","['render', 'unliv', 'famili', 'displac', 'year']"
+7,8,"We weren't ready for recovery, however.","[""n't"", 'readi', 'recoveri', 'howev']"
+8,9,"During a painful period, our community learned how to manage volunteers and donations, track data, apply for grants and request aid through official channels.","['pain', 'period', 'commun', 'learn', 'manag', 'volunt', 'donat', 'track', 'data', 'appli', 'grant', 'request', 'aid', 'offici', 'channel']"
+9,10,"We bumbled through the early days, doing things wrong and wasting time.","['bumbl', 'earli', 'day', 'thing', 'wrong', 'wast', 'time']"
+10,11,"Eventually a system emerged, coordinated largely by the First Church of Monson and a few dedicated local volunteers.","['eventu', 'system', 'emerg', 'coordin', 'larg', 'first', 'church', 'monson', 'dedic', 'local', 'volunt']"
+11,12,But why did we have to build that system on our own?,"['build', 'system']"
+12,13,"Though we were prepared to survive the storm, why hadn't someone prepared us for recovery?","['though', 'prepar', 'surviv', 'storm', ""n't"", 'someon', 'prepar', 'us', 'recoveri']"
+13,14,"Baffled by the acute lack of community recovery tools, my sister and I decided to build them.","['baffl', 'acut', 'lack', 'commun', 'recoveri', 'tool', 'sister', 'decid', 'build']"
+14,15,We put together a team and built an in-kind resource management system for untrained local organizers.,"['put', 'togeth', 'team', 'built', 'in-kind', 'resourc', 'manag', 'system', 'untrain', 'local', 'organ']"
+15,16,"We have been working with communities and emergency managers across the country to deploy the system through our company, Recovers.org.","['work', 'commun', 'emerg', 'manag', 'across', 'countri', 'deploy', 'system', 'compani', 'recovers.org']"
+16,17,"TED.com: The oil spill's unseen culprits, victims
+
+Most disaster preparedness programs concentrate on preparing residents to take care of themselves and their families for the first 72 hours following a disaster.","['ted.com', 'oil', 'spill', ""'s"", 'unseen', 'culprit', 'victim', 'disast', 'prepared', 'program', 'concentr', 'prepar', 'resid', 'take', 'care', 'famili', 'first', '72', 'hour', 'follow', 'disast']"
+17,18,A less frequent focus is how to prepare local residents to take care of their communities during the months and years of recovery that will follow.,"['less', 'frequent', 'focu', 'prepar', 'local', 'resid', 'take', 'care', 'commun', 'month', 'year', 'recoveri', 'follow']"
+18,19,Organizing at the local level does not require a membership card -- there are things each of us can do locally to speed recovery.,"['organ', 'local', 'level', 'requir', 'membership', 'card', 'thing', 'us', 'local', 'speed', 'recoveri']"
+19,20,"In the first few days post-disaster, scores of organizations will sweep in and out of an affected area, assessing damage, providing emergency aid, mobilizing teams of volunteers.","['first', 'day', 'post-disast', 'score', 'organ', 'sweep', 'affect', 'area', 'assess', 'damag', 'provid', 'emerg', 'aid', 'mobil', 'team', 'volunt']"
+20,21,"In most areas, however, there is an often-overlooked community response working alongside these organizations.","['area', 'howev', 'often-overlook', 'commun', 'respons', 'work', 'alongsid', 'organ']"
+21,22,These folks are usually poorly equipped and hastily organized.,"['folk', 'usual', 'poorli', 'equip', 'hastili', 'organ']"
+22,23,Their qualifications?,['qualif']
+23,24,They live here.,['live']
+24,25,They were here before the aid.,['aid']
+25,26,They will be here meeting needs when everyone else goes home.,"['meet', 'need', 'everyon', 'els', 'goe', 'home']"
+26,27,Disaster recovery is changing in the United States.,"['disast', 'recoveri', 'chang', 'unit', 'state']"
+27,28,"While large aid organizations like the Red Cross and Salvation Army can mobilize massive amounts of crucial resources, they often do not manage spontaneous donations, track local volunteer hours, or stay long term.","['larg', 'aid', 'organ', 'like', 'red', 'cross', 'salvat', 'armi', 'mobil', 'massiv', 'amount', 'crucial', 'resourc', 'often', 'manag', 'spontan', 'donat', 'track', 'local', 'volunt', 'hour', 'stay', 'long', 'term']"
+28,29,"It is the local church, or library, or the city manager that ends up matching those with needs with aid long term.","['local', 'church', 'librari', 'citi', 'manag', 'end', 'match', 'need', 'aid', 'long', 'term']"
+29,30,"They do it on Post-It notes, or Facebook, but they get it done.","['post-it', 'note', 'facebook', 'get', 'done']"
+30,31,Ordinary people (read: you) are realizing that they are both allowed and are needed to respond.,"['ordinari', 'peopl', 'read', 'realiz', 'allow', 'need', 'respond']"
+31,32,"TED.com: Reporting crisis via texting
+
+Community-powered recovery is simple, and it happens everywhere.","['ted.com', 'report', 'crisi', 'via', 'text', 'community-pow', 'recoveri', 'simpl', 'happen', 'everywher']"
+32,33,"I point to tornado recovery in Joplin, Missouri; the Broadmoor neighborhood in New Orleans following Katrina; and the small town of Forney, Texas, after an EF3 tornado.","['point', 'tornado', 'recoveri', 'joplin', 'missouri', 'broadmoor', 'neighborhood', 'new', 'orlean', 'follow', 'katrina', 'small', 'town', 'forney', 'texa', 'ef3', 'tornado']"
+33,34,"In each area, local efforts were instrumental to overall recovery.","['area', 'local', 'effort', 'instrument', 'overal', 'recoveri']"
+34,35,"The problem here is one of planning: Each of these community efforts was seat-of-the-pants, as they'll readily admit.","['problem', 'one', 'plan', 'commun', 'effort', 'seat-of-the-p', ""'ll"", 'readili', 'admit']"
+35,36,"If community in each case was such an integral part of the recovery, why weren't they written into the plan?","['commun', 'case', 'integr', 'part', 'recoveri', ""n't"", 'written', 'plan']"
+36,37,"Beyond local labor, the most neglected facet of disaster recovery is local data.","['beyond', 'local', 'labor', 'neglect', 'facet', 'disast', 'recoveri', 'local', 'data']"
+37,38,Outside aid organizations usually activate their own resources and trained volunteers.,"['outsid', 'aid', 'organ', 'usual', 'activ', 'resourc', 'train', 'volunt']"
+38,39,They will often turn away spontaneous untrained volunteers or unsolicited donation items.,"['often', 'turn', 'away', 'spontan', 'untrain', 'volunt', 'unsolicit', 'donat', 'item']"
+39,40,"Unfortunately, this also means that unless local organizers are efficiently using these resources, they go to waste.","['unfortun', 'also', 'mean', 'unless', 'local', 'organ', 'effici', 'use', 'resourc', 'go', 'wast']"
+40,41,"After a disaster, you normally have roughly seven days (fewer in small disasters) of media interest in which you can collect aid.","['disast', 'normal', 'roughli', 'seven', 'day', 'fewer', 'small', 'disast', 'media', 'interest', 'collect', 'aid']"
+41,42,"If you don't have a system for recording the names and contact information of people who would like to donate or volunteer until Week 2, you've missed out on perhaps 50% of all resources that will ever be reported.","[""n't"", 'system', 'record', 'name', 'contact', 'inform', 'peopl', 'would', 'like', 'donat', 'volunt', 'week', '2', ""'ve"", 'miss', 'perhap', '50', 'resourc', 'ever', 'report']"
+42,43,"To aid your community, you have to plan ahead, not just for the first 72 hours, but for the next few years of needs.","['aid', 'commun', 'plan', 'ahead', 'first', '72', 'hour', 'next', 'year', 'need']"
+43,44,TED.com: What's left to explore?,"['ted.com', ""'s"", 'left', 'explor']"
+44,45,"As we begin to respond to the damage from Hurricane Isaac, these are things to keep in mind.","['begin', 'respond', 'damag', 'hurrican', 'isaac', 'thing', 'keep', 'mind']"
+45,46,"New Orleans has seen this before, and has systems in place to accept volunteers and donations.","['new', 'orlean', 'seen', 'system', 'place', 'accept', 'volunt', 'donat']"
+46,47,"Recovery from Isaac will not be easy, but it will be much faster because they are ""prepared"" to handle resources.","['recoveri', 'isaac', 'easi', 'much', 'faster', 'prepar', 'handl', 'resourc']"
+47,48,"Here are a few tips for getting involved at the community level:
+
+Community Organizers:
+
+• Get smart: It is not as simple as setting up a shade tent, or just directing people where to go.","['tip', 'get', 'involv', 'commun', 'level', 'commun', 'organ', '•', 'get', 'smart', 'simpl', 'set', 'shade', 'tent', 'direct', 'peopl', 'go']"
+48,49,Sending a 17-year-old into the woods with a chainsaw is asking for a lawsuit.,"['send', '17-year-old', 'wood', 'chainsaw', 'ask', 'lawsuit']"
+49,50,"If you are going to get involved with recovery, you have to do so responsibly, with the safety and well-being of both survivors and volunteers as your priority.","['go', 'get', 'involv', 'recoveri', 'respons', 'safeti', 'well-b', 'survivor', 'volunt', 'prioriti']"
+50,51,• Get a system: Speak to your area's emergency manager about what kind of information they will need you to collect.,"['•', 'get', 'system', 'speak', 'area', ""'s"", 'emerg', 'manag', 'kind', 'inform', 'need', 'collect']"
+51,52,"If they need to know how many hours were worked on Carpenter Street, you need to be tracking that information!","['need', 'know', 'mani', 'hour', 'work', 'carpent', 'street', 'need', 'track', 'inform']"
+52,53,• Use the web: But don't expect everyone to.,"['•', 'use', 'web', ""n't"", 'expect', 'everyon']"
+53,54,"You may be a Twitter whiz, but you need to be prepared to spread information on a regular web page, paper, or by word of mouth.","['may', 'twitter', 'whiz', 'need', 'prepar', 'spread', 'inform', 'regular', 'web', 'page', 'paper', 'word', 'mouth']"
+54,55,You can help your emergency manager by spreading their information through your social media stream.,"['help', 'emerg', 'manag', 'spread', 'inform', 'social', 'media', 'stream']"
+55,56,"Affected Households:
+
+• Document everything: from photos of the damage, to the names of the caseworkers you speak to in different organizations -- and keep records of what is going on.","['affect', 'household', '•', 'document', 'everyth', 'photo', 'damag', 'name', 'casework', 'speak', 'differ', 'organ', 'keep', 'record', 'go']"
+56,57,"• Look for help proactively: Many homeowners spend out insurance money on things like toiletries, while boxes of donated goods sit unused in local churches.","['•', 'look', 'help', 'proactiv', 'mani', 'homeown', 'spend', 'insur', 'money', 'thing', 'like', 'toiletri', 'box', 'donat', 'good', 'sit', 'unus', 'local', 'church']"
+57,58,"Volunteers:
+
+• Don't be a hero: Your intentions are good, but no one on the ground in the affected community is ready for you in the first 72 hours post-disaster.","['volunt', '•', ""n't"", 'hero', 'intent', 'good', 'one', 'ground', 'affect', 'commun', 'readi', 'first', '72', 'hour', 'post-disast']"
+58,59,"If you show up too early, you could even be endangering yourself.","['show', 'earli', 'could', 'even', 'endang']"
+59,60,• Stand and be counted: The dollar value of hours you work can count toward the amount of aid FEMA grants the community.,"['•', 'stand', 'count', 'dollar', 'valu', 'hour', 'work', 'count', 'toward', 'amount', 'aid', 'fema', 'grant', 'commun']"
+60,61,"If you want to volunteer, make sure you are working with an organizer that tracks your hours.","['want', 'volunt', 'make', 'sure', 'work', 'organ', 'track', 'hour']"
+61,62,"Donors:
+
+• Listen before you bring: Are you trying to donate a refrigerator?","['donor', '•', 'listen', 'bring', 'tri', 'donat', 'refriger']"
+62,63,Does the church you're bringing it to really have space to store it until it is needed?,"['church', ""'re"", 'bring', 'realli', 'space', 'store', 'need']"
+63,64,"Call ahead and ask what is needed, or check out local information pages.","['call', 'ahead', 'ask', 'need', 'check', 'local', 'inform', 'page']"
+64,65,"• Protect yourself: If you post what you would like to donate publicly, everyone sees it.","['•', 'protect', 'post', 'would', 'like', 'donat', 'publicli', 'everyon', 'see']"
+65,66,"For example, you may have just informed the world that you have an extra big screen TV and fine china lying around in your basement.","['exampl', 'may', 'inform', 'world', 'extra', 'big', 'screen', 'tv', 'fine', 'china', 'lie', 'around', 'basement']"
+66,67,Find a local organization that needs the items and donate through them.,"['find', 'local', 'organ', 'need', 'item', 'donat']"
+67,68,The opinions expressed in this commentary are solely those of Caitria O'Neill.,"['opinion', 'express', 'commentari', 'sole', 'caitria', ""o'neil""]"

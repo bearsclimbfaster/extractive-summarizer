@@ -1,0 +1,11 @@
+,Label,Sentence,Words
+0,1,"Passengers were asked to help pay for fuel on a Beirut-bound Air France flight that had to be diverted to Syria this week, the airline said.","['passeng', 'ask', 'help', 'pay', 'fuel', 'beirut-bound', 'air', 'franc', 'flight', 'divert', 'syria', 'week', 'airlin', 'said']"
+1,2,"In the end, passengers did not have to go into their pockets to help fuel the plane, the airline said.","['end', 'passeng', 'go', 'pocket', 'help', 'fuel', 'plane', 'airlin', 'said']"
+2,3,"""Air France confirms that it asked passengers if they had cash, as payments for fuel can only be made in cash in Damascus,"" an Air France statement said.","['air', 'franc', 'confirm', 'ask', 'passeng', 'cash', 'payment', 'fuel', 'made', 'cash', 'damascu', 'air', 'franc', 'statement', 'said']"
+3,4,"""Ultimately, Air France could pay the full amount itself, and passengers did not have to advance any cash.""","['ultim', 'air', 'franc', 'could', 'pay', 'full', 'amount', 'passeng', 'advanc', 'cash']"
+4,5,The incident occurred Wednesday on a flight from Paris to Beirut.,"['incid', 'occur', 'wednesday', 'flight', 'pari', 'beirut']"
+5,6,"Because of security concerns in Beirut, the plane was scheduled to divert to Jordan.","['secur', 'concern', 'beirut', 'plane', 'schedul', 'divert', 'jordan']"
+6,7,"The plane could not secure a flight path to Amman, so instead, the crew decided to land in Damascus, Air France said.","['plane', 'could', 'secur', 'flight', 'path', 'amman', 'instead', 'crew', 'decid', 'land', 'damascu', 'air', 'franc', 'said']"
+7,8,It was during the two-hour stopover in the Syrian capital that passengers were asked for gas money.,"['two-hour', 'stopov', 'syrian', 'capit', 'passeng', 'ask', 'ga', 'money']"
+8,9,"After Air France figured out the issue, the passengers were flown to Cyprus and then taken to Beirut on Thursday.","['air', 'franc', 'figur', 'issu', 'passeng', 'flown', 'cypru', 'taken', 'beirut', 'thursday']"
+9,10,"""Air France apologizes to its customers for the inconvenience,"" the airline said.","['air', 'franc', 'apolog', 'custom', 'inconveni', 'airlin', 'said']"
